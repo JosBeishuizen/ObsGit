@@ -23,3 +23,4 @@ sort by priority
 - 14:12 Nu verwacht ik problemen aan de andere kant. 
 - 14:12 Hier is alles rustig 
 - 18:27 Weer thuis 
+- 19:04 Nu de afwas doen 
