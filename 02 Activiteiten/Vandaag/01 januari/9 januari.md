@@ -20,3 +20,5 @@ sort by priority
 ```
 
 - 14:10 Gaat toch niet helemaal goed 
+- 14:12 Nu verwacht ik problemen aan de andere kant. 
+- 14:12 Hier is alles rustig 
