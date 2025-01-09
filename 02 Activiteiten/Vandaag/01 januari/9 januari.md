@@ -18,9 +18,10 @@ hide edit button
 hide postpone button 
 sort by priority 
 ```
-
-- 14:10 Gaat toch niet helemaal goed 
-- 14:12 Nu verwacht ik problemen aan de andere kant. 
-- 14:12 Hier is alles rustig 
-- 18:27 Weer thuis 
-- 19:04 Nu de afwas doen 
+14:10 Gaat toch niet helemaal goed 
+14:12 Nu verwacht ik problemen aan de andere kant. 
+14:12 Hier is alles rustig 
+18:27 Weer thuis 
+19:04 Nu de afwas doen 
+### 19:16 Nu afdrogen  
+### 19:20 Nog een keer pushen 

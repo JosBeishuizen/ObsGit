@@ -11,11 +11,11 @@
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "03 Geheugen/Digitaal/Templates/Daily.md"
+        "template": "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate.md"
       },
       "format": {
         "enabled": true,
-        "format": "<% tp.date.now(\"- HH:mm\") %> {{value}} "
+        "format": "### <% tp.date.now(\"- HH:mm\") %> {{value}} "
       },
       "insertAfter": {
         "enabled": false,
