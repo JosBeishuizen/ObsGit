@@ -1,0 +1,6 @@
+# 5 Vieren
+Vieren doe je samen met anderen. Parijs, 21 juni, op een pleintje. Ger Groot: de waarde van ritueel en liturgie ligt in het handelen zelf.  In weerwil van de onverzettelijk aanwezige realiteit. Credo quia absurdum. Maar Theo de Boer: Zonder gebaar vervluchtigt het geloof van de verlichte geest tot lichtgelovigheid. Maar zonder zoiets als de kracht van de betekenis versteent het gebaar. W.H. Auden: Alleen in riten kunnen we / onze eigenaardigheden laten varen / en werkelijk heel worden. 
+Vieringen zijn essentieel voor mijn geloof. 
+Een soort draaimolen: wildheid en overgave, vormvastheid en controle. Richting katharsis. Voorop staat oprechte betrokkenheid, kawwana. Hopen op de ontmoeting die ons optilt en verlicht. De woorden, samenzang, gebed, bijbellezing. Preek: authentieke en persoonlijke inbreng van predikanten. De ideale predikant heeft iets van een dichter. Stiltes, zegening. 
+
+Dichterlijke taal is belangrijk (!). Uitleg van psalm 57:8-9. Verlangen, verwondering, vertrouwen. Mooi citaat van Frans Kellendonk: (De grote woorden van de traditie,) "die kwaadaardig worden zodra ze een absoluut bestaan gaan leiden. De religie van de hemel moet een religie van de aarde worden". 

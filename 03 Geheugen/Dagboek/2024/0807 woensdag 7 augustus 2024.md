@@ -1,0 +1,4 @@
+# 0807 woensdag 7 augustus 2024
+Het verhaal van Yosl Rakover Talks to God is een afscheidsbrief van een laatste overlevende in een kapotgeschoten gebouw in het getto van Warschau. Yosl zegt tegen God: Ook al heb je er alles aan gedaan om mij van het geloof in jou af te brengen, toch blijf ik in jou en je Tora geloven. Een prachtig en moedig standpunt. Lijkt op Etty Hillesum en op dokter Rieux in La Peste. Vaclav Havel zegt: Hoop is niet hetzelfde als optimisme. Het is niet de overtuiging dat iets goed afloopt, maar de zekerheid dat iets zin heeft, ongeacht hoe het afloopt.
+
+Eigenlijk ligt daar het scenario voor hoe te leven. Ik zou kunnen proberen om steeds opnieuw voor de hoop te kunnen kiezen.

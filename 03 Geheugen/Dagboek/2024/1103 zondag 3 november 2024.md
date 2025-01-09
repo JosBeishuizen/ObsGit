@@ -1,0 +1,2 @@
+# 1103 zondag 3 november 2024
+Dat was een hele dag. Vanochtend een mooie dienst ter gelegenheid van Allerzielen. Gezellige lunch met BLT A in dat tentje in de Prinsenstraat. Vanmiddag de Huub Oosterhuislezing door Colet van der Ven. Prachtige combinatie van muziek en herinneringen aan Huub.

@@ -1,0 +1,4 @@
+# 0210 maandag 10 februari 2003
+Kristien Hemmerechts heeft haar studenten opgedragen om elke dag een half uur te schrijven. Lijkt mij heel erg veel, tenminste als het om een dagboek gaat. Afgelopen weekend in Ootmarsum doorgebracht, hotel De Wiemsel, samen met alle broers en schoonzussen en pa en ma Van Remmen. Was een afscheid van ma? Ton en Geert hebben er een hard hoofd in. Anne, Paul en Richard hopen op een wat langere periode van afscheid nemen. Ma was wel erg los van plaats en tijd. Nam niet erg deel aan het gesprek, soms een enigszins verbaasde blik. Kennelijk heeft ze ervoor gekozen om niet al teveel vragen te stellen. Pa is wel verlegen met de situatie en maakte niet zo'n geruste indruk. Verder was het gezellig en warm. Ieder wil graag een herhaling in Huis ter Duin.
+
+Toevallig hadden wij dezelfde kamers als vader en moeder in 1987 hadden toen ze ons tijdens de vakantie hebben opgezocht. De laatste keer dat we vader hebben gesproken, voor Geerts bruiloft.

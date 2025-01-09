@@ -1,0 +1,6 @@
+# 0102 donderdag 2 januari 2003
+Die spreuk van Nelson Mandela, dat angst niet gekoppeld is aan zwakheid maar aan kracht, die spreekt enerzijds erg aan, maar is anderzijds toch ook wel discutabel. Hoe vaak word je niet geconfronteerd met je eigen zwakheid, veel vaker dan met je eigen kracht. De redenering zou dan luiden: uit angst voor je eigen kracht ga je onderpresteren en word je getuige van je eigen zwakheid. Zoals een hoogbegaafd kind in de klas onderpresteert om niet op te vallen. Tsja....
+
+Nu eerst koffie drinken en Cathrien en Tobias naar Egmond brengen. Ze willen daar twee nachten logeren. Hoe moet dat gaan? Ik kan me voorstellen dat ze er zin in hebben. Maar we kunnen problemen met PWN krijgen, etc. etc. Kracht of zwakheid? Uiteindelijk nemen de gebeurtenissen toch veelal hun eigen loop. Uit dat boek van de creatiespiraal herinner ik me de planningstechniek van het niet plannen: eens kijken wat ik nu ga doen.... Kracht of zwakheid?
+
+Vond in mijn dagboek een mooie analyse van De Creszenzo over het verschil tussen stoïcijnen en epicuristen.

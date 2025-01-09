@@ -1,0 +1,2 @@
+# 0504 woensdag 4 mei 2005
+Wat ik bespeur is het volgende: het werk, met name de personele problemen, begint geleidelijk aan steeds meer in mijn kop te zitten. En dat is niet goed. De reacties van team en oc op het besluit om het contract van Natascha niet te verlengen zijn begrijpelijk en moeten geduldig en helder tegemoet getreden worden. Niet praten over maar doen. Eigen emoties een beetje afremmen. Bewust tijd nemen om je aandacht te verzetten.

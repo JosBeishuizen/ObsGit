@@ -1,0 +1,2 @@
+# 1125 zaterdag 25 november 2023
+Allemaal verschrikkelijke verhalen in de krant. Waar is nog redding? Het geeft toch niet als iedereen alleen maar aan het woord is en je er zelf niets tussen kunt inbrengen. Deze omgeving, dat is wel goed om tot rust te komen. Vannacht geprobeerd om mijn gedachten over de perikelen in het Ekklesiabestuur onder woorden te brengen: [[231125 overwegingen]]. 

@@ -1,0 +1,6 @@
+# 0306 vrijdag 6 maart 2020
+Even wat tijd voor mezelf inlassen. We gaan het weekend met z'n allen naar Markelo. Ik zie er een beetje tegenop, hoop dat het gezellig wordt. Moeten ook over het geld praten, wordt nog een klus. Vrij veel beren op de weg op dit moment.
+
+Afgelopen woensdag op Mercia een Franca gepast. Mercia was ziek, snotterig een koortsig. Veel voorgelezen en naar Sesamstraat gekeken. Mercia spreekt zo goed dat je vergeet dat ze nog maar net drie jaar oud is. Constructies met "denk ik" en "echt wel". Ze wilde regelmatig Franca en knuffel geven maar dat mocht niet vanwege de bacillen. Franca was bijzonder goed te pas. Draaide zich vlot om, dronk goed en ging zonder morren slapen. Verder heel gezellig kletsen en spelen in de box. Veel aandacht voor anderen, vooral Cathrien en Jochem natuurlijk maar ook veel aandacht voor Mercia. Vaak met een half lachje, in afwachting van wat Mercia nu weer voor lolligs zou gaan doen.
+
+Sara kreeg een heel gunstige beoordeling van haar promotoren. Wisten we natuurlijk allang dat ze de dingen die ze doet heel goed doet. Maar toch fijn om het ook weer eens op papier te zien.

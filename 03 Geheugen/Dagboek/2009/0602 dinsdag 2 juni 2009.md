@@ -1,0 +1,2 @@
+# 0602 dinsdag 2 juni 2009
+Op weg naar huis na een geslaagde avond met de ICL. Afscheid genomen van Els Laroes, Gert Rijlaarsdam, en Jaap Buitink, de vorige voorzitter. Prima gesprekken met de collega's, onder wie Hans de Jonge. Meer aan de inhoud doen, dat blijft het parool. Nu even een hoofdstukje Murdoch.

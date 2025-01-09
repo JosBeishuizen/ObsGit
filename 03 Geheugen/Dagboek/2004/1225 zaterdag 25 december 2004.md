@@ -1,0 +1,2 @@
+# 1225 zaterdag 25 december 2004
+Voor vandaag staat het traditionele programma klaar: kerstontbijt, rustig aankleden, koffie drinken en piano spelen, naar Geert en Linda voor de spelletjes en het kerstmaal.  Gisteravond mooie Kerstdienst. Opgetogen gevoel van vorig jaar heb ik nog steeds. Doelgerichtheid, is zeer belangrijk.

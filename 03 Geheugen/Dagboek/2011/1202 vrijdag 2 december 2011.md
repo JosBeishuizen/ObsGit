@@ -1,0 +1,2 @@
+# 1202 vrijdag 2 december 2011
+Grote twijfel, weer eens. Het was toch zo dat niemand boven zijn krachten wordt beproefd? Dat je in feite weet wanneer je ja moet zeggen en wanneer nee? De kritiek van de senior onderzoekers raakt mij diep. Graaicultuur, verwende mensen, nooit tevreden, altijd ontevreden. Ik wil dit soort sessies niet meer. Het gaat ook niet meer gebeuren, we gaan alleen nog in de grote onderzoeksgroep met elkaar praten.

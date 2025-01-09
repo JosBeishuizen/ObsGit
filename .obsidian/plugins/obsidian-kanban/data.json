@@ -1,0 +1,12 @@
+{
+  "show-relative-date": true,
+  "date-format": "YYYY-MM-DD",
+  "date-display-format": "YYYY-MM-DD",
+  "prepend-archive-format": "YYMMDD",
+  "lane-width": 180,
+  "link-date-to-daily-note": true,
+  "time-format": "HH:mm",
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "new-note-folder": "01 Algemeen/Planning/Kanban/Kaarten"
+}

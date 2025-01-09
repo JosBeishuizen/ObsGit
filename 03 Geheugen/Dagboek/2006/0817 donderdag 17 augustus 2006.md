@@ -1,0 +1,2 @@
+# 0817 donderdag 17 augustus 2006
+'s Ochtends om half zes. Opnieuw een gevoel van paniek. Enerzijds omdat ik allerlei voorgenomen klussen niet uitvoer, anderzijds omdat ik het gevoel heb te falen in mijn aansturing van Geertrui Slooten. Ik geloof dat ik ga kiezen voor de Sminia methode: posifief, enthousiasme uitstralend,  niet probleemgericht maar oplossingsgericht met het personeel omgaan, erboven staan, letterlijk en figuurlijk. En nu de twee brieven schrijven!

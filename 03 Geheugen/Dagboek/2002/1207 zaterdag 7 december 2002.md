@@ -1,0 +1,2 @@
+# 1207 zaterdag 7 december 2002
+Heel erg moeilijk om in de Sinterklaasstemming te komen. Moet nu nog 12 gedichten schrijven en een surprise maken. Niet zeuren maar doorzetten, dat is het parool. Eerst even aan de surprise werken.

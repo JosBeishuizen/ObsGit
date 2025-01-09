@@ -1,0 +1,2 @@
+# 0602 zaterdag 2 juni 2012
+Een rustige avond in Egmond. Vandaag vrij consequent via de planning gewerkt. Is goed bevallen. Eigenlijk veel gedaan en ook behoorlijk ontspannen. Koud en zonnig weer in Egmond. Komende week een paar dagen vrij. Tijd om twee kanten van het huisje te schilderen, en achterstallig onderhoud in het werk weg te werken. De drie vertrekpunten, aandacht, discipline en warmte, blijven belangrijk. Warmte kun je niet afdwingen. Je kunt wel je eigen emoties observeren. Plannen = willen, willen = kunnen.

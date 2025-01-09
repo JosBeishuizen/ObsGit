@@ -1,0 +1,4 @@
+# 0731 zaterdag 31 juli 2004
+Interview met verpleeghuisarts Bert Keizer over ouder worden. Je wordt niet wijzer. Je fysieke, erotische en intellectuele capaciteiten nemen af, in die volgorde. Wat wel prettig is: je weet dat een slecht humeur niet meer de hele dag hoeft te duren. Je staat op met een gedeprimeerde stemming en weet dat dat in de loop van de dag kan overgaan. Als het goed is is er een basisgevoel van voldoening. In ieder geval niet meer de angst van de 19-jarige die denkt dat het hele leven niets wordt. Woorden die wel op mij zouden kunnen slaan. Hoewel ik als 19-jarige niet bepaald angst voor de toekomst had.
+
+Sara zei gisteravond aan tafel: Pap zeg nog eens wat voor mijn algemene ontwikkeling. Misschien kan ik vandaag ergens in deze computer of in de boeken die ik aan het lezen ben nog iets vinden. Epicurus vond ik gisteren terug.

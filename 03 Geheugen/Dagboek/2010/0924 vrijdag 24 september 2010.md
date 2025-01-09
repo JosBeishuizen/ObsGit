@@ -1,0 +1,6 @@
+# 0924 vrijdag 24 september 2010
+Eerlijk gezegd voel ik mij extreem schuldig over de splitsing van het Onderwijscentrum. Zo wordt dat ook gevoeld door collega's, met name bij de afdeling Hoger Onderwijs. Waar de groepen uit elkaar gespeeld worden. Ik ben eigenlijk niet in staat om de komende vijf minuten zonder zorgen te beleven. En dat terwijl ik een maand geleden nog het stellige gevoel had dat ik aan mijn aortaklep geopereerd zou moeten worden.
+ 
+Aan het eind van een cursusdag even in de avondzon aan de Bosbaan. Heerlijk zacht weer, echt even genieten. De joggers strijken neer voor een cola light. lesgeven geeft eigenlijk bijna altijd een goed gevoel. Ik krijg het weer beter inde minuut gefocust, het gevoel. Het goede gevoel. Nico Verloop werd vanmiddag vrij persoonlijk toen hij zei dat hij mijn enthousiaste reactie op een uitnodiging bewonderde, terwijl hij niet eens had gereageerd omdat hij er niet over peinsde om op de uitnodiging in te gaan. En dat terwijl ik in Nico bewonder dat hij zo goed in staat is om de boot af te houden.
+ 
+Hoe moeten we verder met het Onderwijscentrum? Kun je zeggen dat deze afloop met Theo Wubbels nooit had plaatsgevonden?

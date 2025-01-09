@@ -1,0 +1,11 @@
+# 1030 zaterdag 30 oktober 2011
+Aangestoken door de dagboeken/reisverslagen van Sara en Cathrien die ik gisteren bij het opruimen van de zolder tegenkwam probeer ik in dit mooie boekje opnieuw de dagen met aantekeningen bij te houden. Er zitten heel veel aantekeningen in de computer maar er moet toch ook een plaats en een tijd blijven voor pen en papier. Vandaag een uur extra tijd vanwege de wintertijd. Er is veel om over te schrijven. Eerst maar even de actualiteit.
+
+Anne is met Sara en Dorien naar Londen, op bezoek bij Sophie, die stage loopt in een hotel. Vanwege de enorme heimwee heeft Sophie het er eg moeilijk mee, ze is een kilo of 10 afgevallen. Anne heb ik gisteravond door de telefoon gesproken. Ze klonk goed, ondanks de pillen tegen de boezemfibrillaties, waarmee ze 14 dagen geleden op zondag opeens te kampen kreeg. De medicijnen slaan goed aan, sindsdien geen ritmestoornissen meer gehad. Stolling goed onder controle met de trombosedienst. Wat een geoliede machine is dat! Daar heb je geen weet van zolang je er niet mee te maken hebt.
+
+Ik belde Anne ook om te vertellen dat Sam plotseling in het ziekenhuis is opgenomen wegens longembolie. Een aantal bloedproppen die nu weer zijn opgelost. Alles onder controle maar goed bewaakt op de i.c. in het Bronovo. Wat een schrik! Hopleijk keert het zich weer allemaal ten goede. Niet te geloven hoe je zo van het ene moment in het andere in de problemen verzeild kunt raken. Verder alles ok.
+
+Nou ja, Harry tobt met zijn prostaat. Draagt katheter die weer losschiet, pillen om de prostaat te verkleinen werken pas na twee/drie maanden, een gemartel.
+
+Vandaag flink werken aan de instellingsaudit en dissertatie Jeroen. Even hardlopen, niet naar de kerk want zingen met het koor in Haarlem (nog even de muziek klaarleggen). Vanmiddag koken Berend en Cathrien. Berend heeft vrijdag zijn tweede praatje in het Engels op het lab gehouden. Is naar eigen zeggen goed gegaan. Hij begint er aardig in te komen. Hopelijk brengt hij de stage tot een goed einde. Hij is verder erg druk met het opknappen van het huis van Cyclades aan de Prinsengracht. Cathrien gaat nog steeds heel goed als co-assistent. Nadenken in welke richting ze zich wil specialiseren.
+

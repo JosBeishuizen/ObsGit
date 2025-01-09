@@ -1,0 +1,2 @@
+# 0502 woensdag 2 mei 2019
+Met lood in de schoenen opstaan is laf. Met hoop en vertrouwen opstaan is moedig. Nu schijnt de zon volop, het is kwart voor zeven op deze tweede dag van de mooiste maand van het jaar. Moedig voorwaarts!

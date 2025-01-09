@@ -1,0 +1,2 @@
+# 0204 dinsdag 4 februari 2003
+Vanochtend humeurig vertrokken. In de trein gelezen over de school in Rotterdam waar gisteren gerouwd werd om een 13-jarige jongen die zaterdag na het gooien van sneeuwballen werd doodgeschoten. Hoe houd je de koers recht? Hoe leef je zo dat er iets aan liefde en mededogen en echtheid voor anderen overblijft? Toch beginnen met een psalm 's ochtends.

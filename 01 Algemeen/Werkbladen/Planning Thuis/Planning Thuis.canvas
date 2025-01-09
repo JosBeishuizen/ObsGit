@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0ea5eaa8faa8f27b","x":-312,"y":-140,"width":172,"height":50,"type":"text","text":"Financiën"},
+		{"id":"a8090618f0730032","x":20,"y":-140,"width":160,"height":50,"type":"text","text":"Opruimen"},
+		{"id":"054703f4eea4d24a","x":-140,"y":-260,"width":250,"height":60,"type":"text","text":"Planning Thuis"},
+		{"id":"0212a825acffe39c","x":160,"y":-60,"width":160,"height":50,"type":"text","text":"Dia's"},
+		{"id":"4f3c5370e27a9177","x":-160,"y":-60,"width":166,"height":50,"type":"text","text":"Abonnementen"},
+		{"id":"d023ab7d55296822","x":160,"y":20,"width":160,"height":50,"type":"text","text":"Boeken"},
+		{"id":"99bc4bf4d9f20239","x":162,"y":100,"width":158,"height":50,"type":"text","text":"Berging"}
+	],
+	"edges":[
+		{"id":"fae43f7d46c3eeeb","fromNode":"054703f4eea4d24a","fromSide":"bottom","toNode":"0ea5eaa8faa8f27b","toSide":"top"},
+		{"id":"e6781d613274099a","fromNode":"054703f4eea4d24a","fromSide":"bottom","toNode":"a8090618f0730032","toSide":"top"},
+		{"id":"00ccef79062e15d5","fromNode":"a8090618f0730032","fromSide":"bottom","toNode":"0212a825acffe39c","toSide":"left"},
+		{"id":"abd4bded56b29910","fromNode":"0ea5eaa8faa8f27b","fromSide":"bottom","toNode":"4f3c5370e27a9177","toSide":"left"},
+		{"id":"cfc567565af0b164","fromNode":"a8090618f0730032","fromSide":"bottom","toNode":"d023ab7d55296822","toSide":"left"},
+		{"id":"129e8d3138bcb767","fromNode":"a8090618f0730032","fromSide":"bottom","toNode":"99bc4bf4d9f20239","toSide":"left"}
+	]
+}

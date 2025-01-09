@@ -1,0 +1,2 @@
+# 0404 woensdag 4 april 2012
+Aan het eind van onze 35-jarige bruiloft. Anne heeft vandaag haar afsluitende toets van haar cursus gedaan en is met vlag en wimpel geslaagd. Vanavond met Cathrien en Berend gezellig gegeten bij Te Pas.

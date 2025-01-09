@@ -1,0 +1,2 @@
+# 1116 zaterdag 16 november 2013
+Moeilijk om het gevoel van genieten vast te houden. Vandaag (eigenlijk gisteren, het is nu 00:45) de hele dag ICO introductiecursus. Ik kon een aantal tips over goed presenteren kwijt. Zoals het variëren van abstractieniveus en het maken van oogcontact met je gehoor. Ging er allemaal in als koek.

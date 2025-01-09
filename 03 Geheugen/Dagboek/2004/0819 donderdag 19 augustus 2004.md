@@ -1,0 +1,2 @@
+# 0819 donderdag 19 augustus 2004
+Sara belde eergisteren op uit Barcelona, op zoek naar een eettentje. Het lijkt allemaal heel goed te gaan. Proberen dat gevoel van vorige week vast te houden, het met jezelf samenvallen. Rommel opruimen neemt daarin een centrale plaats in. En gewoon hard werken, zonder daar druk over te doen. We zullen zien of  het vandaag weer gaat lukken.

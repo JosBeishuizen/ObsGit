@@ -1,0 +1,4 @@
+# 0315 dinsdag 15 maart 2022
+Een zeer goede column van David Brooks over Putin en de oorlog in de Oekraïne: [[20220310 David Brooks]].
+
+Gisteren hoorde ik een interview van Coen Verbraak met een mevrouw die in crisissituaties met een gijzeling vaak moet onderhandelen met de gijzelnemer. Vier dingen vond zij belangrijk: (1) Ga in je emoties niet te ver afzitten van de gijzelnemer, wees niet erg rustig tegenover een geagiteerde boef. Hoe meer overeenstemming, hoe meer de boef zich serieus genomen voelt. (2) Wees oprecht nieuwsgierig. (3) Probeer de drijfveren achter de drijfveren op te sporen. Dus niet het losgeld maar het doel van het verkrijgen van losgeld. En probeer vervolgens te onderzoeken of dat doel ook langs andere weg kan worden bereikt. (4) Wees altijd eerlijk, ga niet met de boef mee in zijn denken als dat niet je overtuiging is.  

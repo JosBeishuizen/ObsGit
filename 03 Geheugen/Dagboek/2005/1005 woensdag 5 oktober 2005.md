@@ -1,0 +1,2 @@
+# 1005 woensdag 5 oktober 2005
+Vandaag bezoek van de visitatiecommissie aan de studierichting onderwijskunde van de UvA. Ben benieuwd hoe dat zal lopen. Controle en discipline lopen op dit moment behoorlijk, een 6 zou ik zeggen. Wel plannen die worden uitgevoerd, wel schrijftijd gereserveerd, die meestal wordt gerealiseerd. Wel veel rustig werken. Nog veel start- en stopproblemen. Nog wel regelmatig paniekaanvallen, ook 's nachts en 's ochtends. Proberen lijstjes van 5 en schrijftijd vast te houden. Iets af te halen van de start- en stopproblemen

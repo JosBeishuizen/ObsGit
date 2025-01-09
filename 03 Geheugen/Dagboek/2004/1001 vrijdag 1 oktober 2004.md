@@ -1,0 +1,4 @@
+# 1001 vrijdag 1 oktober 2004
+Toch wel een spannende dag. Na de ruzie met Anne en het telefoongesprek met Vellinga een totale innerlijke leegte, die zich nu wel weer een beetje begint te vullen. Hopelijk ben ik vanmiddag weer een beetje op stoom. Misschien is het gewoon de oktober depressie. Had ik drie jaar geleden ook toen ik begon op het SCO Kohnstamm Instituut. Je begint uitingen negatief te interpreteren, raakt je zelfvertrouwen kwijt, etc. Door de leegte vannacht prima geslapen. Een beetje "vrolijk" en een beetje zelfrelativering, dat is wel belangrijk.
+
+Het systeem is een handige vorm, waaraan je houvast kunt hebben, ook in tijden van tegenslag.

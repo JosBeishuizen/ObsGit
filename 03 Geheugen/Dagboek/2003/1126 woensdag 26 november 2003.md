@@ -1,0 +1,2 @@
+# 1126 woensdag 26 november 2003
+Op weg naar huis na een goed verlopen avondcollege. Nog twee keer 's avonds college geven en daarna nooit meer! Vandaag een heerlijke werkdag gehad. 10 Klussen van de lange lijst kunnen afvoeren. Vanavond tijdens het college toch ook passie aan de dag kunnen leggen. Hoe zou het thuis zijn? De tegelschuurder is ziek waardoor de verbouwing aan de keuken stil ligt. Zou Sara nog hoofdpijn hebben? Zouden er al rapporten zijn?

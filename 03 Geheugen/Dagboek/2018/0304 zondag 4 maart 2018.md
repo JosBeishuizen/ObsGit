@@ -1,0 +1,3 @@
+# 0304 zondag 4 maart 2018
+
+Slapeloosheid maar ik vind het niet erg. Tijd om even in het dagboek te schrijven. We beleven een vorstperiode die al weer aan het aflopen is. Vrijdag hebben Anne en Cathrien op het ijs van de Prinsengracht gestaan. Niet lang maar toch bijzonder. Gisteravond de leesclub over het boek De Acht Bergen van Paolo Cognetti. Goed gesprek over vriendschap. Het zwijgen onder vrienden. Wim en Gert. Wim zag de parallel niet, vond dat hij toch wel alles met Gert had besproken. Annette zag wel overeenkomsten.

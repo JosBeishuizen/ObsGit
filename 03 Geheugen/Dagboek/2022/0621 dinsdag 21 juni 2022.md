@@ -1,0 +1,2 @@
+# 0621 dinsdag 21 juni 2022
+Alweer de langste dag! Wat gaat de tijd toch snel. Wel een mooie lente gehad. Wandeling in Italië was een toppertje. De oorlog in Oekraïne natuurlijk heel naar, misschien wel het begin van de derde wereldoorlog. 

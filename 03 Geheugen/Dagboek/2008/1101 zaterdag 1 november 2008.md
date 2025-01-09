@@ -1,0 +1,6 @@
+# 1101 zaterdag 1 november 2008
+Zaterdag om half één in de middag. Vanochtend weer eens een keertje piano gespeeld. Geïnspireerd door het langzame deel uit Beethoven's 32e pianosonate, klonk aan het eind van de film Le Silence de Lorna van de gebroeders Dardenne, opnieuw een meesterwerk van dit regisseursduo. 
+
+Dit was een van de meer heftige weken van de laatste tijd. Dat begon op maandag met de bijeenkomst met de medewerkers van het IG. Aan de orde de brief die het bestuur aan de medewerkers had gestuurd met de mededeling dat rector Buijze had besloten om voor zichzelf of zijn vrouw of beiden een andere baan te zoeken. Veel verontwaardiging, van sommigen onbeschaamde reacties. Geen nieuwe gezichtspunten. Veel boosheid richting bestuur. Op die manier kunnen we het team misschien weer meer eensgezindheid geven. 
+
+Vervolgens donderdag de AZIRE opening en de presentatie van het plan bestrijding lerarentekort. Bijeenkomst was een succes. Goede opkomst, vooral uit hbo-wereld. Leuke bijdragen, ook van Lex Bouter en Jelle Jolles. Mijn presentatie werd een soap omdat de apparatuur faalde. Uiteindelijk al pratend alles toch nog in beweging gekregen. 's Avonds gezellig gegeten met de fam. Jolles, andere mensen uit het management team, en Anne Carien.

@@ -1,0 +1,2 @@
+# 0131 dinsdag 31 januari 2006
+Een zonnige ochtend. Al even een paar rondjes hard gelopen door het Parc Jourdan. Toch wel even genieten, dit weekje in Aix. Sara is nu bezig met haar mondelinge entreetoets. Gistermiddag heeft mevr. Faillard haar al meegesleept naar een borrel in een café waar een andere huisgenoot aanwezig was, die ook blijft. Zodat ze het weekend niet alleen hoeft door te komen. Het grote loslaten is in volle gang en verloopt eigen wel goed. 

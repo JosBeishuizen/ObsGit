@@ -1,0 +1,13 @@
+# 1221 zaterdag 21 december 2013
+Nou, alles is al weer achter de rug. Zit nu alweer achter mijn laptop, de lunch achter de kiezen. Uiteindelijk moest ik me gisterochtend om 9 uur melden. Anne bracht me, dit keer alles meegenomen. Anne ging snel weer terug vanwege een afspraak bij de schoonheidsspecialiste, verjaardagscadeautje via Jo Cadeau. 
+
+Om half 11 kwam Cathrien nog even langs voor de laatste steun in de rug, dat was erg fijn, zoals steeds trouwens de afgelopen periode. Cathrien wordt wel echt een zorgzame dokter, ze heeft alle sociale trekken van Anne meegekregen. Bij Sara ligt dat niet anders maar Sara is misschien wel iets analytischer ingesteld. Ik denk dat ze in het ziekenhuis net zo oplossingsgericht met haar patiënten omgaat als Anne dat doet. 
+
+Om 11 uur een handvol pijnstillers en een slaaptablet naar binnen gewerkt. Het operatiehemd aan op de rug en de schouders dichtgeknoopt en een soort gazen onderbroek. Toen met twee verpleegsters naar de pre-operatie ruimte. Daar receptors opgeplakt, muts op, saturatiemeter om je vingertop. Je bent dan in een soort voorgeborchte, een wachtkamer van de operatiekamers. Het is een va-et-vient van bedden met patiënten erin. Verpleging draagt donkerblauwe kleding met Operatiekamers AMC op de rug, een uitverkoren volkje. 
+
+Om ongeveer 10 voor 12 de operatiekamer in, mooie ruimte, recent opgeknapt. De gebruikelijk E.R. uitrusting, grote lamp in het midden, en verder een enorme hoeveeld apparatuur en mensen. Ik denk dat er wel een stuk of 10 mensen rondliepen. Je klimt zelf van je bed op de operatietafel. Dan wordt het infuus aangelegd, ging bij mij de eerste keer mis. Een bijzonder aardige donkere jonge anesthesiste-in-opleiding, een oudere dandy-achtige anesthesist die de zorgen van de jonge collega vrolijk wegwuifde. Je hebt de neiging om je in de conversatie te mengen, ik deed dat geloof ik ook, maar mijn herinnering begint te vervagen. Dan stelt de operateur zich voor, prof. De la Rosette, zie hier zijn triomfantelijke kop en klinkende cv.
+
+![[20131221 Jean de la Rosette.jpg]]
+
+Precies met die kop boven mij vroeg of ik wist waar ik voor kwam. Die vraag kon ik wel beantwoorden, evenals de vervolgvraag: en langs welke weg zullen we dat aanpakken, vandaag een keer via de mond proberen? Ik kan me niet meer herinneren wat ik daarop heb geantwoord. De professor trok zich met zijn gevolg terug en de anesthesisten gingen aan het werk. Nu valt om voor de hand liggende redenen mijn geheugen stil. Over het wakker worden herinner ik me vaag dat het onrustig was. Ik herinner meer samenhangende beelden van de verkoever waar ik weer een beetje om me heen begon te kijken, nog wel enorm slaperig. 
+

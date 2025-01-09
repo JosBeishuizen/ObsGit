@@ -1,0 +1,2 @@
+# 0419 vrijdag 19 april 2024
+Vandaag vier kandidaten voor een Comenius Leadership beurs van € 500.000 geïnterviewd. Was weer de moeite waard en ging goed. Gisteren op Otto, Ada en Els gepast. Otto is net 2 geworden en is nog steeds heel makkelijk. Ada ontwikkelt steeds meer aandacht voor opruimen. We waren naar Artis en dronken koffie in het restaurant. Plotseling raakte Ada in paniek vanwege een vlieg die over ons tafeltje liep. Anne vraagt zich af of Ada een reinheidsdwang ontwikkelt. Hopelijk valt het mee. 

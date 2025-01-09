@@ -1,0 +1,2 @@
+# 0930 vrijdag 30 september 2022
+Half tien in de avond, in de nachttrein op weg naar Basel waar we morgenvroeg om 6:20 hopen aan te komen. Dit weekje in Rome begint onfortuinlijk omdat de slaapwagen waarin we twee slaapplaatsen hadden gereserveerd kaputt blijkt te zijn zodat we nu gewoon in stoelen zitten onder tl-buizen die voorlopig nog niet uitgaan. 

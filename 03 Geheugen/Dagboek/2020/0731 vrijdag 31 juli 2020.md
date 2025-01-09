@@ -1,0 +1,2 @@
+# 0731 vrijdag 31 juli 2020
+Deze week een paar dagen in Friesland geweest, in het huisje van Karen en Chrétien. Aantal leuke wandelingen. Workum en Hindeloopen leuke stadjes. Berend en Sietske zaten in Egmond. Ze zijn ingeloot voor een woning op de Hoogte Kadijk, wat een bofferds! Vanavond eerste kooravond sinds vijf maanden. Op anderhalve meter, dus ver uit elkaar. 

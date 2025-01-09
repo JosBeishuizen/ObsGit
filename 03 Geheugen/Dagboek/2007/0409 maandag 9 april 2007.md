@@ -1,0 +1,2 @@
+# 0409 maandag 9 april 2007
+Helaas een totale verlamming  hier achter de computer. Het is gewoon het milieu interieur dat op het moment totaal niet deugt. Wat kan ik er aan doen? Helemaal niets, wachten op betere tijden. Elke poging om er iets aan te verbeteren heeft een averechtse uitwerking.

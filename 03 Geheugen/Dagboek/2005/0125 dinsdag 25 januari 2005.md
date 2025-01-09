@@ -1,0 +1,2 @@
+# 0125 dinsdag 25 januari 2005
+Vandaag zou ik vaste voet op Afrikaanse bodem zetten. In plaats daarvan bevind ik me in het Airport Plaza Hotel in Lido di Ostia, 27 km van Rome. Weliswaar op kosten van Alitalia, maar toch niet zoals ik gepland had. In het vervolg bij overstappen tussen twee vliegtuigen minstens een uur overstaptijd rekenen! Drie kwartier is echt te weinig, dat bleek vanmiddag weer. Vliegtuig vertrok te laat van Schiphol en daar ging mijn aansluiting in Rome. Had net zo goed een dag later kunnen vertrekken.

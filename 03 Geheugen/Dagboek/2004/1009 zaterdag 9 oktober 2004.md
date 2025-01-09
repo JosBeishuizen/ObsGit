@@ -1,0 +1,4 @@
+# 1009 zaterdag 9 oktober 2004
+Zat er deze week wel een aantal keren volledig doorheen. Nu met een rustig weekend (Beizendag) voor de boeg tijd voor onderhoud.  Ga proberen er goed van te genieten. Onderhoud plegen (opruimen, aantekeningen van gesprekken maken, prioriteiten stellen, rondlummelen, luisteren naar muziek, wandelen, fietsen, hardlopen, je concentreren op het moment zelf) is toch eigenlijk ook wel genieten. Zeker omdat je er de accu weer mee oplaadt.
+
+Reacties na oratie zijn allemaal erg positief. De stemming in het Onderwijscentrum is stukken beter dan een jaar geleden, bevestigt Florence. Nu proberen het momentum vast te houden. 

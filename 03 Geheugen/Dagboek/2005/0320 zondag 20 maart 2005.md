@@ -1,0 +1,6 @@
+# 0320 zondag 20 maart 2005
+Palmzondag. Meindert wordt vandaag 70 jaar. We gaan even naar Egmond om de boel daar op orde te brengen. Gisteravond tijdens de leesclub vrij uitgebreid met Joan gesproken. Hij was alleen omdat Dick ziek is. Al 14 dagen last van de ingewanden. Ze maken zich zorgen, omdat Dick dit eerder heeft meegemaakt en het destijds de voorbode bleek te zijn van een verslechtering van zijn nierfunctie. Joan vertelde uitgebreid over zijn opgewekte moeder die op haar 88e lijdt aan de ziekte van Alzheimer.
+
+Je merkt dat je veel dingen niet hoeft te zeggen of te doen. Grof taalgebruik of sterke emoties zijn kijna altijd contraproductief. Bedachtzaamheid is een groot goed. Alleen bewegen als het nodig is. Het traject dat ik met Ed Bosschaart ben ingegaan goed volhouden en in de gaten houden. En in de gaten houden hoe hij communiceert met zijn mensen.
+
+Wat wil ik vandaag zijn: iemand die zich gestuurd weet, zorgzaam meer dan zorgelijk, spraakzaam meer dan zwijgzaam, luisterend meer dan sprekend, actief meer dan passief.

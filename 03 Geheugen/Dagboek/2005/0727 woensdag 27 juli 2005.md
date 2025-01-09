@@ -1,0 +1,2 @@
+# 0727 woensdag 27 juli 2005
+Gisteren weliswaar de koelkast in Egmond in orde gemaakt en kaarten bij de ANWB gekocht, maar toch met alle klusjes niet echt opgeschoten. Vandaag van uur tot uur proberen iets doelgerichter bezig te zijn. Maar wel het vakantiegevoel proberen vast te houden.

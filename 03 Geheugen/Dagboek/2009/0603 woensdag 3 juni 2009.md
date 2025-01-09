@@ -1,0 +1,2 @@
+# 0603 woensdag 3 juni 2009
+Joop in het ziekenhuis na klachten over benauwdheid! Dat gaat er toch niet ook nog eens bijkomen! Vanavond even bellen met Lia. Morgen proberen om even bij hem langs te gaan. In de metro naar Alkmaar om daar een vergadering van het Curatorium van de School of Education van Inholland bij te wonen. Even op adem komen in de trein. De rustige start weer hernemen. Vanavond gezellig met Sam en Marga eten. Nu vooral luisteren, niet meer spreken.

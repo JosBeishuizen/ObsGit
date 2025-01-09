@@ -1,0 +1,2 @@
+# 0923 zaterdag 23 september 2006
+Je moet echt in jezelf blijven geloven! Je moet doorgaan, je mag de moed niet opgeven! Hoe trek ik mezelf uit het moeras? Misschien nog een keer Psalm 130 lezen en rustig wachten op betere tijden. Ondertussen emoties vermijden en rustig door blijven werken aan de dingen die moeten gebeuren.

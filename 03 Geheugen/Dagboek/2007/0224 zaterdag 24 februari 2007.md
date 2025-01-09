@@ -1,0 +1,2 @@
+# 0224 zaterdag 24 februari 2007
+We vliegen net boven de grens van Egypte en Libie, op 1500 kilometer van Khartoum. Snelheid 900 km/uur, hoogte 37000 voet, ruim 11 km. Zeer comfortabele en rustige vlucht tot nu toe. Met Rob een aantal zaken rond het EQUIP project doorgenomen. De Amsterdamse werkelijkheid begint al enigszins te vervagen. Wel goed om even andere lucht in te ademen. Ik hoop maar dat mijn zorgen die ik vanmorgen opschreef niet erg naar buiten komen. Ga echt proberen om er een beetje een rustige tijd van te maken.

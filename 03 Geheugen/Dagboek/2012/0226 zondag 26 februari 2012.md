@@ -1,0 +1,2 @@
+# 0226 zondag 26 februari 2012
+De spring is in the air, zacht weer, weinig wind, wolken en zon. Op weg naar Haarlem voor een concert van de Anglican Singers in de St Jozefkerk in het centrum. Joan en Paula komen evenals Anne-Carien. Gisteravond leesclub, The Finkler Question van Howard Jacobson. Algemeen gevoelen was negatief. Sowieso was de stemming niet super, Annette was moe, ook Joan niet helemaal in topstemming. Verder liep alles goed, eten was heerlijk. Iedereen enthousiast over ons voorstel om De Buurman van Voskuil te gaan lezen. 

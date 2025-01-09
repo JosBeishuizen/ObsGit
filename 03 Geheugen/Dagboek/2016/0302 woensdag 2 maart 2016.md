@@ -1,0 +1,4 @@
+# 0302 woensdag 2 maart 2016
+Vanochtend weer een paniekervaring met geheugenverlies. Hoogstwaarschijnlijk een gevalletje Transient Global Amnesia (TGA). Symptomen: retrograde en anterograde amnesie, kortdurend, geen nevenverschijnselen. Zie ook [https://issuu.com/uzleuven/docs/uz-magazine_december_2013/14](https://issuu.com/uzleuven/docs/uz-magazine_december_2013/14). Belangrijkste boodschap: het gaat over en het is ongevaarlijk. Niet gerelateerd aan dementie of Alzheimer. Kan ontstaan na flinke inspanning of "een intense ammoniakgeur, een hevige emotie naar aanleiding van een familiale gebeurtenis, een plotse temperatuurverandering, seksuele activiteit …”. Toevallig had ik vanochtend geroeid, flink ingespannen. Was destijds in Pietrasanta ook het geval. Vooral gevoel van tijd was verstoord, verder eigenlijk niet veel zaken. We weten nu weer wat het is. Kan zich herhalen, hoewel een kleine kans (15%).
+
+Zie [[0722 dinsdag 22 juli 2014]]

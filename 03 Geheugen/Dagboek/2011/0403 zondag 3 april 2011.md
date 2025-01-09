@@ -1,0 +1,4 @@
+# 0403 zondag 3 april 2011
+Hoewel het Onderwijscentrum op punt van omvallen staat voel ik me toch behoorlijk opgewekt vanwege de steun die we van veel kanten krijgen. Ik vraag me af of de decanen nog iets kunnen bereiken, denk het eigenlijk van niet. Afgelopen week in Lissabon geweest voor een vergadering van het EARLI bestuur. We hebben een goede basis gelegd voor mijn presidentschap dat in augustus begint: nieuw tijdschrift (electronisch, open access), lezingen, SIG coordinatoren meer betrekken.
+
+Gister was een prachtige dag, boven 23 graden! Gister eerst naar Voorschoten om nog even stil te staan bij Meinderts verjaardag. 's Middags naar Egmond waar we nog net even van de zon konden genieten. Vanavond thuis gegeten,  gezellig met iedereen. Anne-Carien maakt zich zorgen of Manouk wel een blijvertje is. Vond haar nogal in gepeins verzonken vanavond. We zullen zien.

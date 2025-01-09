@@ -1,0 +1,2 @@
+# 1002 woensdag 2 oktober 2024
+We zitten nu op drie weken na de val. Fysiek gaat het de goede kant op. Het lopen met de krukken gaat steeds soepeler, pijnklachten verminderen. Maar mentaal is het nog een zooitje. Het slechte slapen is daar vooral debet aan. 

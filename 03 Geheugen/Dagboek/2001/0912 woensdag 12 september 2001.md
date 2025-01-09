@@ -1,0 +1,4 @@
+# 0912 woensdag 12 september 2001
+11 september 2001 zal de geschiedenis ingaan als de dag waarop de V.S. werden aangevallen: twee vliegtuigen op het WTC in Manhattan en een op het Pentagon in Washington. Ongetwijfeld duizenden slachtoffers. Onvoorstelbaar, onbeschrijfelijk. De Twin Towers zijn volledig ingestort. Een vierde vliegtuig is neergestort in de buurt van Pittsburgh, wellicht op weg naar een kerncentrale. Aanwijzingen in de richting van een krankzinnige sheik, bin Laden, wellicht in samenwerking met Irak, Saddam Hoessein. Wat zal de wraak van Amerika zijn? Hoe gaat de internationale economie hierop reageren? 
+
+Een en ander gebeurde tussen kwart voor negen en half elf  's ochtends in de V.S., bij ons kwart voor drie 's middags. Ik belde om 16:00 uur de bank om een depositorekening te openen voor de ekklesia. De employee vertelde het door de telefoon.

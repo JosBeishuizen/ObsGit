@@ -1,0 +1,6 @@
+{
+  "format": "MM MMMM/D MMMM",
+  "autorun": true,
+  "template": "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate",
+  "folder": "02 Activiteiten/Vandaag"
+}

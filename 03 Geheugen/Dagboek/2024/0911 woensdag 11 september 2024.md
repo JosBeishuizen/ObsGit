@@ -1,0 +1,2 @@
+# 0911 woensdag 11 september 2024
+In het BovenIJ met een heupfractuur. Een vrij vervelende fractuur, misschien moet er een nieuwe heup in. Ontzettend domme actie. Ik probeerde Franca tegen te houden, draaide daardoor op mijn stoel en sloeg tegen de stenen vloer. Een pertrochantere femurfractuur. Type - A2: Multifragmentaire trochantere fractuur met los trochanter minor fragment. Morgen hopelijk de operatie. Nu stevige pijnstilling, die wel helpt.

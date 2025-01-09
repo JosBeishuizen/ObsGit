@@ -1,0 +1,2 @@
+# 1128 zaterdag 28 november 2020
+Vandaag een sportieve dag: mooie wandeling door het Vliegenbos, fietstocht naar het voormalige Van Ostadetheater voor een lollige voorstelling met de broertjes Groothof. Mooie score op de fitness app. Verder klassiek grijs novemberweer.

@@ -1,0 +1,8 @@
+# 0317 zondag 17 maart 2013
+Vreemd zoals een nieuwe muis iets toe lijkt te voegen aan de functionaliteit van de computer. Nooit geweten dat een muis zo handig is. Goeie vraag van Anne-Carien vanavond bij het vertrek: kom je nog wel aan je rust toe. Eigenlijk ligt dat toch vooral aan jezelf. Vanmiddag was de statistiek een volkomen rustig moment. Goed dat Cathrien Berend nog even aanspoorde om een opgave met SPSS op te lossen. Was uitermate nuttig bij het inkloppen van de data.  
+
+Op dit moment voel ik mij volkomen rustig. Je kunt je daarop concentreren, op je ademhaling vooral. Je gedachten komen dan ook snel tot rust. Mediteren is toch eigenlijk vooral tot rust komen. Ik ga dat deze week proberen, echt tot rust komen. Spelletjes, hoe simpel ook, horen daar absoluut niet bij. Mails ook niet. Lezen vind ik wel iets wat je in alle rust kunt doen.  
+
+Gisteravond was Anne-Carien naar het Kurhaus voor een benefietdiner voor de ALS-patiënten. Anne en haar collega's bedienden. Was natuurlijk reuze spannend en leuk. Ze kwam om 3 uur thuis met een grote blaar onder haar voet. Hard werken! Ik ging gisteravond naar de leesclub. We lazen Grip van Stephan Enter. Mooi boek, maar de verwachtingen kwamen niet helemaal uit. Het viel mij in het gesprek op dat ik zo vaak naar Anne-Carien verwees, gewoon omdat het zo bij mij opkwam. Eigenlijk wel leuk dat ik zo vaak aan haar denk, met name als ze er niet is. Wel een goed teken lijkt me.  
+
+Nu dan rustig in het vliegtuig naar München. Morgen en dinsdag IPC, geen geagiteerde toestanden.

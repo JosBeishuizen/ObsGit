@@ -1,0 +1,2 @@
+# 0830 maandag 30 augustus 2010
+Vandaag een drukke dag met vanochtend een heidag van het Ekklesiabestuur en vanmiddag drie COBEX zittingen. Met een lastige nazit vanwege procedurefouten die goed afgehandeld moesten worden. Aan het eind nog even een gezellige borrel bij Hans en Joke Werner. Al met al toch wel een goed bestede dag.

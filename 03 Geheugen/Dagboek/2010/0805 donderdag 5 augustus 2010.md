@@ -1,0 +1,2 @@
+# 0805 donderdag 5 augustus 2010
+Ben helaas niet tevreden over deze dag. Er komt veel te weinig uit mijn handen. Ben te veel afgeleid door de computer, spraakherkenning, tempo ligt te laag, ik ben niet streng genoeg voor mezelf. Morgen (vrijdag) proberen om een planning te maken en daar dan ook echt mezelf aan te houden. De vakantie is nu echt voorbij! Mediteren gaat wel goed, ook het ademhalen overdag. Proberen morgen geen tijd te morsen.

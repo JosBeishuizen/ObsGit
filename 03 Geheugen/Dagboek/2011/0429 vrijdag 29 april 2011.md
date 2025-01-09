@@ -1,0 +1,8 @@
+29 april
+Vrijdagochtend, straks college geven in Hoofddorp bij het zieltogende Inholland. Nog nauwelijks tijd gehad om met Anne te praten over Gert's overlijden. In de nacht van dinsdag op woensdag. We gaan een advertentie plaatsen, komt morgen in Trouw. Begrafenis zelf is op Bevrijdingsdag, volgende week donderdag. Is deze dood een bevrijding voor Gert geweest? Misschien moet ik Célines Reis naar het eind van de nacht nog eens nalezen om die vraag te kunnen beantwoorden. We hebben dat boek wel ergens in de kast staan.
+ 
+Er wordt wel obductie gepleegd maar Gert heeft bepaald dat er niet in zijn hoofd wordt gekeken. We weten dus niet of er metastasen van de blaaskanker zijn geweest die zijn verstand en gevoel hebben verduisterd, of dat het de drank was. Het doet er natuurlijk ook niet toe. Feit is dat hij aan het eind van zijn leven de nodige schade heeft aangericht, in de eerste plaats aan zichzelf, maar ook aan zijn omgeving, vooral aan Irma. Heel verdrietig allemaal. Hij heeft ook nog een relatie aangeknoopt met een vrouw die wij geen van allen kennen. Een zekere Caroline, die hij uit het café kende.
+ 
+Een ontluisterend einde van een leven waarin toch de toewijding aan de anderen, zijn ouders, zijn patiënten in het Zonnehuis en in Sinaï, zijn verdere familie, Irma, zijn vrienden, een belangrijke plaats innam.
+ 
+Ik zie hem nog zitten op de trap van een van de grachtenhuizen aan de Herengracht. We gaan terug naar huis na een bezoek aan Lanx. Gert heeft teveel gedronken, is even de weg kwijt. De drank heeft zijn volwassen leven enorm beheerst.

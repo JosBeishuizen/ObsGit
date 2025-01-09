@@ -1,0 +1,2 @@
+# 1121 donderdag 21 november 2024
+Zit nog steeds aan de krukken vast al begin ik er minder last van te krijgen. Kan al een tijdje gemakkelijk met één leuk lopen, in huis. Buiten nog met twee. Het gaat wel vooruit maar ontzettend langzaam.

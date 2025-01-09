@@ -1,0 +1,2 @@
+# 0101 zaterdag 1 januari 2005
+Bijzondere jaarwisseling, zonder kinderen. Cathrien in Helsinki, Sara in Utrecht, Berend bij Sander. Is prima bevallen, maar zal toch ook leuk zijn als Saar en Beer weer terug zijn. Cathrien komt dinsdagavond weer terug. Eén heel duidelijk voornemen voor dit jaar: steeds proberen terug te keren naar jezelf. De coherentie en integriteit van jezelf opzoeken, in werk, in relaties, in ontspanning. Daarbij hoort dat je het gevoel hebt dat je het kunt, dat je je verheugt, dat je anderen opzoekt, dat je plant, dat je blijft bewegen.

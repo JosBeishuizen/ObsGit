@@ -1,0 +1,4 @@
+# 0307 maandag 7 maart 2005
+Maandagochtend kwart voor 10. De zon komt net boven de berg uit en schijnt de kamer in. Het belooft een stralende dag te worden, zeker als Erwin Krol gelijk krijgt, gisteravond op de Nederlandse tv, de we hier per satelliet ontvangen. Gister uiteindelijk een steile tocht omhoog en weer omlaag gemaakt bij het kerkje van de Virgen del Pino, achter El Paso. Nu karnemelkse kuiten, hopelijk trekt dat in de loop van de dag weer weg. Vanochtend boodschappen doen in Las Llanos. Vanmiddag misschien alsnog de vulkaan.
+
+Het is nu 10 voor half 2 of 10 voor half 1, daar zijn we niet zeker van. Los Llanos bleek een gezellig stadje te zijn, mooie oude straatjes. De wolken pakken samen tot regen? Onbekommerd van de zon genieten zit er toch niet in.

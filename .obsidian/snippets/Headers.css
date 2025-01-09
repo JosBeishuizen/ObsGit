@@ -1,0 +1,62 @@
+﻿/* headlines :: SOURCE + LIVE */
+
+dummy { 
+/* without this dummy class, it doesn't work */
+/* for whatever reason? - there must be a class in front */
+}
+
+.cm-header {
+  font-weight: normal !important;
+} 
+
+.cm-s-obsidian pre.HyperMD-header-1, .markdown-preview-view h1 { 
+  margin-bottom: 0.0em ! important; 
+  font-size: 18px !important; font-weight: normal !important; color: #8be9fd ! important;
+} 
+
+/* << ------------------ Reading View ------------------ >> */
+	.markdown-preview-view h1 {
+		font-size: 24px !important; color: #8be9fd ! important;
+	}
+
+	.markdown-preview-view h2 {
+		font-size: 14px !important; color: #8be9fd ! important;
+	}
+
+	.markdown-preview-view h4 {
+		font-size: 14px !important; color: #8be9fd ! important;
+	}
+
+body {
+    --list-bullet-size: 0; /* default - 0.3em */
+}
+
+/* << ------------ Source View / Live Preview ------------ >> */
+	.cm-s-obsidian .cm-header.cm-header-1 {
+		font-size: 24px !important; color: #8be9fd ! important;
+	}
+
+     .cm-s-obsidian .cm-header.cm-header-2 {
+		font-size: 18px !important; color: #8be9fd ! important;
+	}
+
+.kop1 {
+  color: yellow !important; 
+  font-size: large !important;
+}
+
+.kop2 {
+  color: #8be9fd; 
+  font-size: medium;
+}
+
+.alinea {
+  color: white; 
+  font-size: 15px;
+}
+
+.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h1,h2,h3,h4,h5,h6) {
+    line-height: 1em !important;
+    margin:2px 0px 2px 0px !important;
+    padding: 1px 0px 2px 0px !important;
+}

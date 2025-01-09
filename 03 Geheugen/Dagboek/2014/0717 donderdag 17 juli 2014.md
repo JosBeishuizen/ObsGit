@@ -1,0 +1,2 @@
+# 0717 donderdag 17 juli 2014
+Vandaag naar Spoleto. Vanochtend al weer heerlijk hard gelopen naar Spello, macchiato en fruit gekocht en weer terug gelopen. Hier in Spello bevalt het goed, veel beter dan in Preci. Het weer is natuurlijk ook een stuk beter. En af en toe een duikje in het zwembad is ook wel heerlijk. Maar vooral het huis en de heerlijke tuin eromheen. Gisteravond trakteerden Berend en Sietske ons op een cena in La Cantina di Spello. Heel gezellig en smakelijk. Van Sietske beginnen we wel een beeld te krijgen. Heel positief. 

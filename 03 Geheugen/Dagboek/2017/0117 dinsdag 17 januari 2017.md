@@ -1,0 +1,2 @@
+# 0117 dinsdag 17 januari 2017
+Een nieuwe ROM op de telefoon maakt het apparaat zelf ook weer een beetje nieuw. Installatie heeft wel weer veel tijd gekost maar ik ben toch heel blij met het resultaat. Hopelijk kunnen we de configuratie een tijdje zo houden.

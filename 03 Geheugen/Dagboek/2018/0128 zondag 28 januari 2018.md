@@ -1,0 +1,2 @@
+# 0128 zondag 28 januari 2018
+Mercia ziek, vermoedelijk RS-virus. Stevige verkoudheid, geen koorts. Lastig met het drinken en een beetje huilerig maar verder is het te doen. Anne ook niet lekker, maag van streek. Gelukkig ging het vanavond weer een beetje beter. Boodschappen gedaan, soep klaargemaakt voor de Nieuwjaarsborrel met het huis morgen.

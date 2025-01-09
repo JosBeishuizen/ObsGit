@@ -1,0 +1,7 @@
+# 0807 zondag 7 augustus 3011
+My Lord, wat a morning in Egmond. Stuk hardgelopen langs het strand en daarna een bescheiden duikje in de prachtige zee.
+
+Intussen is het half 12 in de avond en gaan we slapen na een prachtige Zomergasten-avond met Step Vaessen, journalist in Djakarta. Het ging vooral over het verlies van haar man die een jaar geleden zelfmoord pleegde, nadat ze een jaar daarvoor gescheiden waren. Mooie uitspraak van Jelle BC, citaat uit een brief van Vincent van Gogh: zelfmoord maakt van de achterblijvers moordenaars. Ze heeft een zoon van 11. Ze vertelt hoe haar zoon en haar omgeving haar door het verdriet hebben heengesleept. Hoe ze nu op een veel diepere manier gelukkig is, niet meer de carriere bovenaan zet. Ik hoop dat A.F.Th. Van der Heijden de avond heeft bekeken, hij kan van Step Vaessen veel leren over rouwverwerking. Step Vaessen vertelde hoe ze met haar zoon hun eigen rouwverwerkingsprogramma samenstelde, veel lachfilms, zoals The Hangover. Hoe ze geleerd heeft haar zegeningen te tellen. Hoe bang de president van Indonesië is. Het beeld vertoonde grote gelijkenis met dat van René Smit.
+
+Vandaag met Sara naar Geert en Linda geweest om afscheid te nemen van Sophie, die een half jaar stage gaat lopen in een Londens hotel. Sara was erg somber over haar vriend Lennaert. Gelukkig vanavond toch iets opgewekter. Ik kreeg opeens zelfmoordvisioenen, moet echt serieus proberen met Saar in gesprek te komen.
+

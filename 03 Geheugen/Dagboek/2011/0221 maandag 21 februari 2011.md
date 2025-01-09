@@ -1,0 +1,2 @@
+# 0221 maandag 21 februari 2011
+Vanmiddag zijn Sara en Karlijn weer veilig teruggekomen uit India. Hiephiep hoera! Zelf kon ik er helaas niet bij zijn toen ze aankwamen op Schiphol, maar de hele verdere misjpoche was er. Vanavond gezellig met z'n tienen thuis gegeten, incl. Teun en Greet Borst, Jochem & Cathrien, Berend en Ger. Nog een keer de prachtige foto's bekeken.

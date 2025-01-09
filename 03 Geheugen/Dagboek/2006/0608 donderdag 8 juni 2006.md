@@ -1,0 +1,2 @@
+# 0608 donderdag 8 juni 2006
+Geen dingen doen die je zelfgevoel ondermijnen. Dat zou een goed uitgangspunt kunnen zijn voor de rest van mijn leven. Dat begint eigenlijk al met rechtop achter je computer gaan zitten. Maar Sudoku kan dan eigenlijk ook niet meer. De vraag is natuurlijk wel wat je rekent tot versterking van je zelfgevoel en wat tot ondermijning. Je kunt het jezelf wel erg lastig maken. Maar het uitgangspunt is gezond. Het klinkt eigenlijk heel egocentrisch. Maar met een sterk zelfgevoel kun je ook anderen meer van dienst zijn.

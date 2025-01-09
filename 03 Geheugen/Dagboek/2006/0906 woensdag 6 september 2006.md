@@ -1,0 +1,2 @@
+# 0906 woensdag 6 september 2006
+Hoe verder te gaan. Gister een succesvolle opening van het academisch jaar gehad. Mijn verhaal over de onderwijsvisie ging er, samen met de twee filmpjes, in als koek. Afscheid van Taede was goed, zelfs ontroerend volgens Hans Zloch. Nu de vraag: nadruk op onderhoud (mails, stukken voor morgen), of nadruk op inhoud. Ik kies nu voor onderhoud, wil niet zeggen dat ik dat morgen ook doe.

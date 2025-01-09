@@ -1,0 +1,2 @@
+# 0628 vrijdag 28 juni 2013
+Bari, avond. Eerste vakantiedag goed verlopen. Vanochtend om half 8 de tram genomen. Om half 11 het vliegtuig volgens plan vertrokken. In Milaan overgestapt. En om  5 over 4 hier aangekomen. Autootje mee  en al weer heerlijk gegeten bij Travi.   Nog even Dan Brown en dan op tijd naar bed.

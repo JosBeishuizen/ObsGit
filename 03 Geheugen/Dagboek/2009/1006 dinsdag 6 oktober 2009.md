@@ -1,0 +1,8 @@
+# 1006 dinsdag 6 oktober 2009
+Weer een week aan het werk. Loopt allemaal heel goed. Met Lex een afspraak gemaakt om te gaan eten! Hij reageerde spontaan positief. Wat is mijn rol nu eigenlijk echt op de VU en wat moet ik eraan doen om die rol verder te ontwikkelen? Ook een aardig gespreksonderwerp. Met Anne loopt alles heel erg goed. Vanavond gaan we gezellig naar een voorstelling van Paulien Cornelisse in de Griffioen, eerst even eten bij een Italiaan op het Gelderlandplein, ik heb er zin in. Een mooi citaat van Paul Auster: 
+
+Want geen woord kan worden geschreven zonder dat het eerst is gezien, en voordat het zijn weg naar de bladzijde vindt, moet het eerst deel hebben uitgemaakt van het lichaam, een lichamelijke aanwezigheid waarmee je op dezelfde manier hebt geleefd als je met je hart, je maag en je hersens leeft. Het geheugen dus, niet zozeer als het verleden dat in ons is opgeslagen, maar als een bewijs van ons leven in het heden. Om werkelijk aanwezig te zijn in de ons omringende wereld, moeten we niet aan onszelf denken maar aan wat we zien. We moeten onszelf vergeten om hier en nu aanwezig te zijn. En uit die vergetelheid komt de kracht van het geheugen voort. Het is een manier om je leven zo te leven dat niets ooit verloren gaat. 
+
+Erg indrukwekkende tekst. Om werkelijk aanwezig te zijn moeten we niet aan onszelf denken maar aan wat we zien. We moeten onszelf vergeten om hier en nu aanwezig te zijn. 
+
+OK, 's ochtends gewoon een goede start maken. Op tijd naar huis, daar gaat het om in het leven.

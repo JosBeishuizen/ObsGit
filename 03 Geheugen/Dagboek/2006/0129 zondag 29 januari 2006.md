@@ -1,0 +1,2 @@
+# 0129 zondag 29 januari 2006
+Weet niet zeker of het achterwege laten van dagboeknotities een goed of slecht teken is. Hoe dan ook, we zitten in Valence waar we gisteravond zijn gestrand vanwege de enorme chaos op de autoweg. Er is hier een pak sneeuw van 40 cm gevallen.

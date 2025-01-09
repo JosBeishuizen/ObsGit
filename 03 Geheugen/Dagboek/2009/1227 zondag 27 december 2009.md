@@ -1,0 +1,2 @@
+# 1227 zondag 27 december 2009
+07:09. Chaotische dagen. Gisteren wel een aantal interviews van Ischa Meijer bekeken, heel gezellig kerstdiner dat was bereid door Sara en Cathrien. Sara hield me wel weer de spiegel voor toen ze twee dingen noemde waar ze een enorme hekel aan had: mensen die anecdotes steeds opnieuw vertellen, en mensen die niet goed kunnen luisteren en wanneer de gesprekspartner een probleem stelt alleen maar over hun eigen ervaringen beginnen te blaten. Nou ja, fouten maken is niet erg, je moet er wel iets van proberen van proberen te leren. 

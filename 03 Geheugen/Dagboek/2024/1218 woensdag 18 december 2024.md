@@ -1,0 +1,3 @@
+# 1218 woensdag 18 december 2024
+Gezellig bij Florence en Alfred gegeten. Aan het interieur van hun huis verandert niets. De tegeltjes in het toilet, de houten plankjes ter afdekking van de waterleiding boven het fonteintje. Florence wordt doof. Ze gaan niet meer naar concerten. 's Avonds gaat na het Journaal de tv uit. De rest van de avond lezen. 
+Vandaag weer de vinkjes gehaald: 5000 stappen en 20 hartpunten. Een eindelijk, na twee jaar, het boek van Renée van Riessen over Levinas uit. Erg moeilijk en erg mooi.

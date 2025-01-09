@@ -1,0 +1,7 @@
+# 0304 vrijdag 4 maart 2011
+Terug uit Zwolle waar ik de lectorale rede van Ria Kleijnen heb beluisterd. Onsamenhangende en narcistische onzin. Maar ook nog even met Cor de Raadt gesproken die zowaar bereid is om  een reddingspoging voor het Onderwijscentrum te ondernemen. Het zal toch niet zo zijn dat Cor voor de redding zorgt? Vijf fijne dingen van dit moment.
+1. We zijn allemaal gezond en maken het goed. sara is veilig en wel teruggekeerd uit India, heeft een fantastische reis gemaakt met Karlijn. Is begonnen aan haar coschappen. Cathrien is met haar laatste week chirurgie in Alkmaar bezig. Berend heeft een vriendinnetje. Stiamo tutti bene.
+2. Het is vrijdagavond, het weekend begint. Vanavond lekker zingen. Straks nog even snel boodschappen doen bij Dirk. Morgenvroeg schrijven, morgenmiddag het proefschrift van Tjeerd lezen, morgenavond leesclub.
+3. Het wordt weer lente. Het is nog koud maar we gaan weer de goede kant op.
+4. Mijn relatie met AC is op het moment heel goed, omdat we het lichamelijk contact als basis nemen. Geen sex maar wel nabijheid, warmte en tederheid. Als dat goed zit komt de rest ook goed.
+5. Ik geniet van mijn bezigheden, met name buiten de VU-deur. Ik bedoel de ICL, ICO, EARLI, maar ook de instellingsaudit binnen de VU. En ik ga ook weer meer genieten van de inhoud. 

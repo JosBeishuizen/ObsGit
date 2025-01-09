@@ -1,0 +1,2 @@
+# 1228 zondag 28 december 2003
+Grijs regenweer. Weer eens op zoek naar de sleutel tot een beter leven. Bewegen, dat doe ik te weinig. Raak te veel in stilstand, wat bijna altijd tot somberheid leidt. Wat ook tot somberheid leidt: je voornemen iets te doen en het dan niet doen. Wat ook tot somberheid leidt: geen voornemens hebben en stuurloos raken. Bewegen en een plan hebben, dat zijn belangrijke wegen voor het vermijden van de somberheid. Wat is mijn plan nu? Even wat dagboekfragmenten van mijn PDA halen.

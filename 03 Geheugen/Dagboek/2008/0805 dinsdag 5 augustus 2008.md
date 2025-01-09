@@ -1,0 +1,2 @@
+# 0805 dinsdag 5 augustus 2008
+Met zo'n groot gezelschap is het lastig om tijd voor jezelf te vinden. Het is gezellig maar ik ben blij dat het maar een weekje duurt. Zondagavond is Anne door haar enkel gegaan toen we in het donker terugliepen naar huis. Enkelbanden stevig verrekt of misschien wel gescheurd. Een kwestie van rust houden met een stevige zwachtel er omheen. Zondag en gisteren geen uitstapjes ondernomen behalve bezoeken aan de Coöp en de ochtendwandelingen naar zee. Vanochtend gaan we naar Volterra.

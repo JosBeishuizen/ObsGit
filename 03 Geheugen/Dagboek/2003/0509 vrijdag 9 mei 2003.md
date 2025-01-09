@@ -1,0 +1,9 @@
+# 0509 vrijdag 9 mei 2003
+09:19	Even verder met het verhaal.
+
+Donderdagmiddag verder de uitvaart besproken. Daarna kwamen de mannen van de begrafenisonderneming om Ma in de kist te leggen. Beneden in de serre alles klaargemaakt. Naar Geert om daar te eten. 's Avonds naar huis.
+
+Vrijdag 2 mei 's ochtends al een deel van het boekje gemaakt, teksten en liedjes gescand. 's Middags weer naar Geert om met pastor Hans Dijkman de avondwake te bespreken. Pastor Dijkman is een vrolijke man met een kruis om de nek, een late roeping met cara. Hij had zelf een tekst uit de Spreuken gekozen, de sterke vrouw. We hebben er nog uit Lucas aan toegevoegd: geen zorgen voor de dag van morgen. Na dit overleg naar De Wilp om bij Piet Zoomers pakken uit te zoeken. We waren een soort mafiafamilie die zich voor de begrafenis van La Mama netjes in de kleren wilde steken. Helaas was er voor Berend geen goede maat. Beer teleurgesteld. Hij wilde dolgraag een pak, voelde zich duidelijk bij de groten horen. Nadat we ons voor 2000 euro hadden uitgedost naar Richard waar we elkaar om 20 uur troffen. Het gesprek wilde niet goed op gang komen. Uiteindelijk met Richard en Marjolijn nog wel goed doorgepraat. Richard's opmerking dat verdriet en gedeprimeerdheid niet hetzelfde zijn werd Thijs beaamd. Anne en Richard probeerden hun reacties onder woorden te brengen. Richard: verdriet en dankbaarheid.
+
+Zaterdag 3 mei 's ochtends in de Broederenkerk voor het eerst sinds jaren weer op een kerkorgel gespeeld. Voelde zeer goed. 's Middags weer naar huis. Gelukkig 's middags voor Berend in de stad een pak kunnen vinden. Bij een vermoedelijk joodse winkel op de Nieuwendijk. Verder gewerkt aan boekje. Alles naar Veronique gemaild die de zaak met Richard naar de drukker heeft gebracht. Anne had een mooie afbeelding van een relief met Maria van Della Robbia voor de voorkant uitgezocht.
+

@@ -1,0 +1,2 @@
+# 1109 zaterdag 9 november 2024
+Vanochtend Deze Wereld Anders bij Cobi en Gerard. Helemaal goed gegaan. Bart-Jan en Jeffrey hebben mij opgehaald. Gesprek ging goed. Lunch gezellig. Daarna weer terug met Bart-Jan en Jeffrey die me afzetten bij het Mosplein. Boodschappen gedaan bij de Vomar. Achter zo'n boodschappenkar aanlopen valt nog niet mee, ging niet heel netjes symmetrisch. Nu weer veilig thuis. Anne is aan het wandelen op Texel. Een hele reis. 

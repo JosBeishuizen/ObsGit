@@ -1,0 +1,8 @@
+# 0722 vrijdag 22 juli 2011
+Vandaag komen de kinderen en Gerrie aan. Nog een nacht in Napels en dan nog een week in Castellabate. Gisteren hebben we veel leuke dingen gedaan. ‘s Ochtends een gezellig ontbijt in ons hotel. Daarna met de taxi naar Capodimonte om het museum te bekijken. Heel mooie exemplaren van Masaccio, Tiziano en natuurlijk de plaatselijke beroemdheid Caravaggio. Zijn Geseling inderdaad zeer mooi. Toen met de taxi naar Piazza Garibaldi (voor het station) en via de Corso Umberto I het centro storico in. Heerlijke pizza gegeten bij Da Michele (nummertje trekken en half uur wachten, veel Amerikanen). Daarna even een soort siësta gehouden op een pleintje. Veel kerken waren toch dicht en veel bezienswaardigheden alleen in de ochtend open.
+
+Uiteindelijk kwamen we terecht in de kloostertuin van de Santa Chiara, de tuin met de majolica tegels en met de fresco’s. Heel erg mooi, een oase van rust. Al snel bleek dat er een concours voor lyrische zangstemmen aan de gang was. In een zaal zat een jury en werd voorgezongen. We gingen erbij zitten en hebben een aantal kandidaten gezien en gehoord. Iedereen geweldig in de zenuwen natuurlijk. Bijna allemaal jonge vrouwen, één jongeman. Het klonk over het algemeen erg mooi. zondag is de finale in de Santa Chiara, maar dan wij al in Castellabate.
+
+Uiteindelijk weer een biertje genomen bij de San Domenico. In een van de huizen aan het plein heeft de componist Gesualdo uit Venosa zijn vrouw en haar lover om zeep geholpen.
+
+Gisteravond erg leuk gegeten bij Nennella in de Spaanse wijk. Eenvoudige maaltijd maar vrolijke obers die hun bestellingen luidkeels doorgeven aan de keuken.

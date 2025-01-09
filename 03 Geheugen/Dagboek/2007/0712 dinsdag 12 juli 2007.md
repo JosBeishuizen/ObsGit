@@ -1,0 +1,4 @@
+# 0712 dinsdag 12 juli 2007
+Heel slecht nieuws over Jozien. Insulten, met spoed naar het ziekenhuis, halfzijdige uitval, spraakproblemen. Problemen zijn het gevolg van oedeem, wordt bestreden door een soort prednison. Dat moet wel snel verbetering geven. Vandaag een nieuwe scan, analyse van het biopt door de patholoog. Kijken of er nog wat te redden valt. Tertius was gisteren geheel van de kaart, proberen met hem in gesprek te blijven. 
+
+Knetterend onweer en hevige regen, het lijkt wel of God zelf woedend is en huilt over Jozien. Tertius zei gisteren door de telefoon dat zijn geloof onder druk staat. Onder de acuutheid van de situatie misschien een beetje en vreemde opmerking. Hoe dan ook, verbittering is wel het laatste waar hij op dit moment maar ook in de nabije toekomst iets mee opschiet.

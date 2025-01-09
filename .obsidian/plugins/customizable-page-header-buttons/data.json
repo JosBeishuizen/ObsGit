@@ -1,0 +1,14 @@
+{
+  "enabledButtons": [],
+  "desktop": true,
+  "titleLeft": [
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "Navigeer terug"
+    }
+  ],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}

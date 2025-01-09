@@ -1,0 +1,2 @@
+# 1229 vrijdag 29 december 2023
+Vanochtend in Egmond de waterstand gecontroleerd. Helaas geen verbetering, was eigenlijk ook niet te verwachten. Slang ingegraven en tijdschakelaar op twee periodes per etmaal gezet: van 10 tot 13 en van 16 tot 21:30. Zondag kijken hoe de accu zich houdt.

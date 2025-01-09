@@ -1,0 +1,6 @@
+# 0722 dinsdag 22 juli 2008
+Een wolkeloze hemel, schuimkoppen op de zee. We gaan vandaag een wandeling maken. Eerst over de kam in noordelijke richting, dan op een goed moment linksaf naar beneden. 
+
+Gisteravond gesproken over momenten waarop Anne zich rijk heeft gevoeld. In Perugia samen met Cathrien. Aan ma's sterfbed toen zij de kinderen een voor een bij zich riep en tegen Anne zei dat ze het goed had gedaan. 
+
+Half twee in de middag. Op een terras aan zee bij Riomaggiore, waar het nog rustig was maar waar nu een ruziënde Nederlandse familie is neergestreken. Nou ja, nadat vader een lekker sigaartje heeft opgestoken en de pizza's zijn besteld valt het eigenlijk wel mee. Vanochtend vanuit het huisje een mooie tocht gemaakt via de kam naar Volastro en verder naar Manarola. Over de kam was goed te doen maar de afdaling was pittig. Smalle paden, veel bramen en andere doornstruiken, soms heel steil naar beneden. In Manarola de trein naar Riomaggiore genomen, net de bus van half een gemist. Een broodje gegeten op een bankje en nu lekker lezen op een overdekt terras.

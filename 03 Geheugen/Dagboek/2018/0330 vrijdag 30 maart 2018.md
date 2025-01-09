@@ -1,0 +1,2 @@
+# 0330 vrijdag 30 maart 2018
+Zeer slapeloze nacht. Kriebelhoest. Anne snurkt. Gisteravond dacht ik bij de Mattheus in de Grote Kerk in Naarden serieus dat het wel eens de laatste keer zou kunnen zijn dat ik de Mattheus in het echt hoor. Maarten ‘’t Hart heeft het met zijn pijnlijke rug en schouder nog veel slechter. Goed om te lezen dat de Nederlanders zich steeds gelukkiger voelen. Voor het eerst sinds 2008 overtreft het aantal optimisten het aantal pessimisten.

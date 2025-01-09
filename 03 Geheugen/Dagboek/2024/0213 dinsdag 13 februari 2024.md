@@ -1,0 +1,4 @@
+# 0213 dinsdag 13 februari 2024
+Na het prima ontbijt in de tuin rijden we naar Ponta do Pargo voor een koffie in een enigszins morsig barretje. De rondwandeling begint even verder buiten het plaatsje. Mooie tocht door weiden en eucalyptusbossen die helaas ernstig te lijden hebben gehad van een grote natuurbrand een antal jaren geleden. Mooie doorkijkjes naar de zee. Lunch bij de kapel van Nossa Senhora da Boa Morte, helaas gesloten zoals alle kerken hier op het eiland. 
+
+De wandeling bleek heel goed te doen. 10 km, 350 m stijgen en dalen, 4 uur. Terug naar onze Quinta, siësta en lekker gelezen.

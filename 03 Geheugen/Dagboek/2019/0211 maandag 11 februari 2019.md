@@ -1,0 +1,7 @@
+# 0211 maandag 11 februari 2019
+Het afgelopen weekend logeerde Mercia bij ons. Cathrien en Jochem brachten haar zaterdag rond de koffie en zondag kwam Cathrien Mercia weer halen aan het eind van de dienst. Het ging allemaal goed en was heel gezellig. Mercia moest in de slaap af en toe een beetje huilen maar werd niet wakker. Voor dat we naar de kerk gingen werd Merc een beetje baldadig en kreeg ik de regenbroek niet aan. Ik sprak haar streng toe en Merc begon prompt te brullen: “Wil naar mama toe, naar papa, naar oma!”. Gelukkig was in de lift het leed al weer geleden. De kerk ging goed maar Merc ging niet slapen. Cathrien stond tijdens het slotlied naast ons en begon mee te zingen. Toen moest ik toch wel een beetje slikken.
+Mercia gebruikt vaak worden als “eng”, “spannend”, “boos”, “lief”. Het was erg leuk om weer bij met de kabouterhoutjes te spelen. En om “Wim is weg” voor te lezen. Mercia zegt Wimie, Jossie.
+Gistermiddag naar Sietske’s verjaardag, gezellig met Jitske en Gerrie. Siets heeft gesolliciteerd op een promotieplaats bij het Huygens instituut. Heel spannend of het doorgaat.
+Gisteravond naar de verjaardag van Chrétien, 70 geworden. Heel gezellig gepraat met Ybo Buruma, blijkt in Harderwijk op school te hebben gezeten.
+
+![](Screenshot_2024-12-12-08-18-33-383_cn.wps.xiaomi.abroad.lite-edit.jpg)

@@ -1,0 +1,5 @@
+# 0218 zondag 18 februari 2024
+Laatste dag op Madeira, vanavond met het vliegtuig terug. Vanochtend in de mist en regen opgestaan, prima ontbijt. Nog even over de uitgestrekte boerenmarkt gelopen. Trok veel mensen aan. Toen afgedaald naar Machico, mooi stadje aan de zee. We zaten een tijd aan op de boulevard, daar ook geluncht met een tuna steak. We hadden een prachtig uitzicht op de aanrollende golven en de branding en de surfers die steeds opnieuw dappere pogingen deden om staande te blijven op de golven. Rond half drie de auto teruggebracht naar de verhuur in Santa Cruz en daar ook nog even aan de boulevard gezeten met een kopje thee. Ook al weer mooi, veel kleinschaliger maar heel sfeervol. 
+Rond half vier weer naar de verhuur gelopen en met het busje naar het vliegveld. Dan begint het wachten en in de rij staan, maar nu zijn we weer veilig thuis. Toch een wonder! 
+
+![](IMG_20240218_135024.jpg)![](IMG_20240218_135528_1.jpg)![](IMG_20240218_144803.jpg)

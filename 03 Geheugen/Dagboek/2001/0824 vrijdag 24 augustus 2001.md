@@ -1,0 +1,6 @@
+# 0824 vrijdag 24 augustus 2001
+Cathrien vertrekt naar Lowlands. AC opgewonden, last-minute orders. Gisteren met Cathrien een indringend gesprek gehad. Ik verweet haar dat ze ons negeerde. Ze zei dat ze geen ruzie wil en daarom soms dingen niet zegt. Ik heb benadrukt dat ze uit respect voor zichzelf en de anderen dingen juist wel moet zeggen en moet leren hoe je iemand kunt duidelijk maken dat je een andere mening hebt zonder de ander daarbij te kwetsen. 
+
+Ik mag dat wel eens op mezelf toepassen. Moet AC niet ontlopen, maar eerlijk en met respect voor haar en mezelf dingen zeggen.
+
+Nog iets anders. Gebrek aan wilskracht is soms het gevolg van vermoeidheid en de aanwezigheid van aandachttrekkers als tv en computer. Ontspanning is dus nodig en moet ingepland worden! Wel afgepast. Daarnaast een soort noodplan: in ieder geval altijd gaan lezen in plaats van computer of tv. Wat lezen? Shalev heb ik nu onder handen. Toch ook belangrijk om een roman te lezen. Ik ga Hemingway weer oppakken. Dagelijks een portie van 20 bladzijden. Dat in ieder geval, voor computer of tv worden aangezet.

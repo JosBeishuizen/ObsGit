@@ -1,0 +1,2 @@
+# 0530 zaterdag 30 mei 2009
+Gisteravond gegeten met het bestuur van SVOAZ en afscheid genomen van Jan Nooitgedagt. Jan zei over Hans Buijze: het is in de eerste plaats zijn probleem, hij heeft zichzelf ermee. Doet me heel erg denken aan de nuchtere houding van John Schulte. Bijvoorbeeld in het conflict met Henk Verhaar destijds. Kennis gemaakt met de partner van Hans van Rooijen, Annemarie Thomassen, rector van het Stedelijk Gymnasium in Leiden.

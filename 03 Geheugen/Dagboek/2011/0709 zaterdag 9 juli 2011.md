@@ -1,0 +1,4 @@
+# 0709 zaterdag 9 juli 2011
+Vandaag een spectaculaire tocht naar de Monte Pollino, 2248 m hoog, de berg waar het park naar is vernoemd. Vertrek om 8.45 uur per landrover uit de rifugio. Om 9 uur vanaf Colle Impiso, groep van 8 wandelaars. Ervaren gids, Pino. Stevige tocht omhoog, langs een aantal bijzondere exemplaren van de pino loricato, de gepantserde den. Grillige oude tot zeer oude dennen, meegegroeid met de wind. Rond 13.15 uur op de top van de Monte Pollino geluncht en foto’s gemaakt. Rond 14.30 weer terug, langs heel veel pini loricati. Veel foto’s gemaakt. Uiteindelijk rond 19 uur weer bij de auto, moe maar voldaan. Onderweg nog mooie planten gezien zoals de gentiaan en belladonna. In het gezelschap een mooi exemplaar uit een Fellini film, Claudio, veelvuldig bezoeker van de sportschool met een gespierde biceps en een Mussolini onderkaak, zeer komisch.
+
+![[Pasted image 20220817101708.png]]

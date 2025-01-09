@@ -1,0 +1,2 @@
+# 0524 donderdag 24 mei 2007
+Niet klagen maar dragen en bidden om kracht. Laten we proberen om ons daaraan te houden deze dag. Toch proberen om van elk uur en van elke minuut iets zinvols te maken. Ook proberen om elke handeling met aandacht te doen. Tenslotte proberen om steeds met een zekere spanning een volgend doel in gedachten te houden en daar naartoe te leven.

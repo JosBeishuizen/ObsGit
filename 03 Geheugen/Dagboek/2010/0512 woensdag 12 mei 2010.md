@@ -1,0 +1,2 @@
+# 0512 woensdag 12 mei 2010
+Half een op het vliegveld in Rome. Zo dadelijk vertrekt het vliegtuig naar Palermo. Nu een soort grote moeheid, maar ook het heilige voornemen om de aandacht sterk op Anne-Carien te richten en alles een beetje rustig aan te pakken. Vanavond gezellig wandelen in Palermo en hopelijk lekker eten.

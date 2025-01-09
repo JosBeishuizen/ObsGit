@@ -1,0 +1,6 @@
+# 0729 dinsdag 29 juli 2008
+Even een update. Afgelopen zondag hebben we 's ochtends eerst op ons dakterrasje koffie gedronken. Na de siësta naar Porto S. Stefano gereden. Daar rondgelopen, ons vergaapt aan de grote motorschepen en een visje gegeten bij de haven. Roeiers gingen voortdurend op en neer alsof ze trainden voor een wedstrijd. Voor ons lag een enorm schip, de Mamma Mia. 
+
+Gisteren eerst 's ochtends op het caféterras kaarten geschreven en 's middags naar Pitigliano gereden. Prachtige stadje met vrij grote Joodse wijk, gebouwd op tufstenen rotsen. Veel grotten (sommige door de Etrusken uitgehouwen als groeve). Erg mooi stadje. Berend is weer veilig thuis uit Frankrijk, Cathrien uit Berlijn, gaat vandaag met Renate per trein op weg naar Italië. Met Sara en Karlijn weinig contact gehad. Gisteren een e-mail. Vrijdag loopt hun interrail kaart af. We hebben ze geadviseerd om in Pisa te blijven en zaterdag naar Cécina te reizen. 
+
+Vandaag willen we naar het natuurpark de Maremmen en vanmiddag naar het strand. Een heel dagprogramma dus. Je moet hier in het algemeen een uur rijden om een attractie te bereiken.

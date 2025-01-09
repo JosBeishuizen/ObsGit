@@ -1,0 +1,4 @@
+# 0715 vrijdag 15 juli 2011
+Vandaag wordt Miekemak 71 jaar. We hebben haar even gebeld toen we boven op de Piazza Vittorio Veneto een Estaté dronken. In Nederland boos weer met storm en regen en 16 graden. Hier zon en droog en minstens 40 graden.
+
+Ons hotel, de locanda San Martino, is weer pico bello. Vanochtend rustig vertrokken uit Il Pago, hartelijke mensen. We waren hier in Matera rond 11 uur. Locanda snel gevonden, kamer was nog niet klaar. Eerst een verfrissing genuttigd en broodjes gekocht. Toen de kamer ingericht, siësta genomen en een rondje om de buitenkant van de twee “krottenwijken”, de sassi. Prachtige barokkerken, mooie tentoonstelling. Vanavond lekker gegeten en geflaneerd. Veel volk op straat. Nu nog op het terras in de volle maan.

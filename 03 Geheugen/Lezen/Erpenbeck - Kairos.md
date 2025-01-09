@@ -1,0 +1,68 @@
+# Erpenbeck - Kairos
+## Jenny Erpenbeck beschrijft alleen de zonzijde van de DDR
+
+Jenny Erpenbeck | Schrijver De boeken van Jenny Erpenbeck worden wereldwijd goed ontvangen. De vertaling van haar roman Kairos kreeg dit jaar zelfs de International Booker Prize. Maar in Duitsland is ze minder geliefd, daar vindt men dat ze het DDR-verleden te veel romantiseert. „Het verbaast me dat lezers dat allemaal slikken als zoete koek.”
+Auteurs
+Nynke van Verschuer
+ Gepubliceerd op 23 augustus 2024 om 18:00
+
+Jenny Erpenbeck toont een exemplaar van haar roman Kairos en de International Booker Prize 2024 die ze daarvoor samen met vertaler Michael Hofmann ontving.
+Foto David Parry/Shutterstock
+Jenny Erpenbeck was tweeëntwintig jaar oud toen de Muur viel. Die avond van 9 november 1989 bracht Erpenbeck met vriendinnen door, en vervolgens ging ze vroeg naar bed. „Door het wereldgebeuren ben ik heen geslapen”, schrijft ze in een essay van 2013. In het stuk lijkt Erpenbeck daar niet rouwig om, het klinkt meer alsof ze het liefst nog een paar dagen met de dekens over haar hoofd was blijven liggen. Ze had geen haast om van de nieuw gewonnen vrijheid gebruik te maken. „Plotseling werd er veel over vrijheid gesproken,” schrijft ze, „maar met dat woord […] kon ik weinig.”
+
+Schrijver Jenny Erpenbeck (1967) heeft altijd ambivalente gevoelens gehouden over de implosie van de DDR waar ze opgroeide. „De vrijheid”, vervolgt ze in het stuk van 2013, „had een prijs, en de prijs was mijn gehele leven tot dan toe.”
+
+Door die weemoedige blik op de DDR worden de boeken van Erpenbeck in haar thuisland een stuk gereserveerder ontvangen dan internationaal. In mei van dit jaar won Erpenbeck, samen met vertaler Michael Hofmann, de International Booker Prize voor de roman Kairos (2021), haar boek over een ontrafelende liefdesrelatie tegen de achtergrond van het ineenstortende socialisme. Eerder kreeg Erpenbeck ook al een voorloper van die prijs voor in het Engels vertaalde fictie, de Independent Foreign Fiction Prize van 2015, voor haar roman Een hand vol sneeuw (2012). Literair criticus James Wood tipte Erpenbeck in 2017 in The New Yorker voor de Nobelprijs voor Literatuur, onder meer voor haar roman Gaan, ging, gegaan (2016).
+
+CV
+Jenny Erpenbeck (Oost-Berlijn, 1967) begon haar carrière in de jaren negentig in het muziektheater. Ze was assistent van regisseur Heiner Müller.
+
+Als schrijver debuteerde ze in 1999 met de roman Geschichte vom alten Kind. Haar bekendste boek is Kairos (2021). Zekreeg in 2017 het Bundesverdienstkreuz, een van de hoogste Duitse onderscheidingen.
+
+Ze is getrouwd en heeft een zoon.
+
+Ook in Duitsland is Erpenbeck een beroemde en belangrijke schrijver, maar ze wordt niet zo jubelend onthaald als in het buitenland. Literair criticus Helmut Böttinger, die onder andere voor Deutschlandfunk en de Sueddeutsche Zeitung schrijft, zegt: „Erpenbeck krijgt zeer goeie kritieken en de oplages zijn hoog. Maar het valt op dat ze nog niet een van de grote Duitse literatuurprijzen kreeg.”
+
+Veel van de details uit haar jeugd die Erpenbeck in haar non-fictie beschrijft, teksten die zijn gebundeld onder de titel Kein Roman (2018), komen terug in haar romans. De eerste jaren woonde Erpenbeck in de Oost-Berlijnse wijk Pankow, die ook wel bekend stond als de wijk van de SED-partijbonzen. Later woonde ze in een flat aan de Leipziger Strasse in het centrum van Berlijn, en vervolgens schuin tegenover het Deutsche Theater in de Albrechtstrasse. Alle drie de adressen waren vlak bij de Berlijnse Muur. Voor kinderen, schrijft Erpenbeck, boden de straten die op de Muur doodliepen en waar dus geen verkeer doorheen kwam een uitgelezen mogelijkheid om te rolschaatsen. Vanaf haar schoolplein, schrijft Erpenbeck, las ze de tijd af van de digitale klok bovenop het Axel Springer gebouw, „die klok in de andere wereld”.
+
+De familie waarin Jenny Erpenbeck opgroeide behoorde tot de DDR-elite. Haar grootvader Fritz Erpenbeck was een van de grondleggers van de DDR, na zijn tijd als communist in ballingschap in de Sovjet-Unie, en daarna een van de hoogste cultuurpolitici van de socialistische staat. Naar Fritz is een straat in Pankow vernoemd. De grootmoeder van Erpenbeck, Hedda Zinner, was een bekend schrijver en actrice. Erpenbecks vader, John Erpenbeck, is natuurkundige en romancier, haar moeder was vertaler en arabist aan de Humboldt Universiteit.
+
+In een van de stukken in Kein Roman schrijft Erpenbeck nostalgisch over de ruïnes in het Oost-Berlijn van haar jeugd. Over het Neue Museum, waarvan nog maar de helft overeind stond en waar je via de takken van een berk toch nog de standbeelden op de tweede verdieping kon bezichtigen. Over de ruïne van de Dom, waar Erpenbeck op date ging tussen brokstukken en onkruid. Over de zwaar door bommen getroffen wijk Prenzlauer Berg, waar bleek dat de onderste verdiepingen van een huis nog best bewoonbaar waren, ook als de bovenste waren weggeblazen. Erpenbeck schrijft: „Dat de ruïnes daar stonden, kostte destijds niets. […] De tijd stond stil. Niemand sprak over geld”.
+
+Na de val van de muur, dat spreekt vanzelf, ging het ineens heel veel over geld, zeker in de beleving van Erpenbeck. Voor de woningen, die in de DDR door de staat aan de burgers beschikbaar waren gesteld, moest soms ineens het driedubbele aan huur worden betaald zodra het huis privaat eigendom werd. De braakliggende grond in het centrum van Berlijn, de speelplaats van Erpenbecks jeugd, werd na 1989 rap verkocht, doorverkocht en doorontwikkeld. Of, anders verwoord door hoofdpersoon Richard in Gaan, ging, gegaan: „Met niets kun je de geschiedenis makkelijker laten verdwijnen dan wanneer je geld de vrije loop laat.”
+
+De weerstand tegen een meer door geld en consumptie gedreven samenleving had Erpenbeck al meteen in november 1989. De Bondsrepubliek bood de nieuwe burgers allemaal een welkomstgeschenk van 100 Duitse mark aan, om te kunnen proeven van de West-Duitse markteconomie. Erpenbeck, net als veel van haar romanpersonages, weigerde het geld op te halen. „Ik ben geen bedelaar”, zei ze daarover in een interview dit voorjaar in The New York Times. En elders: „Ik was rijk op een andere manier, door de intellectuele traditie en de mensen om me heen.”
+
+
+Een zwembad met spelende kinderen vlakbij Stettiner Bahnhof in Oost-Berlijn, 1958.
+Foto Gert Kreutschmann/Ullstein Bild
+Katharina, de hoofdpersoon in Kairos die enige biografische overeenkomsten vertoont met Erpenbeck, vraagt zich af in de eerste weken na de val van de muur: „De vrije consumptie komt op haar over als een rubberwand die de mensen scheidt van de verlangens die hun persoonlijke behoeften te boven gaan. Is zij straks misschien ook alleen nog maar een klant?”
+
+Gevraagd naar de internationale lof voor Erpenbeck, wijst schrijver en essayist Anne Rabe (Wismar, 1986) op andere recente successen van Oost-Duitse auteurs in het VK en de VS. Vorig jaar werd Beyond the Wall van Hoyer, over het alledaagse leven in de DDR, een bestseller in het VK. In Duitsland waren de kritieken vrijwel zonder uitzondering vernietigend. Begin 2023 verscheen ook een eerste Engelse vertaling van Brigitte Reimanns (1933-1973) Geschwister, oorspronkelijk gepubliceerd in 1963. In de roman haalt hoofdpersoon Elisabeth Arendt, die overtuigd is van het socialisme, haar broer over om in de DDR te blijven in plaats van te vluchten. Arendts geloof in de staat is wel te begrijpen, schreef de recensent van de Times Literary Supplement: „Reimanns heldin vult haar door de staat gefinancierde werkdagen met schilderen en naar jazz luisteren, ’s avonds drinkt ze schnapps en vraagt ze zich af of ze verliefd moet worden op Joachim.” Vijftig jaar na Reimanns dood beleefde Siblings een Engelse revival.
+
+Rabe: „In het Angelsaksisch taalgebied wordt literatuur die de DDR verheerlijkt nogal kritiekloos ontvangen. In zo westers gevormde landen wordt het idee van een alternatief voor het kapitalisme nu eenmaal gretig omarmd. Maar als het alternatief dat wordt geschetst een illusie is, zoals bijvoorbeeld bij Reimann, dan is het als kritiek op het kapitalisme niet serieus te nemen.”
+
+In Erpenbecks Kairos is het Oost-Duitse kunstenaarsleven al net zo benijdenswaardig als bij Reimann. Hans, de vijftiger met wie de nog geen twintig jaar oude Katharina een affaire begint, wordt door de staat betaald, schrijft romans en af en toe een hoorspel voor de radio. Hij dineert met Katharina in de beroemdste restaurants van Oost-Berlijn, luistert naar muziek uit zijn platencollectie, drinkt schnapps en citeert Bertolt Brecht. Hij verhuisde ooit uit overtuiging van West- naar Oost-Duitsland, en uit inmiddels wat milde kritiek op het systeem, maar gelooft er onverminderd in.
+
+Jenny Erpenbecks roman Kairos werd door Armin Petras bewerkt tot een toneelstuk voor het Staatstheater Cottbus.
+
+Criticus Böttinger: „Erpenbeck weet heel goed het bohemienleven in Oost-Berlijn te vangen. Het kunstenaarsmilieu in de DDR had een heel ander referentiekader dan dat in West-Duitsland.” Böttinger noemt als voorbeeld Brecht maar ook componist Hanns Eisler, die in Kairos vaak wordt aangehaald en die het DDR-volkslied componeerde, ‘Auferstanden aus Ruinen’. Hij wijst naar theatermaker Heiner Müller, die Erpenbeck zelf assisteerde, toen zij begin jaren 90 operaregisseur in wording was. „Die culturele wereld uit de DDR is goeddeels verdwenen”, zegt Böttinger. „Maar dat kunstenaarsleven was slechts aan een heel geprivilegieerd deel voorbehouden. En het stoort veel voormalige DDR-burgers dat Erpenbeck niet op haar eigen bevoorrechte situatie lijkt te reflecteren.”
+
+In de romans van Erpenbeck lijkt het een overkoepelend Oost-Duits voorrecht om zich niet met banale dingen als geld en de huur bezig te houden, maar met muziek, poëzie, theater en dagvullende affaires. Politieke gevangenen, heropvoedinginstellingen en repressie spelen bij Erpenbeck nauwelijks een rol.
+
+Historicus Ilko-Sascha Kowalczuk, die onder meer een veelgeprezen biografie van DDR-leider Walter Ulbricht schreef, is een fel criticus van Erpenbeck. „In haar romans wordt een beeld van de DDR geschetst zoals dat nooit heeft bestaan, en gedaan alsof de burgers van de DDR historisch uniek waren. Maar wat me het meest ergert is dat ze een Westen schetst dat verschrikkelijk is, dat onvrij is, waar de mensen allen maar consumptieartikelen achterna rennen en verder te dom zijn om aan iets anders te denken. Het verbaast me dat lezers in het westen dat allemaal slikken als zoete koek. Een vreemd soort zelfhaat die misschien typisch is voor liberale democratieën.”
+
+Katharina, tenminste, heeft in Kairos geen goede eerste ervaring in het westen. Bij een bezoek aan familie in Keulen belandt ze in een seksshop, die scepsis over de kapitalistische ‘vrijheid’ oproept: „ […] Hier, op de bodem van de vrijheid, ziet ze tieten en pikken en pruimen, ze ziet stijven en kutten, ziet dikke gevallen, geile tongen, ziet vocht uit eikels opwellen, ziet vocht dat op billen, op borsten, in monden wordt gespoten, op oogleden en tongen, ziet slijm, sperma, spuug en pis, ziet stront.”
+
+De neiging bestaat om de dictatuur van het alledaagse DDR-leven te scheiden
+Anne Rabe essayist
+In interviews heeft Erpenbeck vaak gezegd dat ze overtuigd is van de noodzaak voor een alternatief voor het kapitalisme. Dat alleen zou haar in Duitsland niet per se op kritiek komen te staan, wel dat het alternatief bij Erpenbeck steeds weer de DDR uit haar bevoorrechte jeugd is. Böttinger ziet daarin ook een literair mankement: „Tot haar eigen positie heeft Erpenbeck te weinig distantie. In echt grote literatuur lopen de politieke en esthetische laag niet zo uiteen.”
+
+In het Duitse debat over DDR-literatuur en over Erpenbeck gaat het ook over wie het narratief over de DDR bepaalt. Voor veel van oorsprong West-Duitsers was de DDR simpelweg een dictatuur, en zeker in de jaren na de val van de muur was er niet bijzonder veel belangstelling van West-Duitsers in wat er nog meer te melden viel. Die desinteresse, en de manier waarop Oost-Duitsland van de ene dag op de andere werd ingelijfd in de BRD, steekt nog altijd veel voormalige DDR-burgers en wordt vaak genoemd als een reden waarom de radicaal-rechtse partij Alternative für Deutschland (AfD) zo sterk is in de Oost-Duitse deelstaten. In Thüringen, Saksen en Brandenburg zijn in september verkiezingen en in peilingen ligt de AfD in alle drie deze deelstaten aan kop.
+
+In reactie op het vaak platte West-Duitse beeld van de DDR vinden veel Oost-Duitse burgers het nodig de mooie kanten van het leven van toen te benadrukken, soms zozeer dat het romantische beeld de overhand krijgt. „De neiging bestaat om de dictatuur en het alledaagse leven in de DDR van elkaar te scheiden”, zegt schrijver Rabe. „Om te doen alsof het alledaagse leven onberoerd bleef door die dictatuur. Natuurlijk kon je in de DDR ook mooie dingen beleven, en werden mensen ook verliefd en zo. Maar het principe van een autoritair systeem is dat het het leven van alledag doordringt.”
+
+Een opvallend terugkerend motief in de boeken van Erpenbeck is een autoritaire en veeleisende geliefde. In Kairos verlangt vijftiger Hans dat Katharina een kort rokje aantrekt. Volgens hem kan hij zich dan extra verheugen op hun afspraakje. Als Katharina afwijkt van Hans’ voorschriften, straft hij haar. Is de hoopvolle, maar teleurgestelde geliefde bij Erpenbeck een metafoor voor de DDR-machthebbers? Is de vrouw die geen kort rokje aan wil, de dissidente burger die gestraft moet worden? Als dat Erpenbecks DDR-kritiek is, dan is die voor veel Duitse lezers en critici te ijl.
+
+Een versie van dit artikel verscheen ook in de krant van 24 augustus 2024.
+

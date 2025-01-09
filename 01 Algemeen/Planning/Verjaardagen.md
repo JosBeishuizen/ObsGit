@@ -1,0 +1,77 @@
+# Verjaardagen
+
+- [ ] Chrétien 1949 🔁 every year 📅 2025-01-02
+- [ ] Florence 🔁 every year 📅 2025-01-04
+- [ ] Lot 1990 🔁 every year 📅 2025-01-09
+- [ ] Annette 🔁 every year 📅 2025-01-15
+- [ ] Elzemien 🔁 every year 📅 2025-01-19
+- [ ] Geert 🔁 every year 📅 2025-01-20
+- [ ] Geert 🔁 every year 📅 2025-01-20
+- [ ] Teun 1951 🔁 every year 📅 2025-01-22
+- [ ] Toon 1987 🔁 every year 📅 2025-01-24
+- [ ] Robert 🔁 every year ➕ 2024-01-26 📅 2025-01-26
+- [ ] Roos 2000 🔁 every year 📅 2025-01-27
+- [ ] Francien 🔁 every year ➕ 2024-01-30 📅 2025-01-30
+- [ ] Sietske 1992 🔁 every year 📅 2025-02-06
+- [ ] Tineke Lybaart 🔁 every year 📅 2025-02-07
+- [ ] Madelon 1950 🔁 every year 📅 2025-02-11
+- [ ] Janny 1939 🔁 every year 📅 2025-02-17
+- [x] Janny 1939 🔁 every year 📅 2024-02-17 ✅ 2024-02-18
+- [ ] Marjolijn 🔁 every year 📅 2025-02-17
+- [x] Marjolijn 🔁 every year 📅 2024-02-17 ✅ 2024-02-18
+- [ ] David 🔁 every year 📅 2025-02-20
+- [x] David 🔁 every year 📅 2024-02-20 ✅ 2024-02-20
+- [ ] Jeroen 🔁 every year 📅 2025-02-22
+- [x] Jeroen 🔁 every year 📅 2024-02-22 ✅ 2024-02-23
+- [ ] Corry 🔁 every year 📅 2025-02-24
+- [x] Corry 🔁 every year 📅 2024-02-24 ✅ 2024-02-25
+- [ ] 26-02: Marie Jeanne 
+- [ ] 27-02: Sam
+- [ ] 08-03: Kathleen 
+- [ ] 10-03: Jan Klein
+- [ ] 10-03: Wouter
+- [ ] 14-03: Willem Koperdraad 
+- [ ] 17-03: Pater van Kilsdonk 1917
+- [ ] 20-03: Meindert
+- [ ] 25-03: Veronique
+- [ ] 25-03: Sterfdag Jozien 2008
+- [ ] 26-03: Paultje 1981
+- [ ] 27-03: Kees Kok 1948
+- [ ] 29-03: Pauline Micheels
+- [ ] Marjolein 1975🔁 every year 📅 2025-04-03
+- [ ] 04-04: Trouwdag! 🔁 every year 📅 2025-04-04
+- [ ] Caroline Vonk🔁 every year 📅 2025-04-05
+- [ ] Ton jarig! 🔁 every year 📅 2025-04-09
+- [x] Ton jarig! 🔁 every year 📅 2024-04-09 ✅ 2024-04-09
+- [ ] Bartie jarig! 🔁 every year ➕ 2024-04-11 📅 2025-04-10
+- [x] Bartie jarig! 🔁 every year 📅 2024-04-10 ✅ 2024-04-11
+- [ ] Tonnie Banen 1955 🔁 every year ➕ 2024-04-12 📅 2025-04-12
+- [x] Tonnie Banen 1955 🔁 every year 📅 2024-04-12 ✅ 2024-04-12
+- [ ] Otto 2022 🔁 every year ➕ 2024-04-17 📅 2025-04-17
+- [x] Otto 2022 🔁 every year 📅 2024-04-17 ✅ 2024-04-17
+- [ ] Margriet 1965 🔁 every year ➕ 2024-04-20 📅 2025-04-20
+- [x] Margriet 1965 🔁 every year 📅 2024-04-20 ✅ 2024-04-20
+- [ ] Ingrid jarig! 🔁 every year ➕ 2024-04-20 📅 2025-04-20
+- [x] Ingrid jarig! 🔁 every year 📅 2024-04-20 ✅ 2024-04-20
+- [ ] Gert's verjaardag 🔁 every year 📅 2025-04-22
+- [x] Gert's verjaardag 🔁 every year 📅 2024-04-22 ✅ 2024-04-22
+- [ ] Huub Kaak jarig! 🔁 every year 📅 2025-04-28
+- [x] Huub Kaak jarig! 🔁 every year 📅 2024-04-28 ✅ 2024-04-28
+- [ ] Wessel 2000 🔁 every year ➕ 2024-05-04 📅 2025-04-28
+- [x] Wessel 2000 🔁 every year 📅 2024-04-28 ✅ 2024-05-04
+- [ ] Wenneke jarig! 🔁 every year ➕ 2024-05-04 📅 2025-04-29
+- [x] Wenneke jarig! 🔁 every year 📅 2024-04-29 ✅ 2024-05-04
+- [ ] Sterfdag Mieke 2023 🔁 every year ➕ 2024-05-04 📅 2025-05-04
+- [x] Sterfdag Mieke 2023 🔁 every year 📅 2024-05-04 ✅ 2024-05-04
+- [ ] 14-05: Jos 1950
+- [ ] 16-05: Gerrie 1933
+- [ ] 10-06: Sara 1987
+- [ ] 10-06: Franca 2019
+- [ ] 14-06: Ada 2020
+- [ ] 20-06: Els 2018
+- [ ] 02-07: Cathrien 1985
+- [ ] 🎂 Berend 1988 #27-08
+- [ ] Jochem 🔁 every year ➕ 2024-10-05 📅 2025-10-05
+- [x] Jochem 🔁 every year 📅 2024-10-05 ✅ 2024-10-05
+- [ ] 06-12: Anne 1954
+- [ ] 12-12: Mercia 2016

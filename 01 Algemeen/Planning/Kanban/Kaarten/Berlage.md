@@ -1,0 +1,114 @@
+# Berlage
+- Voortgang 
+	- zondag 10 november 2024
+		- 22:03 23
+		- 22:11 24
+		- 22:14 25
+		- 22:18 26
+		- 22:20 27
+		- 22:22 28
+		- 22:24 29
+		- 22:27 30
+		- 22:29 31
+		- 22:31 32
+		- 22:34 33
+		- 22:36 34
+		- 22:36 35
+		- 22:36 36
+		- 22:38 37
+		- 22:38 38
+		- 22:40 39
+		- 22:43 40
+		- 22:43 41
+		- 22:44 42
+		- 22:44 43
+		- 22:45 🛑 
+	- maandag 11 november 2024
+		- 21:40 44
+		- 21:43 45
+		- 21:45 46
+		- 21:48 47
+		- 21:50 48
+		- 21:53 49
+		- 21:53 50
+		- 21:55 51
+		- 21:56 52
+		- 21:58 53
+		- 22:00 54
+		- 22:02 55
+		- 22:06 56
+		- 22:14 57
+		- 22:16 58
+		- 22:19 59
+		- 22:30 60
+		- 22:33 61
+		- 22:35 62
+		- 22:37 66
+		- 22:41 🛑 
+	- dinsdag 12 november 2024
+		- 19:20 67
+		- 19:21 68
+		- 19:24 69
+		- 19:27 70
+		- 19:29 71
+		- 19:32 72
+		- 19:34 73
+		- 19:37 75
+		- 19:39 76
+		- 19:41 🛑 
+		- 22:25 76
+		- 22:27 77
+		- 22:29 78
+		- 22:29 79
+		- 22:32 80
+		- 22:33 81
+		- 22:35 82
+		- 22:42 83
+		- 22:46 84
+		- 22:48 86
+		- 22:49 87
+		- 22:51 88
+		- 22:52 89
+		- 22:53 90
+		- 22:54 91
+		- 22:55 🛑 
+	- woensdag 13 november 2024
+		- 19:28 92
+		- 19:30 93
+		- 19:32 94
+		- 19:34 95
+		- 19:36 96
+		- 19:38 97
+		- 19:39 98
+		- 19:40 99
+		- 19:42 102
+		- 19:44 103
+		- 19:45 104
+		- 19:49 105
+		- 1949 106 🛑 
+	- donderdag 21 november 2024
+		- 15:18 126
+		- 15:21 127
+		- 15:23 128
+		- 15:26 129
+		- 15:30 🛑 
+- Inhoud
+	- p. 25 Berlage kende niemand 
+- Commentaar 
+	- Cursieve stukjes?
+	- Notenapparaat?
+	- p. 25 Berlage kende niemand?
+	- Schets van de persoon?
+	- p. 29 namen van de kinderen? 
+	- p. 30 ik raak de draad kwijt
+	- p. 32 Sluyterman? 
+	- p. 37 ontbreekt
+	- p. 39 groen een gevoel van?
+	- p. 56 wie was minister president? Kuyper? Inderdaad en min. van Binnenlandse Zaken (1901 - 1905)
+	- p. 59 Italiaans/Latijn Sono/sunt moet italiaans zijn. Wel Romanus ipv Romae?
+	- p. 68 was Berlage kalm, ernstig?
+	- p. 69 wist je dat...
+	- p. 77 de commotie over het VOC-gebouw begrijp ik niet.
+	- p. 79 algemeen: hoezo Verwey? 
+	- p. 92 "regelmatige bebouwing"?
+	- p. 120 Raadhuis?

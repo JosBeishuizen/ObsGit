@@ -1,0 +1,3 @@
+# 0417 zaterdag 17 april 2004
+Perugia. Gisteravond bij Énonè gezeten, samen met Cathrien's vriendin Anna, een Finse.
+Het is nu half 7. Vandaag een mooie tentoonstelling van Perugino bekeken. Periode rond 1500. Voornamelijk religieuze kunst. Daarna een pizza slice genuttigd en door de corso Garibaldi eerst langs AC's huis gelopen en toen naar de mooie Tempio de S. Angelo. Daarna bij Lemmi een mooi overhemdje uitgezocht en thuis even gerust met Laurel en Hardy. Vanavond gegeten bij Il Settimo Sigillo en daarna via de ijswinkel naar the Drink's House. Nu om middernacht nog even lezen en dan slapen.

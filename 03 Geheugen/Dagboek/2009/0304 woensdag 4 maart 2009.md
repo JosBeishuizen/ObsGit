@@ -1,0 +1,2 @@
+# 0304 woensdag 4 maart 2009
+Eigenlijk moet je elke dag in dit dagboek schrijven. Gaat met dit minitoetsenbordje toch verbazend snel. Jan Vermunt vertelde vanavond twee dingen. Relatie met Finse en bijna-scheiding van zijn vrouw, inclusief flatje in Zeist, en (2) kandidatuur voor bestuur EARLI.

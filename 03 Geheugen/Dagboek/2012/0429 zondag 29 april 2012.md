@@ -1,0 +1,2 @@
+# 0429 zondag 29 april 2012
+Nog even genieten van de zondagochtendzon en de zee in Amalfi. Het is nu 8 over 10, om 11 uur vertrekt de taxi die ons naar het vliegveld brengt, om 10 voor 3 vertrekt het vliegtuig. Hier heerst nu de rust van de zondagochtend. Net het orgel in de kathedraal, nog even een bezoek gebracht aan kloostergang en de crypte, met de beenderen van de apostel Andreas, die overal met zijn andreaskruis te zien is. Nog even Italië, tot aan eind augustus.

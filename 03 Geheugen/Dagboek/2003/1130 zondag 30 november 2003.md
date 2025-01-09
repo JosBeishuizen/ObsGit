@@ -1,0 +1,6 @@
+# 1130 zondag 30 november 2003
+Zondagochtend. Sara en Hagar zwemmen, Berend werkt aan zijn huiswerk, Cathrien maakt het dak schoon, Anne schildert de kastjes in de keuken, althans in wat misschien ooit de keuken gaat worden. Door misverstanden en onduidelijke afspraken ligt de zaak nu al drie weken stil. Peter, de aannemer, is een aardige jongen, maar hij kan duidelijk niet organiseren, wil alles zelf doen. We gaan zo dadelijk lunchen bij Daniël Levi, eerst nog even kijken naar het beleidsplan van de lerarenopleiding, Berends dynamo in beweging zien te krijgen, en even piano spelen.
+
+Avond. Peter Sloterdijk in Trouw: ouders leren hun kinderen niet meer om hun leven ergens voor over te hebben. Met Sara onder de afwas nog even over door gepraat. Demonstreren tegen de oorlog in Irak is ook iets voor een ander doen...
+
+Moest ook even terugdenken aan video van Tobias, waarin de mens als egocentrisch wezen wordt afgeschilderd. Een belangrijk thema. Iets voor de VU? Hans Goslinga schrijft in Trouw dat mensen als Pronk en Dittrich zich beginnen te realiseren dat het individualisme van Paars misschien ook niet de ultieme oplossing vormt: mensen willen bij een groep horen.

@@ -1,0 +1,2 @@
+# 1130 zaterdag 30 november 2002
+Het is een stille zaterdag, iedereen de hort op. Berend naar fluitcursus en basketball, Sara met Gerrie naar Haarlem, Cathrien en AC naar de kapper om Cathriens haar af te laten knippen. Ik probeer in mijn hoekje te kruipen. Verdrietig na het overlijden van Inge, moe door alle taken van de laatste week.

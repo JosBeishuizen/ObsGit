@@ -1,0 +1,2 @@
+# 0601 maandag 1 juni 2009
+Tweede Pinksterdag. Alweer een prachtige dag in Egmond. Toch wakker geworden met een angstgevoel. Kan niks, krijg niks voor elkaar, het is teveel, etc. Nou ja, allemaal wel weer te reduceren. Door bijvoorbeeld van dingen, die je je je voorneemt om te gaan doen, tegen jezelf te zeggen: dat kan ik goed. En door je voor te nemen om dingen niet langer dan een half uur te doen. Twee manieren om angst te reduceren.

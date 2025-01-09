@@ -1,0 +1,24 @@
+# Koorleden
+- [x] Arjan Vader ✅ 2024-08-15
+- [x] Andrew Kearney ✅ 2024-08-14
+- [x] Berber Voortman ✅ 2024-08-14
+- [x] sigrid de Wit ✅ 2024-08-14
+- [x] Anni Kearney ✅ 2024-08-14
+- [x] Petra Sleeman ✅ 2024-08-17
+- [x] Cecile van der Stelt ✅ 2024-08-16
+- [x] Lesley Oversluizen ✅ 2024-08-14
+- [x] Menno Oversluizen ✅ 2024-08-14
+- [x] Barbara Bijleveld € ✅ 2024-08-14
+- [x] Kathinka de Ruiter 0650980416 ✅ 2024-08-15
+- [x] Grada Fokkens ✅ 2024-08-14
+- [x] Veronique Ruiz w ✅ 2024-08-14
+- [x] Jeanne Kok ✅ 2024-08-14
+- [x] Susan Dawson ✅ 2024-08-14
+- [x] Nelleke Roeleveld ✅ 2024-08-16
+- [x] Jos Beishuizen ✅ 2024-08-14
+- [x] Richard Granger ✅ 2024-08-14
+- [x] Tim Gordon ✅ 2024-08-14
+- [x] Daniel Kearney ✅ 2024-08-14
+- [x] Isaac Kneller ✅ 2024-08-14
+- [x] Francis Saunders ✅ 2024-08-16
+- [x] David C +32 465 87 59 51 ✅ 2024-09-11

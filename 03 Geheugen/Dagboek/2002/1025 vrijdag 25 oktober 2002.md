@@ -1,0 +1,4 @@
+# 1025 vrijdag 25 oktober 2002
+Al weer heel slecht nieuws. Inge Sol heeft longkanker met uitzaaiingen in de hersenen. Drie maanden. Misschien meer als de chemo- of radiotherapie effect heeft op het tegenhouden van de tumor in de hersenen. Sprakeloos. Wat nog te doen? Een leuk weekend met de familie? Of krijg je daar niet eens de tijd meer voor? Wat is je houding tegenover de dood, als hij vandaag of morgen bij jou op de stoep staat? Je moet in ieder geval blijven leven!
+
+Avond. Anne heeft intussen met Inge gesproken. Ze houdt zich erg flink en nuchter. Pech gehad. Gaat voor de behandeling, voorzover mogelijk rekken.  Ze vindt het eigenlijk vervelender voor de anderen dan voor zichzelf.

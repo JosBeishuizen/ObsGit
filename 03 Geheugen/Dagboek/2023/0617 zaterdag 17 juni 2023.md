@@ -1,0 +1,2 @@
+# 0617 zaterdag 17 juni 2023
+Onlangs weer een TGA gehad. Lijkt toch of het tijdsbesef iets minder stabiel is geworden. Sterfdag van moeder, nu 22 jaar geleden. Vanochtend de verjaardagen van Els en Ada gevierd. Voornamelijk met Otto in de zandbak gespeeld. Het terras van Sara en Toon is echt heel mooi geworden. Ook nu het zo warm is. Vanavond komen de vrienden van Berend en Sietske hier eten, een hele eer. 

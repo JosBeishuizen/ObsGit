@@ -1,0 +1,10 @@
+# 0719 dinsdag 19 juli 2011
+Een dag op het land in Forenza. Gisteren een rondtocht gemaakt. ‘s Ochtends eerst broodjes gehaald en zowaar polo’s en scheermesjes gevonden! Toen naar Rionero gereden via de landwegen hier in de buurt. Forenza ligt in een streek met heuvels, veel korenvelden, en ook bossen maar minder. Bochtige en ook wel slechte wegen. Dwingt tot rustig rijden, ook niet verkeerd. In Rionero, dat er aanvankelijk niet erg mooi uitzag, maar uiteindelijk wel een mooi plein bleek te hebben, gezellig koffie gedronken en toen door naar de meren van Monticchio, twee ronde meren (piccola en grande) in de verder geheel beboste krater van de uitgedoofde vulkaan Monte Vulture. Het bleek onverwacht een op duizenden bezoekers ingericht pretpark te zijn, met ook zeker rustige gedeelten, zoals de promenade rond het Lago Piccolo. We lunchten bij een tentje met oudere mensen met kleinkinderen, een soort Jordanezen maar dan op zijn Basilicaats (Napolitanen?). Lekkere panini met een glaasje wijn.
+
+Toen het klooster bekeken, heel mooi de kerk met de grot waar het allemaal is begonnen. Interessant natuurhistorisch museum met mooie combi’s van beeld en geluid, o.a. beelden van een vulkaanuitbarsting en de Carmina Burana. En natuurlijk de Bramea, de nachtvlinder die hier in de jaren 50 is ontdekt door graaf Friedrich Hart.
+
+![[Pasted image 20220817150208.png|400]]
+
+Door naar Melfi met de volledig intacte stadsmuur, de kathedraal en het immense kasteel van Frederik II. De muur was er, met Porta Venosana, de kathedraal was mooi, met chique bruiloft, het kasteel met de vijf robuuste torens was indrukwekkend, plaats waar tijdens het eerste Concilie van Melfi het celibaat is ingesteld. Ook een mooi archeologisch museum met vondsten uit Romeinse graven, vooral natuurlijk de prachtige sarcofaag. Maar verder was het stadje niet echt mooi. Na een ijsco weer naar huis.
+
+In ruim een uur naar huis gereden, dankzij het goede kaartlezen van Anne. In het dorp een pizza gehaald en met een Vino Nobile uit Montepulciano van €2.95 soldaat gemaakt.

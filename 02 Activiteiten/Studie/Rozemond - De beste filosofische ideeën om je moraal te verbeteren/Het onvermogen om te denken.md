@@ -1,0 +1,3 @@
+# Het onvermogen om te denken
+
+Klaas Rozemond: #rozemond Hannah Arendt #arendt beschijft in het boek Het leven van de geest het menselijk denken als de innerlijke dialoog die je met jezelf voert. Een noodzakelijke voorwaarde om goed en kwaad van elkaar  te kunnen onderscheiden. De banaliteit van het kwaad bestaat er volgens haar uit dat bepaalde mensen het vermogen missen om met zichzelf een gesprek te voeren over goed en kwaad. De inability to think, thoughtlessness, zie Eichmann. Ik: dit lijkt op wat Camus #camus het zombiebestaan noemt. 

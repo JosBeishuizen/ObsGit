@@ -1,0 +1,2 @@
+# 0912 zondag 12 september 2004
+Er zijn momenten, waarop je moet opletten. Het zijn er maar een paar op een dag. Spelhervattingen. Dan moet je je bewust zijn van je taak. Huub Oosterhuis in zijn preek vanochtend: God is een soortnaam. Prachtige vondst!! Er zijn vele goden, wij hebben er ook een. Zijn naam: Ik heb gehoord, ik zal er zijn, ik stuur jou. Bij zo'n spelhervatting moet je je dus de vraag stellen: waar stuurt God mij nu heen?

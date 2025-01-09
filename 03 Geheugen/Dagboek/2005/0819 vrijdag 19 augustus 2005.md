@@ -1,0 +1,4 @@
+# 0819 vrijdag 19 augustus 2005
+Laatste vakantiedag! Gisterochtend tijdens het hardlopen een mooi beeld: langs het weggetje in de schaduw een oude man met hoed achter op het hoofd. Vrouw zoekt kruiden in de berm en heeft al flinke bos. Even later bij het teruglopen zie ik ze langs een pad door de velden lopen, stevig gearmd. Mooie oude dag, zo lijkt het wel. De liefde, daar gaat het om. 
+
+Vandaag nog een laatste bezoek aan Castellina met hopelijk een gezellige lunch. Vanmiddag inpakken en klaarmaken voor de reis. Zwemmen, een dutje doen, afscheid nemen van Marinella en Antonio. Een relaxte dag, zo mogen we hopen. Het is nu bewolkt, de zon zal er nog wel bijkomen. Nog even genieten van de warmte, de laatste.

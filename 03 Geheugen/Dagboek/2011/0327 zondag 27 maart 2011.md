@@ -1,0 +1,4 @@
+# 0327 zondag 27 maart 2011
+Wordt in beslag genomen door het beeld van Icarus. Ik plak mezelf vleugels aan, stijg op en klim omhoog. Overmoedig geworden ga ik steeds hoger en hoger tot ik zo dicht bij de zon kom dat de was smelt waarmee mijn vleugels zijn vastgeplakt. Hulpeloos en hopeloos stort ik ter aarde.
+
+Het klinkt allemaal wel een beetje melodramatisch en romantisch. Je kunt het net zo goed de houding van het verwende kind noemen. Hoe dan ook, ik ga even in de bescheiden modus van Moeder en Meindert, niet uit woede, maar omdat dat een soort geestelijke rust geeft die goed past bij deze vastentijd.

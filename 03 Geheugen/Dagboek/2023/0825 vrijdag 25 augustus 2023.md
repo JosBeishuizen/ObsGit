@@ -1,0 +1,6 @@
+# 0825 vrijdag 25 augustus 2023
+Lieve Cathrien,
+
+Toen je begon aan je studie heb je een tijdje medicijnen en filosofie gecombineerd. In mijn herinnering hebben we ons nog samen over teksten van Wittgenstein gebogen maar misschien maak ik het nu te mooi. Zoals toen waren er nog een paar momenten in je ontwikkeling waarin ik je echt kon helpen door samen te praten of dingen te doen. Van oefenen met de viool voor schooltijd tot lopen door het bos,  samen met Jochem,  Anne-Carien en de kinderen, na een verdrietige ervaring in je rol als bijna beginnend huisarts. Eigenlijk ben ik je dankbaar dat je je openstelde in die ontmoetingen, ik koester de herinnering aan die momenten. Die er gelukkig ook waren met Sara en Berend. Je openstellen voor een ander, of het nu je naasten, je vrienden en vriendinnen, of ook je patiënten zijn, daar ben je erg goed in. Niet altijd door allerlei geniale oplossingen of noodzakelijke acties voor te stellen, maar gewoon door je gezicht naar de ander toe te keren, met je eigen openheid de ander open te maken en ruimte en hoop te geven.
+
+Jullie huwelijksfeest is bij uitstek de viering van die openheid van Jochem en jou naar elkaar toe, naar Mercia en Franca, naar allen die zijn toevertrouwd aan je zorg en liefde. Ik wens jou en jullie die openheid toe, elke dag van je leven dat met dit huwelijksfeest opnieuw begint. 

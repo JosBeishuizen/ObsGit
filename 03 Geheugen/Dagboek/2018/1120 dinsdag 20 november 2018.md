@@ -1,0 +1,2 @@
+# 1120 dinsdag 20 november 2018
+Vanochtend tekst Sebastiaan afgerond. Alleen nog algemene delen. Nog niet naar de cardioloog geweest, had de afspraak verkeerd in mijn agenda gezet. Gezellig bij Florence en Alfred the gedronken en geborreld bij Eye. Wel E dingen gedaan die bijdragen aan mijn doelen. 

@@ -1,0 +1,2 @@
+# 0502 dinsdag 2 mei 2006
+Gister in de auto even een puberale reactie op Anne die de radio zachter zet terwijl Nina Simone net begint aan "Don't smoke in bed" met die prachtige pianobegeleiding. Laat ik toch proberen om de puberale houding tegenover mezelf en de omgeving af te zweren en mezelf enerzijds serieuzer te nemen en anderzijds sterker te relativeren. De katharsis, weg uit de klem van het foute ego.

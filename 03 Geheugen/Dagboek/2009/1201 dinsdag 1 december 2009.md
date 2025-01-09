@@ -1,0 +1,2 @@
+# 1201 dinsdag 1 december 2009
+Denk toch niet zo gering van jezelf. Jij bent iemand die toch steeds weer opnieuw opkrabbelt en probeert, tegen alle feiten, de moed erin te houden. Iemand die niet opgeeft. Omdat je weet dat het uiteindelijk niet om jou gaat. Omdat je weet dat je in dienst staat van Hem die jouw leven leidt. Probeer nou eens niet steeds iemand anders te zijn. Nou ja, houd in ieder geval de moed er in.

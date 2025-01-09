@@ -1,0 +1,5 @@
+# 0415 zaterdag 15 april 2023
+Vanmiddag om 14 uur de begrafenis van Huub Oosterhuis in de Westerkerk. Ik zie er enigszins tegenop. Wordt vast een kolossale en enigszins platte bedoening, zeker als de hele familie zijn of haar stem in de kerk gaat verheffen. Toenemend gevoel van ongemak nu zoveel mensen Huub nagedachtenis lijken te annexeren. Gisteravond Sam Boelens bij het etentje bij Tjeerd en Kathleen wat overigens heel gezellig en smakelijk was. Het hele verhaal van Wim Boelens nogeens breeduit plus een uitgebreid verslag van de tv-opnames die vanavond worden uitgezonden en waarbij Sam nog eens voor de nationale televisie het verhaal vertelt. Niets mis met dat verhaal natuurlijk, maar het is het zoveelste relaas deze week van hoe uniek de persoon in kwestie voor Huub is geweest. Huub is niet van mij of van de ekklesia, dus ik moet verder mijn mond houden. Het vertroebelt allemaal mijn gevoel van leegte en gemis deze week. Morgen nog een keer in de dienst en dan gaan we weer aan de slag met het zoeken van een nieuw teamlid. 
+
+![[Liturgieboekje-afscheid-Huub-Oosterhuis.pdf]]
+

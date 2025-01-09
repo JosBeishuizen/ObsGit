@@ -1,0 +1,2 @@
+# 0415 maandag 15 april 2019
+Slapeloze nacht. Hoe ga je tegen dat lichamelijke ongemakken je humeur bepalen. In de eerste plaats bedenken dat je altijd kunt kiezen. Twee: proberen los te laten, de pijn los te laten, het gevoel van ongemak los te laten. Drie: bedenken hoe je omgaat met het ongemak. Misschien kun je er iets aan doen. Vier: iets anders gaan doen, lezen of naar muziek of een podcast luisteren.

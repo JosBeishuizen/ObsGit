@@ -1,0 +1,2 @@
+# 1213 vrijdag 13 december 2013
+We beginnen met opgewekte tegenzin aan een nieuwe dag. Stuk lezen van promovendus. Overleg met promovendus. Enkele andere overleggen. Bureau op de VU opruimen. Muziek klaarleggen voor Carol Service morgen in Arnhem. Het gaat lukken.

@@ -1,0 +1,2 @@
+# 0608 donderdag 8 juni 2023
+Ik kan niet zonder lichtpuntjes. Inderdaad, we are walking in the dark. Maar er is toch ook een onverwoestbare kracht om uit de duisternis te komen. Door iets te doen, door te handelen. Duisternis is tich ook stilstand. En dat is iets wat ik niet wil. Ik wil niet stilstaan in de duisternis. De zon hoeft niet in mijn hart te schijnen. Er kan een stoïcijnse rust heersen.

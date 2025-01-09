@@ -1,0 +1,18 @@
+# 0628 maandag 28 juni 2010
+Het is half zeven in Nursia. De scheert over de Sibillijnse bergen en komt er zo bovenuit. Vandaag onze eerste inloopwandeling. Ik ga proberen om steeds een activiteit te bedenken waarnaar ik met spanning uitkijk. Vandaag zijn dat de wandeling en de misschien de voetbalwedstrijd vanmiddag, Nederland tegen Slowakije. En LOSLATEN!!!
+
+Remco Campert -- Niksen
+
+Soms, midden overdag, voel ik de behoefte om een tijdje in mijn armstoel (ook wel ‘luie stoel’ genaamd) door te brengen. Ik staar wat voor me uit en denk meer aan niets dan aan alles. Trouwens, dat komt ongeveer op hetzelfde neer. In ieder geval denk ik aan niets bepaalds. Het idee dat je in het zweet des aanschijns je brood moet verdienen heeft me op zo’n moment in de steek gelaten. Degene die me in die energieloze houding betrapt, heeft de neiging me van luiheid te betichten. En dat is een doodzonde. Het geloof is mij vreemd, maar de invloed ervan is ook in mij doorgesiepeld. Op de beschuldiging van luiheid heb ik als kunstenaar en zeker als schrijver natuurlijk mijn woordje klaar. ‘Het lijkt wel alsof ik niks doe, maar in werkelijkheid denk ik na over hoe het verder moet (met mijn gedicht, verhaal, roman).’ Het is oncontroleerbaar, maar moeilijk te weerspreken. Zelf weet ik dat het niet waar is. Inderdaad, ik zit gewoon te niksen en zou dat het liefst voor de rest van mijn leven blijven doen, al dreigt dan het gevaar dat het ‘niksen’ ontaardt in een vorm van werken.
+
+In NRC Handelsblad las ik een artikel van Janneke Wesseling, Lof der Luiheid. Ze bespreekt een tentoonstelling in Parijs van kunst uit het voormalig Oostblok. In het Centre Pompidou hangt onder andere een serie foto’s van Mladen Stilinovic, getiteld Artist at Work. ‘Hij ligt in bed, slaapt, mijmert wat met de ogen geopend, draait zich om, valt weer in slaap’, schrijft Wesseling.
+
+Een van die foto’s staat bij haar artikel afgedrukt en ik zie het meteen: dit is misschien wel de hoogste vorm van kunst. Indien niet, dan toch de verleidelijkste.
+
+Volgens Stilinovic kan kunst niet bestaan in het Westen, omdat westerse kunstenaars niet lui zijn. Ze zijn geen kunstenaars maar producenten, de hele tijd bezig met onbelangrijke dingen als productie, zelfpromotie, het galeriesysteem, het museale systeem, het competitiesysteem. ‘Dat alles weerhoudt ze van luiheid en dus van de kunst.’ Hij heeft het over beeldende kunstenaars, maar ik herken er veel in.
+
+Ik probeer al geruime tijd een einde te maken aan interviews, boekpresentaties, optredens en andere uitingen van zelfpromotie. Het lukt me niet altijd, want het is niet makkelijk om op alles altijd ‘nee’ te zeggen. Luiheid moet beoefend worden, zegt Stilinovic, het komt niet vanzelf. ‘Het is staren naar niets, non-activiteit, impotentie, belangrijke factoren in de kunst.’ Je zou eruit kunnen afleiden dat niet schrijven de extreemste vorm van kunst is. Maar dat merkt niemand, en dat lijkt me een bezwaar. Zo modder ik maar wat voort. IJdelheid staat nog in de weg. Ik zal de duur van de zittingen in mijn luie stoel moeten verlengen. Ik zal eraan moeten wennen mijn hoofd zonder schuldgevoelens neer te vleien op het oorkussen van de duivel. Ik denk dat de meeste schrijvers die ik ken weleens lui zijn, alleen zullen ze dit nooit toegeven. Actief overkomen is voorlopig de hoogste deugd. En ik ken in ieder geval één schrijver die de indruk wekt nooit lui te zijn: Arnon Grunberg. Maar wie weet denkt hij daar zelf heel anders over. Of dan toch zijn moeder, over wie hij zo liefdevol schrijft.
+
+Door luiheid overmand beëindig ik dit stukje, een stapje verder op de lange weg naar de kunst. Het lijkt alsof ik niets doe, maar ik denk na over hoe het verder moet.
+
+V1 26-06-10 katern 4 pagina 02

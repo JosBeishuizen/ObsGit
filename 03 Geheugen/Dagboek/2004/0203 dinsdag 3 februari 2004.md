@@ -1,0 +1,4 @@
+# 0203 dinsdag 3 februari 2004
+Het is nu 02:50 uur. Even in dit dagboek schrijven om tot bedaren te komen. 's Nachts wil de paniek nog wel eens gemakkelijk toeslaan. Waarschijnlijk is het strict vasthouden aan de rode lijst het beste wat je kunt doen. Maar dan moet je ook een oranje lijst aanleggen en bijhouden: alle activiteiten die je hebt toegezegd te gaan doen. En de groene lijst: alle activiteiten die anderen doen en die je moet controleren. Nu maar eens die lijstjes gaan aanleggen, dan een mail aan Cathrien sturen en weer rustig gaan slapen.
+
+Ik heb mij voorgenomen om deze jaren op de VU tot de gelukkigste jaren uit mijn loopbaan te maken. Eigenlijk moet dat op elk moment gelden.

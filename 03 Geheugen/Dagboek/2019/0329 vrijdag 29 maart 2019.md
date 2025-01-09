@@ -1,0 +1,3 @@
+# 0329 vrijdag 29 maart 2019
+Gisteren en vandaag een midterm review uitgevoerd van de tweedegraads lerarenopleidingen aan de HvA. Zeer arbeidsintensief en hectisch klusje. Je alle gesprekken leiden en geconcentreerd luisteren om alle opmerkingen vast te leggen. Ik had gelukkig en heel ervaren panel, met Jaap Buitink als roots in de branding. Een enorme stapel documenten die ik nog van te voren allemaal bestudeerd moesten worden. 19 opleidingen met elk hun eigen ZER en afstudeerwerken.
+Helaas kon ik de klus niet afmaken omdat we om half drie naar Rockanje moesten voor een weekend met het gezin. Heel gezellig huis waar we ons snel thuis voelen. Hopelijk een ontspannen weekend voor de boeg.

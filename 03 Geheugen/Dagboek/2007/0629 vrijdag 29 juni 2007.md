@@ -1,0 +1,2 @@
+# 0629 vrijdag 29 juni 2007
+We leven tussen hoop en vrees wat betreft de hersentumor van Jozien. Het lijkt erop dat Jozien een glioom heeft waarvan het beloop vermoedelijk ongunstig is. De levensverwachting ligt tussen drie tot zes maanden. Volstrekt ondenkbaar. Anne Carien is nu naar Deventer om eerst met pa naar de bestraling te gaan, daarna gaat gaat ze naar Jozien.

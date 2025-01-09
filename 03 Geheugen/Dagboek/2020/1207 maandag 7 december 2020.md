@@ -1,0 +1,2 @@
+# 1207 maandag 7 december 2020
+Moet serieus werken aan het verbeteren van mijn strijd of liever gezegd aanvaarding van de werkelijkheid met al mijn zwakke en ook sterkte kaarten, Anne's sterke en ook zwakke kanten. Het is wat het is. Niet klagen maar blijmoedig dragen, echt! Therapeutische oefening nummer 11!

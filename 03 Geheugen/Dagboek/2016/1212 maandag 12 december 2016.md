@@ -1,0 +1,2 @@
+# 1212 maandag 12 december 2016
+Vandaag is de kleine Mercia geboren, om 20.05, 2900 gram. Bevalling verliep (in het ziekenhuis vanwege de hoge bloeddruk) zonder complicaties, Cathrien heeft zelfs nog in bad gezeten.

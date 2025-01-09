@@ -1,0 +1,2 @@
+# 0127 vrijdag 27 januari 2006
+Even de tanden op elkaar zetten en voorbereidingen treffen voor de reis naar Aix-en-Provence, morgen. Het lijkt net of ik steeds benauwder word voor het maken van reizen. Is toch eigenlijk geen reden voor. We gaan rustig de 1200 km wegwerken. Geen moeilijk traject. Gewoon doorkachelen van Amsterdam naar Aix.

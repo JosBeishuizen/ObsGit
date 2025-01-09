@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "03 Geheugen/Digitaal/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01 Algemeen/Planning/Taken",
+      "template": "03 Geheugen/Digitaal/Templates/Fill Task Note.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "03 Geheugen/Digitaal/Templates/D.md",
+    "03 Geheugen/Digitaal/Templates/axi.md",
+    "03 Geheugen/Digitaal/Templates/ax2.md",
+    "03 Geheugen/Digitaal/Templates/Daily.md",
+    "03 Geheugen/Digitaal/Templates/Insert break.md",
+    "03 Geheugen/Digitaal/Templates/ax3.md",
+    "03 Geheugen/Digitaal/Templates/source.md",
+    "03 Geheugen/Digitaal/Templates/live.md",
+    "03 Geheugen/Digitaal/Templates/reading.md",
+    "03 Geheugen/Digitaal/Templates/Create Task Note.md",
+    "03 Geheugen/Digitaal/Templates/Fill Task Note.md",
+    "03 Geheugen/Digitaal/Templates/Titel.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

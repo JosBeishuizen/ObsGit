@@ -1,0 +1,2 @@
+# 0330 zondag 30 maart 2003
+11:47	Net doen alsof dit een prima zondag gaat worden. Met pianospelen, schrijven, lezen, hardlopen, contact zoeken met Anne, belastingformulier invullen, tentamen nakijken en gedicht C.O. Jellema opsporen. Dat eerst maar eens doen. 

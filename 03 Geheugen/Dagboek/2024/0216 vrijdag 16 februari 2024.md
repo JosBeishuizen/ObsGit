@@ -1,0 +1,6 @@
+# 0216 vrijdag 16 februari 2024
+Mooie tocht naar Funchal gemaakt, heen dwars door het binnenland, terug langs de oostkust. In Funchal eerst naar de Jardim Botanico gereden. Vanaf de Via Expresso nog even pittig omhoog, even zoeken naar de ingaang, maar uiteindelijk een keurig horizontaal parkeerplaatsje gevonden. Meteen besloten om een taxi te nemen naar het centrum van Funchal. Zorg minder. De Botanische Tuin was prachtig, zie de foto's. Vele soorten orchideeën, vooral de vele soorten cactussen vielen op. Hierna dus per taxi naar het centrum aan de zee. Mooi oud fort uit 1600, waaromheen mensen lagen te zonnen en in zee zwommen. Op een terrasje geluncht en door de wijk Velha gelopen waar de deuren van dehuizenzijn versierd met schilderkunst. Lage huizen,eethuisjes en terrasjes op straat, heel cosy allemaal. Met de taxi terug en weer naar huis gereden, ging prima. Onderweg in de auto het commentaar gehoord op de dood van Navalny in het strafkamp. Vreselijk, daar mag Poetin toch echt niet mee wegkomen. 
+
+![[DSC07690.jpg]]![[DSC07691.jpg]]![[DSC07695.jpg]]
+
+![[DSC07704.jpg]]![[DSC07701.jpg]]![[IMG_20240216_141107.jpg]]

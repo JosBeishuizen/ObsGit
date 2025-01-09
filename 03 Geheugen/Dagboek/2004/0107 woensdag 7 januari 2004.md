@@ -1,0 +1,2 @@
+# 0107 woensdag 7 januari 2004
+Vandaag een vrije grijze en koude dag in Umbrië. Tocht gemaakt naar Todi. Op de terugweg langs Collazzone. 's Avonds gegeten in het jazz café. Leuk om even kennis te maken met de twee huisgenoten van Cathrien: Tiamari uit Helsinki en Christine uit Philadelphia. Cathrien heeft haar toegangstest gemaakt: niveau 2.

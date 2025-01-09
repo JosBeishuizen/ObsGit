@@ -1,0 +1,2 @@
+# 0714 donderdag 14 juli 2007
+Jozien is weer thuis, met geneesmiddelen worden de zaken onder controle gehouden. We gaan er morgen heen.  Dinsdagavond de film César et Rosalie nog een keer teruggezien. Was erg leuk, maar toch ook wel een beetje te lang uitgesmeerd en een ongelooflijk egocentrisch stel kerels. Maar Montand was weer om te genieten, evenals een aantal typisch Franse scenes. Er werd in die tijd nog onbekommerd gerookt en gescheurd over de tweebaanswegen.

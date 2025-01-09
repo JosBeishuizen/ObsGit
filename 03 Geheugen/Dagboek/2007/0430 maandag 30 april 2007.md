@@ -1,0 +1,2 @@
+# 0430 maandag 30 april 2007
+Wat is een vrolijke Koninginnedag? Als we niet op kortstondig vermaak uit zijn. Net zo zakelijk met de tijd omgaan als normaal op het werk. Met zinnige dingen bezig zijn. Genieten van de zon en van de vrijheid. Dat moet vandaag lukken.

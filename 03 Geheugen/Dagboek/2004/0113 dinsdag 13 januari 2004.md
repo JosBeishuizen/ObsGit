@@ -1,0 +1,8 @@
+# 0113 dinsdag 13 januari 2004
+Hoi Cathrien,
+
+Bedankt voor  je gezellige mail! Wat leuk dat jullie een weekend naar Florence gaan! En veel sterkte bij het zoeken naar een kamer. De via Cavour lijkt me niet slecht, mama en ik hebben hem vorige afgelopen om de S. Pietrokerk te bekijken, de kerk met de mooie campanile. Toen we er waren bleken we de kerk al te kennen, van het concert verleden jaar... In de gids van Van Egeraat staat over Perugia: "Gratie en kracht tegelijk heeft dit Etruskisch centrum waar Perugino leefde en diens leerling Rafael, waar opvallend veel en goed gekleed volk, vol statige Romeinse waardigheid, op de been is". En verder: "Perugia is mannelijk, Siena is vrouwelijk." 't Is maar dat je het weet. Vandaag heb ik de hele dag gepraat en vergaderd. 'k Begin me nu een beetje af te vragen of we niet te veel vergaderen. Vanavond gezellig gegeten met Berend en mama, Sara moest oppassen maar kwam om half 8 thuis. Nog even een paar conjunctieven en genetieven gedetermineerd, Saar wordt er zelf steeds vlotter in. Berend kwam met een 7.3 voor Duits thuis. Het lijkt nog steeds goed te gaan. Het heeft zich voor het eerst geschoren met zijn scheerapparaat... Hij heeft zich neergelegd bij het bezoek aan de kapper, een Italiaan op de Ceintuurbaan waar de jongens Grapperhaus ook worden geknipt. Mama las voor uit de krant dat Gideon den Herder een of andere aanmoedigingsprijs heeft gewonnen. Nou, ik ga nog even een subsidieaanvraag beoordelen en een toespraak maken voor mijn voorganger, de gevreesde Johan Sturm die morgen een afscheidsborrel van ons krijgt.
+
+
+
+Veel liefs en dikke kus, Papa

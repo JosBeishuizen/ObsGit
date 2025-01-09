@@ -1,0 +1,2 @@
+# 0223 dinsdag 23 februari 2011
+Hoewel weer een heel pittig gesprek met Doret de Ruyter, mijn toekomstige baas, toch prettige avond met nuttige afhandeling van mails. Zelfs een dreigende migraine nog net op tijd weten af te wenden. Mooi gedichtje van Neeltje Maria Min aan Cathrien en Sara voorgelezen.

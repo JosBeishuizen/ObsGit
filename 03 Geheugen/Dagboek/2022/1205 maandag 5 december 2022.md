@@ -1,0 +1,6 @@
+# 1205 maandag 5 december 2022
+Vanmiddag eerst Sinterklaas gevierd bij Sara en daarna bij Cathrien. Tijdens het uitpakken van de eerste pakjes, Toon was nog niet thuis van zijn werk, kreeg Sara een telefoontje dat ze was aangenomen voor een baan als specialist ouderengeneeskunde bij Geriant in de regio Alkmaar. Ziet er allemaal prima uit.  Sara vindt het niet erg om het ziekenhuis te verlaten maar verliest wel haar registratie als geriater. Ingewikkeld allemaal. Toch fijn dat ze nu een goed vooruitzicht heeft.
+
+Na de Sint bij Sara de Sint bij Cathrien. Daar was de spanning rond de pakjes groter.  Er zaten veel leuke cadeautjes in de zak. Mercia was erg ingenomen met haar dagboek. Met hulp van Cathrien schreef ze haar eerste zin op: ik ben verliefd? Het vraagteken want ze wist nog niet op wie. Maar ze snapte al wel dat dit soort ontboezemingen in een dagboek thuishoren. Later zei ze tegen Jochem: ik kan altijd "ver" en "d" doorstrepen, en dan staat er "ik ben lief'. 
+
+![[IMG_20221205_194934.jpg]]

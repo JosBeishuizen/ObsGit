@@ -1,0 +1,2 @@
+# 0704 woensdag 4 juli 2018
+Vandaag weer een heerlijke dag in Egmond. Etappe 1 van het Trekvogelpad gelopen, van Bergen aan Zee naar Egmond aan Zee. Heel mooi pad, nog nooit eerder gelopen. met name de eerste lus via het NIVON huis door de duinen naar ongeveer de Franschman en dan verder zuidelijk eraan het Woud, erg mooi!

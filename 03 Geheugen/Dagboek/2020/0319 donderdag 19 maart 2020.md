@@ -1,0 +1,2 @@
+# 0319 donderdag 19 maart 2020
+Bij Anne is de situatie vrij stabiel. Vanochtend 37.6. Helaas ben ik nu ook aangestoken. Gisteravond 38.3. Stevige koppijn en hoesten. Paracetamol. Vanochtend 37.3 een koppijn. Binnenblijven dus, geen boodschappen. Wel serieus nemen.

@@ -1,0 +1,6 @@
+# 0218 donderdag 18 februari 2021
+In het dagboek schrijven kan echt wel steun bieden in sombere tijden. Wat gaat nu zeer slecht. Vooral mijn neiging tot oordelen, en dan vooral jegens Anne. Ik wil dat beslist niet. Ik wil helemaal geen second thoughts over Anne hebben. Anne is gewoon een goed mens, heel sociaal, veel aandacht voor anderen en voor het milieu, bewust levend.
+
+De liefde is een pantser, ik wil me in dat pantser hullen ook mijn eigen ego zo klein mogelijk te maken. Het pantser van de liefde. Bij mij is dat pantser zo ontzettend dun, je prikt er zo doorheen. Met name Anne prikt er voortdurend doorheen. Door bijvoorbeeld direct na het wakker worden uit te leggen hoe slecht voor het milieu het beleid van Shell is. Dan zou ik me in het pantser van de liefde willen hullen.
+
+Dat pantser van de liefde bouw je op door veel meer te investeren in jezelf dan je nu doet. Je hebt dat altijd veel te weinig gedaan. Gewoon een aantal uren per dag voor jezelf kiezen. Laten we dat een nieuwe therapeutische oefening van maken.

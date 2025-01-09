@@ -1,0 +1,4 @@
+# 0408 maandag 8 april 2002
+Wat een heerlijke avond, zaterdagavond, ons 25-jarig bruiloftsfeest. We hebben genoten van alle vrolijke bijdragen. De strijd bleef achterwege. Het geeft werkelijk een enorme kick, zo'n gebeurtenis. Maakt het gebrek aan erkenning in het werk meer dan goed. Geeft ook aan hoe ik het hier in Amsterdam moet aanpakken, als ik tijd van leven krijg. 
+
+Intussen wordt Moeders wereld steeds kleiner. Ze is opmerkelijk hersteld van de val en wellicht tijdelijke zuurstofinsufficiëntie in de hersenen. Tekenen van het "pusher syndroom": Neiging om door te buigen in de richting van de aangedane zijde. Indicatie van een tweede graviceptive systeem, waarneming van de lichaamspositie in relatie tot de richting van de zwaartekracht. Verder zijn de meeste cognitieve functies hersteld. Erg mat en weinig spraakzaam. Anne heeft een eindje met haar gelopen en haar een plas laten doen.

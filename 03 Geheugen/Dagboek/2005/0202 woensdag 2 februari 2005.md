@@ -1,0 +1,8 @@
+# 0202 woensdag 2 februari 2005
+Het is bijna 11 uur 's avonds. Wachten op het feitelijke instappen. Door alle poortjes en controles heengekomen. De Ethiopiërs maken er wel een enorme toestand van, met name van de veiligheidscontroles. De poortjes staan hier erg scherp afgesteld. Je moet je bijna helemaal uitkleden. Mensen met metalen protheses komen er sowieso niet doorheen. 
+
+Vanochtend zaten we al om 8 uur op de kamer van dr. Teshome in het Min. van Onderwijs. We vreesden een harde confrontatie tussen Kees van Dongen en Teshome over de besteding van de 6% maar Teshome gaf ons alle ruimte om met zijn team te onderhandelen en zonodig de uiteindelijke beslissing over de besteding te nemen. Verder bleek het mogelijk om salarissen op te toppen, en moesten voor het vinden van ruimte bij de instellingen zelf zijn. Daar gaat de vice-minister of Higher Education niet over.
+
+Na dit bezoek een gesprek met dr. Daniel, directeur van het National PRC. Een rustige studeerkamergeleerde, die het liefste niet te vaak gestoord wil worden. Hij wordt mijn counterpart als locale supervisor. 
+
+Hierna stuurde Mike Cees en mij naar het voormalige paleis van Haile Selassie en de keizerin. Prachtig museum op de eerste en tweede etage. Daarna lunch met twee Engelse VSO's en via de koptische kathedraal naar het Desalegn hotel. Daar een laatste overleg met Cees en Mike die intussen een huis wist te regelen. Daarna een laatste maal met Kees van Dongen, Jeroen en Leon, Laurine ter Keurst, Mike en Cees. Om 22:00 uur naar het vliegveld.

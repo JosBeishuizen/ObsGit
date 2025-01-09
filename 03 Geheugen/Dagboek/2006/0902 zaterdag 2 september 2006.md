@@ -1,0 +1,2 @@
+# 0902 zaterdag 2 september 2006
+Nieuwe afspraak met mezelf gemaakt: proberen elke zaterdagochtend na Dirk en na de koffie het weeklog te schrijven. Over discipline gesproken: werkhervattingen  zijn altijd het lastigst. Dat zijn de enige momenten waarop je op moet letten. Ben je eenmaal met een nieuwe taak bezig, dan loopt alles vanzelf en moet je alleen weer op gaan letten als de tijd om te stoppen nadert.

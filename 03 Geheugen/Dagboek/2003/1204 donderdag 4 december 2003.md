@@ -1,0 +1,2 @@
+# 1204 donderdag 4 december 2003
+Vanavond Sinterklaasinkopen gedaan. Voor Anne een box met cd's met Kathleen Ferrier, een cd met René Fleming, twee cd's van Jacques Brel, en het boek van P.F. Tomèse over zijn overleden baby. Voor Cathrien een boek van Paul Auster. Voor Sara een boek van John LeCarré. Voor Berend een video van The Lord of the Rings, en een cd. Nog kopen: een theepot, voor Berend een wegwerpwekker, een boek voor Gerrie. Nu nog even een scriptie van commentaar voorzien.

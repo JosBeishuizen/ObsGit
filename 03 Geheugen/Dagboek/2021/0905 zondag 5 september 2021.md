@@ -1,0 +1,4 @@
+# 0905 zondag 5 september 2021
+### Tweede vakantiedag
+
+Om half zes aangekomen bij Casa Crocetti, 1568 km gereden. Goeie reis, geen problemen, wel lekker gaar. Vanavond gegeten bij Dei Priori, vanouds lekker en ook goed bezet. Ouders en zoon bleken de coronacrisis goed overleefd te hebben. Moeder zwaait nog steeds de pollepel in de keuken, vader en zoon bedienen. Zoon lijkt misschien iets te goeiig om de zaak echt over te kunnen nemen. Maar het eten en de sfeer waren weer prima. Concert bleek niet in de kerk maar bij de kerk, lekkere schreeuwende muziek met een dj. Maar om 8 uur 's avonds nog niet veel publiek.

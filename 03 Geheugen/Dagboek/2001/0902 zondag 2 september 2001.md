@@ -1,0 +1,2 @@
+# 0902 zondag 2 september 2001
+Ik zou geloof ik wel terug willen naar het naieve Godsvertrouwen en bijbehorend gevoel dat ik vroeger had toen ik als kind in de kerk zat, en nu opnieuw gevoel als ik de liederen hoor die Aafje Heynis zingt. Het brengt een complex van gevoelens en attitudes te weeg, die je misschien "vroom" zou kunnen noemen, en in ieder geval heel positief naar de omgeving zijn, mits niet schijnheilig. Het behoort tot de algemene basis.

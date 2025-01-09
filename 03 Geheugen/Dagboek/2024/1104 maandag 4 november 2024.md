@@ -1,0 +1,2 @@
+# 1104 maandag 4 november 2024
+Wat het slapen betreft. Het is duidelijk dat ik gespannen naar bed ga en gespannen in bed lig. Niet slapen! Dat werkt natuurlijk heel averechts. Hoe kan ik dat doorbreken? Toch misschien met een ontspanningsmeditatie voor het slapen gaan. Tussen 22:30 en 23:00. Daarna de telefoon uit! En misschien 's nachts hetzelfde recept. Verder accepteren dat je niet slaapt. Ontspanningsoefeningen: ademhaling tellen, bodyscan.

@@ -1,0 +1,4 @@
+# 0101 donderdag 1 januari 2004
+Begin van een nieuw jaar. Spannend omdat we zaterdag a.s. Cathrien naar Perugia gaan brengen. Ook wel heel leuk, we hebben een vrij luxueus hotel geboekt met zwembad... Ook gezellig met z'n drieën. Maar ook spannend: reis door winterweer, Alpen in de sneeuw. Nou ja, vooral het avontuurlijke voor ogen houden. En een week werk missen. Ook nadelig omdat er zoveel moet gebeuren, en ik er eigenlijk bij wil zijn. Nou ja, andere mensen worden ziek, dat is me gelukkig niet overkomen. 
+
+Cathrien vroeg of ik goede voornemens heb. Meer lezen, eigenlijk: meer inhoud, zowel door lezen als door schrijven. Vergt discipline etc. Zie ook 1 januari 1993... Nog weinig verbetering te bespeuren.

@@ -1,0 +1,2 @@
+# 0508 woensdag 8 mei 2024
+Vandaag gaan we naar Diepenveen waar we met z'n allen tot zondag in het huis van Richard zitten. Wordt vast gezellig. "Bij U, mijn hoogste goed, mijn God, bij U ben ik geborgen." Die geborgenheid mag je voeten, moet je voelen, in weerwil van alles. 

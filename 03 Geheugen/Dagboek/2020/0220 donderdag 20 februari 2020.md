@@ -1,0 +1,2 @@
+# 0220 donderdag 20 februari 2020
+Vanavond gezellig gegeten met Sara en Toon. De basis zit daar goed, dat maakt zo'n avond ontspannen en ook inhoudelijk goed. Els vond het leuk toen we kwamen, Anne werd meteen aan het voorlezen gezet, maar ze moest huilen toen we weer snel daarna weggingen. Wel te begrijpen. Van Sara kan ik nog veel leren op het gebied van discipline. Ze lijkt haar proefschrift al helemaal in kannen en kruiken te hebben.

@@ -1,0 +1,2 @@
+# 0718 vrijdag 18 juli 2008
+Het is 7 uur, de eerste veerboot legt aan. De kerkklok begint in het dorp te luiden. Ik zit op het balkon en kijk uit over het meer. Echt genieten kortom. Door de alomtegenwoordigheid van internet bestaat nu het gevaar dat je niet echt loskomt van je werk. Denk ik handig om een vakantielijstje aan te leggen en het daarbij te laten.

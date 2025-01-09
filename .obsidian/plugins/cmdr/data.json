@@ -1,0 +1,218 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "Tasks: Create or edit task",
+      "mode": "any"
+    },
+    {
+      "id": "editor:attach-file",
+      "icon": "lucide-paperclip",
+      "name": "Bijlage invoegen",
+      "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:03 Geheugen/Digitaal/Templates/Create Task Note.md",
+      "icon": "file",
+      "name": "Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md",
+      "mode": "any"
+    },
+    {
+      "id": "editor:attach-file",
+      "icon": "lucide-paperclip",
+      "name": "Bijlage invoegen",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Open today's daily note",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:new-file-in-current-tab",
+      "icon": "lucide-file-plus",
+      "name": "Create new note in current tab",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-timestamper:obsidian-custom-timestamp",
+      "icon": "import",
+      "name": "Insert custom time/date stamp",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:01 Algemeen/Planning/Taken/Inbox.md",
+      "icon": "inbox",
+      "name": "Open Inbox",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-task-archiver:archive-tasks-deeply",
+      "icon": "arrow-big-right",
+      "name": "Archive tasks",
+      "mode": "any"
+    },
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Alle koppen en lijsten invouwen",
+      "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Alle koppen en lijsten uitvouwen",
+      "mode": "any"
+    },
+    {
+      "id": "insert-current-date",
+      "icon": "lucide-calendar-days",
+      "name": "Sjablonen: Voeg huidige datum in",
+      "mode": "any"
+    },
+    {
+      "id": "insert-current-time",
+      "icon": "lucide-clock",
+      "name": "Sjablonen: Voeg huidige tijd in",
+      "mode": "any"
+    },
+    {
+      "id": "fleeting-notes-obsidian:sync-fleeting-notes",
+      "icon": "activity",
+      "name": "Fleeting Notes Sync: Sync Notes with Fleeting Notes",
+      "mode": "any"
+    },
+    {
+      "id": "highlightr-plugin:Yellow",
+      "icon": "highlightr-pen-yellow",
+      "name": "Highlightr: Yellow",
+      "mode": "any"
+    },
+    {
+      "id": "editor:undo",
+      "icon": "lucide-undo-2",
+      "name": "Ongedaan maken",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:5bc0095a-a7e5-4042-9e8d-4c3808de88ef",
+      "icon": "bike",
+      "name": "QuickAdd: Actieregel",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:2ad994fe-7bc6-4208-b2e9-8ea6dc2190d6",
+      "icon": "pen-tool",
+      "name": "QuickAdd: QuickNote",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:7c6b328e-63d7-4c39-a651-89dca742db82",
+      "icon": "book",
+      "name": "QuickAdd: Dagboek",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-task-archiver:archive-tasks",
+      "icon": "archive",
+      "name": "Archiver: Archive tasks in this file",
+      "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:03 Geheugen/Digitaal/Templates/Create Task Note.md",
+      "icon": "sidebar-open",
+      "name": "Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:01 Algemeen/Planning/Taken/Inbox.md",
+      "icon": "inbox",
+      "name": "Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "check-square",
+      "name": "Tasks: Create or edit task",
+      "mode": "desktop"
+    },
+    {
+      "id": "templater-obsidian:insert-templater",
+      "icon": "alert-octagon",
+      "name": "Templater: Open Insert Template modal",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-timestamper:obsidian-fast-timestamp",
+      "icon": "watch",
+      "name": "TimeStamper: Insert preconfigured time stamp",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "daily-notes",
+      "icon": "calendar-glyph",
+      "name": "Dagnotities: Open de notitie van vandaag",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Templater",
+      "Advanced Tables Toolbar",
+      "Open Markdown importeur",
+      "Manage workspace layouts",
+      "Open format converter",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "Open quick switcher",
+      "Create new canvas",
+      "Insert template",
+      "Open command palette",
+      "Open snel wisselen",
+      "Open grafiek weergave",
+      "Sjabloon invoegen",
+      "Open opdrachtenpaneel",
+      "Review flashcards",
+      "File Tree Alternative Plugin",
+      "BRAT",
+      "Open Full Calendar"
+    ]
+  },
+  "spacing": "4",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [
+      {
+        "commandID": "quickadd:choice:5bc0095a-a7e5-4042-9e8d-4c3808de88ef",
+        "iconID": "bike"
+      },
+      {
+        "commandID": "quickadd:choice:2ad994fe-7bc6-4208-b2e9-8ea6dc2190d6",
+        "iconID": "pen-tool"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

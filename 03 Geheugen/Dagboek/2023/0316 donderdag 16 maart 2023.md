@@ -1,0 +1,6 @@
+# 0316 donderdag 16 maart 2023
+Gisteren waren er verkiezingen voor de provinciale staten. De BoerenBurgerBeweging, een club van protesterende boeren en burgers, krijgt een kwart tot een derde van de stemmen in de provincies en dus in de Eerste Kamer. Dat betekent een agrorevolutie. De stikstofdoelen gaan van tafel, na ons de zondvloed. De schreeuwers hebben weer gewonnen, net als vier jaar geleden Forum. Dat is nu weer weggevaagd. Hetzelfde kan over vier jaar met BBB gebeuren maar dan zal er tzt ongetwijfeld weer een nieuwe protestpartij opstaan. Rutte kan maar het beste met de BBB om tafel gaan. Die mevr. van der Plas is de kwaadste niet. Zet de hele milieuagenda on hold en kijk over 10 jaar hoe hoog het water tot de lippen staat. Dit natuurlijk nooit hardop zeggen.
+
+Ik geloof dat ik mijn belangstelling op andere zaken ga richten. Zorgen dat we het hier thuis en in het gezin goed met elkaar houden. Geen overlast van de lawaai of stank of stof. Rust en stilte, alleen werken aan de dingen waaraan je iets kunt doen. Ekklesia: doormodderen tot er niemand meer komt. Geen nieuw teamlid zoeken, is zonde van het geld. De Dominicus erfgenaam maken als het schip met geld binnenkomt. Huub volgen in zijn laatste gang. 
+
+Lezen, muziek, opruimen, de kleinkinderen en kinderen volgen. [[Psalm 131]] 

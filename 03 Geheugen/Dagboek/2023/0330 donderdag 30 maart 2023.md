@@ -1,0 +1,2 @@
+# 0330 donderdag 30 maart 2023
+Uiteindelijk een heel geslaagde dag geworden. Comenius vergadering ging heel goed, iedereen was tevreden. Afscheid Jeroen was een feest. Veel oude bekenden gezien: Jeroen natuurlijk, Anique, Saskia Brand-Gruwel, Diana, Liesbeth, Ton, Desiree Joosten, Caroline, Sanne, Lieven, Jan Elen, Paul Kirschner, Wim Jochems.  

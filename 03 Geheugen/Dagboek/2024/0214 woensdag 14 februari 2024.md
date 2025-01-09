@@ -1,0 +1,2 @@
+# 0214 woensdag 14 februari 2024
+Vandaag een wandeling naar wat bleek een toeristische trekpleister, de waterval uit de 25 bronnen. Vanochtend bij toevalin Prazeres terecht gekomen voor een koffie in een quinta pedagogica. Lekkere koffie prachtige tuin. Daarna omhoog naar Rabaçal waar de tocht naar de waterval. Veel medewandelaars, vrij druk op het pad. Een stuk bleek afgezet waardoor we de heenweg als terugweg moesten gebruiken. Door het vele klimmen en dalen wel een flinke lichamelijke oefening 

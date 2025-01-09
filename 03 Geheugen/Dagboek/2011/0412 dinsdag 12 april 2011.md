@@ -1,0 +1,2 @@
+# 0412 dinsdag 12 april 2011
+Ontbijt bestaat hier uit chocoladebroodje en gewoon croissantje, vers fruit (bosbessen, ananas, mango, aardbeien, meloen), grote mok koffie, grote beker verse jus, een korrelige yoghurt met een hartig smaakje. Prima! Daarna even naar de Mississippi lopen en aan de slag.

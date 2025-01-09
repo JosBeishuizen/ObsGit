@@ -1,0 +1,4 @@
+# 1108 zaterdag 8 november 2008
+Zaterdag. Na een korte periode van opgewektheid nu weer een terugval in neerslachtigheid. Maar stil afwachten tot het weer overgaat. Er is wel degelijk een aanleiding. Het conflict binnen de Stichting Voortgezet Onderwijs Amsterdam Zuid tussen bestuur en rector Buijze. We hebben Buijze gevraagd om een andere baan te zoek voor zijn muziekjuffrouw of voor hemzelf. Ze zijn getrouwd en dat geeft spanningen binnen het team van docenten. We vinden dat slecht voor de school. De rector ziet dat niet in, en beschouwt de conflicten en tegenstellingen als incidenten op zichzelf. 
+
+Wat ik er deprimerend aan vind is dat mijn gedrevenheid, boosheid, geleid heeft tot stappen die je als overhaast kunt kwalificeren. De rector voelt zich vernederd door het bestuur.

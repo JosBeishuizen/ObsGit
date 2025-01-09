@@ -1,0 +1,2 @@
+# 0325 dinsdag 25 maart 2003
+17:54	Drukke dag in Leiden, niet geschreven. Toch proberen om vanavond 100 woorden te scoren. Er moet iets van je uitgaan, dat is duidelijk: vriendelijkheid, prettigheid (!), liefde en aandacht. Verder weten wat je wil. Dat moet je uitstralen. Meer dan somberheid, cynisme, gebrek aan serieuze aandacht. Zoals ik zovaak laat zien. Moet niet, moet niet, moet niet. Vanavond proberen een mooie dichtregel van de pas overleden C.O. Jellema op te sporen. Nu de krant. We zijn bij Nieuw Vennep.

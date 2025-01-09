@@ -1,0 +1,10 @@
+# 0616 donderdag 16 juni 2022
+Vandaag op Ada en Els gepast. Vanochtend maar de kinderboerderij hier in Noord geweest. Een beetje een treurige bedoening. Ouwe meuk, naar de ezel en de kaalgeschoren schapen eigenlijk niet veel dieren. Maar de kinderen vonden het leuk, vooral het fornuisje met toebehoren in het centrale gebouwtje. 
+
+Vanmiddag moest Els voor het eerst naar de basisschool. Meester Ed bleek een man van 59 te zijn die al zijn hele loopbaan in de onderbouw heeft gestaan. Klinkt goed. Ik had de zorg voor Ada. Ze was heel vrolijk en heeft weer genoten van de kinderliedjes van Sesamstraat, zowel via internet als door opa gezongen uit het boekje.
+
+![[220616 Ada 2.jpg\|150]]  ![[2201616 Ada 1.jpg\|150]]
+
+Vanavond met Cathrien en Jochem gesproken over de vraag of Mercia in groep 2 moet blijven of door kan schuiven naar groep 3. Mercia is op 12 december jarig en dus een heel vroege leerling. Een lastige afweging denk ik. Cognitief lijkt het me geen probleem en ook leuk uitdagend voor Mercia. Maar hoe zit het met de sociaal-emotionele kant? Merc blijft dan de hele basisschool een jonge leerling in de klas. Kan ze dat aan of moet ze op haar tenen lopen? Ik merk wel dat ze dit schooljaar erg gegroeid is in sociaal emotioneel opzicht. Niet meer dat bedeesde vogeltje maar gewoon vrijuit rondlopend en communicerend met de andere kinderen. Je merkt het ook aan de manier waarop ze praat over de andere kinderen in de klas.
+
+Meester Rik vindt dat ze er aan toe is. Nog een jaar groep 2 zou zeker in het tweede halfjaar tot verveling kunnen leiden. Dat moet natuurlijk niet. Verder houdt ze zich in de klas prima staande, gaat ook met de grotere kinderen om. Zelf lijkt ze er wel voor te kiezen. Haar vriendin Liv (in oktober jarig) gaat ook door. Als Mercia er zelf zo over denkt en meester Rik ziet geen beletsel, dan zou ik het wel aandurven. Anne is veel sceptischer. Zou Mercia veel liever nog een jaar in groep 2 houden. We zullen zien.

@@ -1,0 +1,2 @@
+# 1206 vrijdag 6 december 2024
+Vandaag wordt Anne 70! Vanochtend de taart ophalen bij de Pompadour. Voor het eerst weer in het oog ov. Vanmiddag thee met taart. Vanavond eten bij Cress met Geert en Linda.

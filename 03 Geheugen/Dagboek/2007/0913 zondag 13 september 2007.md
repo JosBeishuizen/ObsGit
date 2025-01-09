@@ -1,0 +1,4 @@
+# 0913 zondag 13 september 2007
+Beetje onhandig dat ik nu op zoveel plaatsen dagboekaantekeningen maak. Moet ze een keer uit EverNote halen en uiteindelijk allemaal in Het Boek zetten. Nou ja, veel opmerkingen zijn ook niet voor de eeuwigheid gemaakt. Waar staan we nu: weer volledig aan het werk, loopt allemaal goed. Wel weer heel hard werken met gierende deadlines. Proefschrift Herman is zo goed als af. In feite mijn tweede geesteskind. Verder ben ik nog met een review artikel bezig dat er hopelijk mooi uit gaat zien. 
+
+Thuis: we staan voor een flinke verbouwing in de woonkamer, muurtje met het zijkamertje eruit, alle leidingen weggewerkt, behang van de muur en opnieuw afgewerkt. Gisteren met een vrachtautootje alle meubels bij Marie Jeanne en Bart in het souterrain gezet.

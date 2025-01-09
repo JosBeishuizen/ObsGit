@@ -1,0 +1,2 @@
+# 0620 donderdag 20 juni 2024
+Even in vijf zinnen deze dag. Vanochtend om kwart voor negen bij de dermatoloog in het BovenIJ. Plek op het rechterbeen waar ik al jaren met een scheef oog naar heb gekeken bleek wel degelijk een basaalcelcarcinoom te zijn. Meteen verwijderd. Een flink gat, ik schrok ervan toen ik het zag, maar netjes gehecht. Met antibiotica weer naar huis. Vandaag been omhoog gehouden. Heel weinig klachten, begint nu een beetje te branden. Ben ik eindelijk van die plek af! Hopelijk blijft het herstel spoedig verlopen.

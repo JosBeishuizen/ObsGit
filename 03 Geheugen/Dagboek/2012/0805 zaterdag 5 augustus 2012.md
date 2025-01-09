@@ -1,0 +1,2 @@
+# 0805 zaterdag 5 augustus 2012
+Op Schiphol, op weg naar St. Albans (35 km boven London) om een week te zingen in een kathedraal. Hopelijk wordt het een aangename week. Probeer steeds twee uur per dag te werk. De eerste twee uur vanmiddag in het Ramada Hatfield Hotel. Op de tv-schermen hier op Schiphol de Olympische Spelen die ook in London plaatsvinden.

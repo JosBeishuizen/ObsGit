@@ -1,0 +1,2 @@
+# 0121 maandag 21 januari 2008
+Geen prostaatkanker! Dat goede nieuws kreeg ik afgelopen vrijdag van de polikliniek urologie. Verder heb ik mezelf heel slecht in de hand. Beangstigend, moet echt beter. Het systeem, het is er niet voor niets.

@@ -1,0 +1,3 @@
+# Oefening 8
+Vanuit de gedachte dat handelen op zichzelf gevoelens van somberheid opzij zet kun je het handelen zelf cultiveren. Handel meditatief, dat wil zeggen denk na bij iedere stap, wees je bewust van de stap die je zet. Tel desnoods als dat zo uitkomt. Breng je gedachten bij je handeling, zoals je ze ook bij je ademhaling kunt brengen. Wees je bewust en zeg tegen jezelf: "Ik ben nu hier en hier mee bezig, ik ben nu bezig therapeutische oefening nummer 8 op te schrijven", "Mijn enige verantwoordelijkheid is nu om deze handeling tot een goed einde te brengen". Telkens als je gedachten wegzwermen breng je ze weer terug bij de handeling hier en nu.   
+

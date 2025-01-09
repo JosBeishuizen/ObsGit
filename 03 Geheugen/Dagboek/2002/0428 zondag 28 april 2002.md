@@ -1,0 +1,4 @@
+# 0428 zondag 28 april 2002
+Zo, dit is weer wat nieuws. Een simpeler veld voor inhoud. Ik vind dit handiger omdat je niet zo omslachtig een wordpad document hoeft aan te maken. Bovendien ben ik een beetje verslingerd geraakt aan de Verdana 8 pnts als lettertype. Kun je hier bold gebruiken? Nee. Krijg je hier automatisch een schuifbalkje? Ja, zo ingesteld.
+
+Harrie Geelen voor de radio: je hebt een leeftijd en die houd je. Je wordt wel meer ervaren, bouwt meer routine op. Je blijft dezelfde driftige jongen die je altijd was. Goed, als je dan je stemmingen niet kunt of zelfs zou moeten willen veranderen, dan kun je je ervaring nog wel gebruiken om de condities te beïnvloeden. Zo vind ik het prettig om mezelf te beschouwen als een actief en niet cynisch baasje. Ik houd dat gevoel langer vol als ik 's ochtends op tijd op sta, als ik een plannetje voor de dag in mijn hoofd heb en dat probeer uit te voeren. Ik weet dat er vaak wat

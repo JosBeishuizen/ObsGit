@@ -1,0 +1,2 @@
+# 1027 donderdag 27 oktober 2005
+Heb toch eens wat meer respect voor je eigen pogingen om je lezen onder controle te houden. Die innerlijke warmte is echt van groot belang, omdat je die naar buiten uitstraalt. Warmte en kracht uitstralen, dat is echt het belangrijkste wat je moet doen. En er is alle reden voor. Je hebt een goede neiging tot discipline. Je houdt van discipline. Je hebt veel capaciteiten in huis. Blijf toch vooral bij je warmte kracht koppeling! Denk opnieuw aan Nelson Mandela.

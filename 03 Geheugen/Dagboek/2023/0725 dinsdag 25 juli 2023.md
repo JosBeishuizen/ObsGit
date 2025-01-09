@@ -1,0 +1,2 @@
+# 0725 dinsdag 25 juli 2023
+Vandaag de verfbeurt van het huisje voltooid. Twee fijne weken hier in Egmond gehad. Flink gestudeerd op York en Elgar. Kleine klussen in huis gedaan. Wel nog aardig wat afspraken in Amsterdam. Franca nog een dagje hier gehad omdat ze ziek was. Geert en Linda op bezoek gehad, evenals Bartie & Kees en zowaar Willem & Petronel. Nog iets van de Tour gezien. Niet genoeg gelezen en gestudeerd. Daar nu nog even wat aan doen. 

@@ -1,0 +1,4 @@
+# 1124 zondag 24 november 2002
+Verder met Windows 98. Gisteravond met Harry, Thole & Corry, Marina & Ron naar het Requiem van Brahms in de Grote Kerk in Delft geweest. Erg mooie kerk, mooie muziek. We zaten daar als drie broers naast elkaar. We hebben niet zoveel gemeen, althans in doen en laten, maar delen wel 50% van de genen. Zouden we voor elkaar klaar staan in geval van nood. Had daar in de kerk het sterke gevoel dat moeder in de buurt was. Onzin natuurlijk. Maar ze zou de uitvoering zeker mooi gevonden hebben. Ze heeft hem zelf ook een of meer keer gezongen. 
+
+Zeker weten: dag is geslaagd als ik (1) in moeders mind heb geleefd, (2) iets voor Anne heb gedaan, (3) iets voor Berend heb gedaan, (4) piano heb gespeeld, (5) een uur heb geschreven. Daar vandaag aan proberen te werken.

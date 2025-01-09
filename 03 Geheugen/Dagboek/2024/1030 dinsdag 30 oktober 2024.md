@@ -1,0 +1,2 @@
+# 1030 dinsdag 30 oktober 2024
+Even een dagboekaantekening. Ik kan vrij goed met één stok lopen en sinds vanochtend doorstappen op de trap, zowel trapop als trapaf. Vind ik wel een echte vooruitgang. Anne vindt dat lopen met één stok nog niet goed. Dus als zij er is loop ik met twee stokken. Leidt tot een rustige opbouw die ook niet verkeerd is. 

@@ -1,0 +1,2 @@
+# 0608 maandag 8 juni 2009
+Het is op het moment teveel. De stichting, het Onderwijscentrum, dan die vermaledijde cursus. Hoe krijg ik het allemaal aan elkaar geknoopt. Nog even volhouden, de vergaderingen zijn bijna voorbij. Proberen morgen de tijdschrijf weer hier te installeren en de mails van morgen weer op de laptop in orde te krijgen. Dan heb je weer een beetje greep op de situatie. De stukken van vandaag weggooien. Morgenvroeg nog een printopdracht aan Caroline geven. Nu nog even lezen, help!!

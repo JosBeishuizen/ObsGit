@@ -1,0 +1,2 @@
+# 0402 zondag 2 april 2017
+Nog even opschrijven wat we vrijdag 31 maart hebben gedaan. 's Ochtends om 10 uur eerst koorrepetitie in St. Mark's Church. Even onwennig in de nieuwe omgeving. Wel een knus kerkje, alles heel kleinschalig. Om 13 uur met de bus naar Siena. Eerst even rondgekeken en om 4 uur repetitie in de zeer kleine Anglicaanse kerk. Valse piano. Om 17 uur het

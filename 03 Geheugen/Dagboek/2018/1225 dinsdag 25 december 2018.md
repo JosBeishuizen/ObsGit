@@ -1,0 +1,2 @@
+# 1225 dinsdag 25 december 2018
+Eerste Kerstdag. Sta om 09:51 bij de pont te wachten op Berend en Sietske. Zo dadelijk kerstontbijt, ook met Els, Sara en Toon. Mercia heeft de waterpokken, dus die zijn er niet bij. Gisteravond met Jan, Emmy en Ger naar de kerstdienst geweest, heel gezellig. Vanmiddag naar Deventer, hopelijk vanavond nog even tijd om te lezen. Een rustige kerst wensen we een elkaar toe. 

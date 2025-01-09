@@ -1,0 +1,2 @@
+# 1028 vrijdag 28 oktober 2022
+Vandaag een rustige dag. Vanochtend geroeid, bijna de 100 km aangetikt, nog 80 meter. Daarna gestofzuigd en gemopt. Na de lunch even geslapen en nu bezig met het veranderen van de harde schijf van de EliteBook zodat er meer ruimte ontstaat voor de systeemprogramma's.  Het bezoek aan mevrouw Nuffer gaat niet door. In plaats daarvan ga ik even een spreadsheet maken met de gegevens over de verlichting hier in het gebouw. 

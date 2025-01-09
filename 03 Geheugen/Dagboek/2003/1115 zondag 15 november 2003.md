@@ -1,0 +1,2 @@
+# 1115 zondag 15 november 2003
+Slaapproblemen. Midden in de nacht een probleem met Access opgelost. Voel me erg ongelukkig als ik me te veel door de computer laat meeslepen. Voel me bovendien erg ongelukkig als ik teveel taken op de Rode Lijst heb staan. Levert echt slapeloze nachten op. Nou ja, het aanleggen van zo'n lijst werkt in ieder geval al wel een beetje rustgevend. Voel me ook erg ongelukkig als ik me niet voldoende met de inhoud bezig houd. Inhoud, inhoud, inhoud!!

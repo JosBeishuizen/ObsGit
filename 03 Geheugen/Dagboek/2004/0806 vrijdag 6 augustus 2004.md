@@ -1,0 +1,2 @@
+# 0806 vrijdag 6 augustus 2004
+In het vervolg proberen elke dag een kwartier te reserveren voor bezinning. Vandaag de laatste dag in Dicomano. Boodschappen doen, een capuccino bij het café op de hoek waar de man achter de bar een hartje maakt in de melk van de capuccino. Proberen een wandeling te maken, kaarten schrijven, inpakken, kort slapen en dan naar huis rijden. Heb er wel weer zin in. Het was hier heerlijk, het weer, Florence, het zwembad.

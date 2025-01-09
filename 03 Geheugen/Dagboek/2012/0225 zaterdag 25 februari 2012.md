@@ -1,0 +1,4 @@
+# 0225 zaterdag 25 februari 2012
+Slapeloze nacht, daarom maaar even wat in het dagboek schrijven. De gedachte dat je voor het last hebben van veel vervelende dingen te oud geworden bent beurt wel op, maar helaas niet in deze nacht.
+
+Cathrien en Jochem zitten in het noorden, tussen de theeplantages. Denken erover om een berg te beklimmen, maar misschien toch maar niet, het is erg warm. Berend heeft de eerste versie van zijn bachelorthese ingeleverd, erg knap, geheel op eigen kracht! Hopelijk zit hij een eind in de goede richting. Sara is begonnen met neurologie in Blaricum. Anne schiet flink op met haar cursus. Vanavond de leesclub over Howard Jacobson's The Finkler Question. Morgen zingen in Haarlem. Ik heb mij opgegeven voor een weekje zingen in St. Albans in augustus.

@@ -1,0 +1,4 @@
+# 0605 zondag 5 juni 2005
+De tijd vliegt voorbij. Er zijn veel momenten waarop ik het gevoel van controle verlies en de indruk heb een totale onbenul te zijn. Dan moet je weer terug naar Psalm 1 en dan probeer je weer verder te komen. Het gevoel dat mensen ontzagwekkend gemaakt zijn is volgens Huub Oosterhuis centraal in de Bijbel, niet de erfzonde die berust op foute vertaling in het Latijn die Augustinus als enige toegang tot de Bijbel las. Bij zit die erfzonde heel erg diep.
+
+Mijn coach Peter Verkerk heeft me opgedragen om een gesprek met tegenstander Pier Vellinga te voeren, om van deze helleveeg een sneeuwvlok te maken. Ik ga het proberen.

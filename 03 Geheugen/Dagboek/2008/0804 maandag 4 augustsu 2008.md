@@ -1,0 +1,2 @@
+# 0804 maandag 4 augustsu 2008
+Alweer drie dagen in Montescudaio. Iedereen is goed gearriveerd, Karlijn en Sara zaterdagmiddag om half een, Cathrien en Renate om half zeven na een reis die om tien uur in Cortona begon, Berend en Gerrie zondagmiddag om kwart voor vijf.

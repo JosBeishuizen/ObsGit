@@ -1,0 +1,2 @@
+# 0725 vrijdag 27 juli 2005
+Om 18:36 in Albergo Olivedo in Varenna. Veilig aangekomen na 1074 km! Vanochtend om 5:35 vertrokken. Onderweg vier keer gestopt, de laatste keer kort in Splügen om even twee potten yoghurt te kopen. Hele vlotte reis, geen noemenswaardig oponthoud, geen nare dingen onderweg. De tocht over de pas was wel weer pittig, zo'n twee uur van Splügen naar hier. Erg warm, zo'n 36° hier! Maar het was allemaal goed te doen. Anne vindt dat het echte vakantiegevoel pas uitbreekt als we Italië binnenrijden.

@@ -1,0 +1,2 @@
+# 0813 zondag 13 augustus 2006
+Weer veilig thuis na een pittige reis. De auto heeft zich uitstekend gehouden en we zijn ook geen moment in gevaar geweest. Het enige waren de files in Midden en Zuid Duitsland waardoor we uiteindelijk pas om 21 uur thuis waren in plaats van de iets riantere 20 uur van vorig jaar.

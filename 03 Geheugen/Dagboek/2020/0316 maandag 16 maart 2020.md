@@ -1,0 +1,4 @@
+# 0316 maandag 16 maart 2020
+Een dag die de geschiedenis zal ingaan. Een toespraak tot de natie van de minister-president, Mark Rutte. Vergelijkbaar met Joop den Uyls toespraak in 1972 tijdens de oliecrisis. Rutte kondigde aan dat 60% van de mensen besmet zal raken met het coronaviris. Dat we op drie manieren kunnen reageren: beheersen, z'n gang laten gaan, of proberen met wortel en tak uit te roeien. Dat we gaan voor het eerste alternatief. Maar dat we daar gemakkelijk een jaar mee in de weer kunnen zijn. Die 60% vind ik wel schokkend. Maar Cathrien vroeg zich af of dat percentage bij een gewone griepgolf ook wordt gehaald. In ieder geval zijn alle scholen dicht, alle crèches, alle schouwburgen en bioscopen. Alle sportevenementen zijn afgelast. Hoe lang gaat dit duren?
+
+Anne ligt ook met koorts in bed. Gelukkig slaapt ze nu lekker met een paracetamol. Hopelijk loopt dat met een sisser af.

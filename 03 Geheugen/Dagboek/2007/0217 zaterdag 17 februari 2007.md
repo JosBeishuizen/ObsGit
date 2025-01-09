@@ -1,0 +1,2 @@
+# 0217 zaterdag 17 februari 2007
+Net een schokkende film van Martin Scorcese gezien, The Departed, over de Ierse mafia in Boston. Uiteindelijk gaat iedereen dood, ook de good guys. Ik vraag me af wat macht is. En wat ik ermee te maken heb. En waarom die film me zo raakt. Nu aan de slag, moed houden, steeds voorwaarts gaan.

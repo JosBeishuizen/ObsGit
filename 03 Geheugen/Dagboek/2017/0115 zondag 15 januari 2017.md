@@ -1,0 +1,2 @@
+# 0115 zondag 15 januari 2017
+Gisteravond de leesclub met twee gasten: de vertaler en zijn vriend, vrienden van Joan. Van het boek, Plan D van Simon Urban, bleef niet veel over. Gisteren ook de boekenkast beneden uitgebreid met een nieuwe stelling, 8 meter erbij. Berend en Sietske kwamen nog langs met twee krukjes die ze mij Neef Louis hadden gekocht. Even een kopje thee gedronken.

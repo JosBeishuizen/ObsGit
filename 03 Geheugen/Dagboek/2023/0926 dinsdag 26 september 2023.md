@@ -1,0 +1,7 @@
+# 0926 dinsdag 26 september 2023
+### Vijftiende vakantiedag
+Vandaag naar Ferrara gereden. Vanochtend om 9 uur vertrokken na eerst nog een snelle cappuccino gedronken te hebben in de bar vlakbij. Erg leuk stadje, levendig, mooi, zee bij de hand. De reis naar Ferrara ging vlot, om 11:30 waren we hier. Om 12 uur ingecheckt bij Federica die ons al stond op te wachten. Klein appartementje maar wel heel gezellig. We zitten op de begane grond aan een lommerrijk binnenplaatsje waar ook een paar schildpadden rond schuifelen. Opletten dat ze niet naar binnen gaan. Hopelijk gaan we ons hier vermaken. Tablet klaargezet voor de uitvaartplechtigheid van Aadje de Groot. Begon om 13:30. Streaming kwam laat op gang en werd diverse keren onderbroken. Maar uiteindelijk de bijdragen van Frans Nollet en Els Sijmons wel goed ontvangen. Allemaal erg verdrietig. 
+
+Hierna een rondwandeling door de stad gemaakt. Je moet altijd wennen aan een nieuwe stad. Heel erg veel mooie gebouwen en schilderachtige straatje, maar we kregen het gevoel nog niet te pakken. Hopelijk gaat dat nog lukken. Op een pleintje wat gedronken met een plankje en schaal sla. Weer naar huis en op tijd naar bed. 
+
+![[IMG_20230926_130645.jpg]]![[IMG_20230926_154652.jpg]]![[IMG_20230926_182525.jpg]]

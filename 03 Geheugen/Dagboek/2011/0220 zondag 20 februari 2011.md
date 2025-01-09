@@ -1,0 +1,2 @@
+# 0220 zondag 20 februari 2011
+Een goede zondag want begonnen met hardlopen, gevolgd door rustig ontbijt en bezoek aan de ekklesia. Vanavond voor het eerst Manouk te eten. Heel ontspannen sfeer. Cathrien was er ook. Morgenvroeg om half 5 onze tijd stappen Sara en Karlijn op het vliegtuig. Het zal heel fijn zijn als ze weer thuis zijn. Moet wel proberen om deze teksten iets meer diepgang te geven. Dat gaat wel lukken als ik apparaatje iets beter onder de knie heb.

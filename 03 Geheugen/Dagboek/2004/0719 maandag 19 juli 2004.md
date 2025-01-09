@@ -1,0 +1,2 @@
+# 0719 maandag 19 juli 2004
+In Dicomano. Raar om nu even achter dit apparaat te zitten met Benedetto Michelangeli op de piano in Mozart's 25e pianoconcert, zondag op de rommelmarkt in Dicomano gekocht.

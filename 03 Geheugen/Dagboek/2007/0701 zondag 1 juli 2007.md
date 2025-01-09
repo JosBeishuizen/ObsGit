@@ -1,0 +1,2 @@
+# 0701 zondag 1 juli 2007
+Gelukkig is Sara weer veilig en wel terug uit Suriname. Vanochtend aangekomen, enigszins moe van de nachtvlucht. Wel een goede leertijd daar gehad, tijdens haar verpleeghulpstage. En ook veel plezier gehad met haar drie studiegenoten. Vrolijke verhalen op hun website. Ik ben blij dat ze het gedaan heeft en ook dat Lennart haar meteen even is komen opzoeken.

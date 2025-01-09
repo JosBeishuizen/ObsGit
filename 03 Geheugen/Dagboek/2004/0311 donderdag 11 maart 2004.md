@@ -1,0 +1,2 @@
+# 0311 donderdag 11 maart 2004
+Van nu af wil ik elke avond even de punten noteren die de volgende dag tot een succes moeten maken. Niet te veel, tussen 5 en 10. Het gaat niet om de gewone afspraken, maar om de zaken die niet zouden gebeuren als ik mijn wil er niet achter zet. Daar hoort eigenlijk ook altijd iets van lezen en schrijven bij. Proberen concreet te omschrijven, maar niet concreter dan nodig is. 

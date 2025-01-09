@@ -1,0 +1,3 @@
+# 0810 dinsdag 10 augustus 2004
+Even beginnen met gedicht van Willem Wilmink. Erg mooi. Het gevoel met jezelf samen te vallen. Dat wil ik proberen vandaag goed vast te houden. Dingen doen waardoor je met jezelf samenvalt. Rust en ontspanning, maar ook concentratie. Zorgvuldig omgaan met werkhervattingen. Proberen het aantal daarvan zo gering mogelijk te laten zijn. Het doel is uiteindelijk gewoon bij jezelf blijven. Hopelijk lukt dat vandaag ook met de warmte. Wat ben ik dan eigenlijk zelf:
+rustig, op de inhoud gericht, humor, aandacht, volharding.

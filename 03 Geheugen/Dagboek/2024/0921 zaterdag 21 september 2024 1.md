@@ -1,0 +1,2 @@
+# 0921 zaterdag 21 september 2024 1
+Een zonnige ochtend, de herfst begint met een indian summer. Slapen nog een ramp, vandaag nadenken over een strategie. Been begint dik te worden door oedeem. Geheel volgens het boekje. Kan een paar weken aanhouden. Nog geen nieuws van Sara.

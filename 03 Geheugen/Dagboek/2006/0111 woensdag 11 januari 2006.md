@@ -1,0 +1,2 @@
+# 0111 woensdag 11 januari 2006
+"Theory is when nothing works but you know why. Practice is when things work but you don't know why. We combine theory and practice: Nothing works and we don't know why not."

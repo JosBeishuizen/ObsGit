@@ -1,0 +1,2 @@
+# 0630 donderdag 30 juni 2005
+Sara ontving gisteren haar gymnasiumdiploma met alleen maar 8en en 9s, en een 9.4 voor het centraal schriftelijk Latijn, net een tiende hoger dan Josse Klijnsma, tegen wie ze het eerder moest afleggen in het debat bij Nederlands. Erg leuke bijeenkomst op school en daarna gezellig gegeten met Ger, Marc natuurlijk, Richard en Marjolijn. Prima prima allemaal. Proberen vandaag de hele dag een beetje te relativeren, het is nu echt even de periode van het relativeren, ook om de nachtrust en de ontspanning weer enigszins terug te krijgen.

@@ -1,0 +1,2 @@
+# 0505 donderdag 5 mei 2011
+Niet alleen bevrijdingsdag maar ook de dag waarop Gert is gecremeerd. Flinke opkomst in hetzelfde crematorium als waar Anne’s nicht Carla is gecremeerd. Bijeenkomst met veel muziek, door Huub uitgezocht. Toespraken door de zus en broer van Gert en door Wim, een mooi sober verhaal met aandacht voor de Hartenstraat, de studie, Wim’s tijd in Afrika, waar Gert niet naartoe dorst, en de leesclub. Wim liet Gerts groeiende drankprobleem niet onvermeld. Na afloop gesproken met o.a. de zoon van Irma en met Rik Kaspersen.

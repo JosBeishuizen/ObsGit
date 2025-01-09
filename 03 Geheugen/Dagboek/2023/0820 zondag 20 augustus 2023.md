@@ -1,0 +1,2 @@
+# 0820 zondag 20 augustus 2023
+Vandaag een zomerdag, zon en 24°. Geluncht met Grada uit het koor. Grada nodigde ons uit omdat we haar robe en muziek naar York en mee- en teruggenomen hadden. De lunch was lekker, op een beschaduwd terras in het groene Amstelveen Zuid. Daarna Anne naar Cathrien gebracht om Cathrien te helpen bij het opruimen na de verbouwing. Intussen heb ik het fotoalbum voor Cathrien afgemaakt. Nu vanavond een aflevering van Zomergasten met de tekenaar Kamagurka. Morgen de heidag met het bestuur en team aan het begin van het nieuwe seizoen van de Ekklesia.

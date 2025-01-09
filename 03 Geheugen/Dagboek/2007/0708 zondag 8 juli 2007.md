@@ -1,0 +1,4 @@
+# 0708 zondag 8 juli 2007
+Een heerlijke ochtend in Egmond. Even hard gelopen en ontbeten in de zon. Sara is hier om te werken aan haar stageverslag. Vier weken verpleeghulp in het Diaconessenziekenhuis in Paramaribo. Met de vakantie in het vooruitzicht ga je toch weer plannen maken. Proberen elke dag om zes uur op te staan en dan twee uur te lezen en te schrijven. Proberen om elke dag om 10 uur naar bed te gaan en dan nog even rustig te lezen. Proberen om echt het een en ander te lezen, sowieso de 20 artikelen voor de review. Maar misschien ook wat steviger kost.
+
+En ook even flink werken aan de geestelijke hygiene. Hoe? In dit dagboek schrijven, veel praten met Anne Carien, misschien ook een paar goede boeken lezen, proberen om veel te wandelen.

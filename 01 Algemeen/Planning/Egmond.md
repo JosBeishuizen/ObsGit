@@ -1,0 +1,39 @@
+# Egmond
+- Voortgang
+	- donderdag 21 november 2024
+		- 15:35 vergelijking offertes
+- Inhoud 
+	- ### vergelijking offertes
+		- Algemeen 
+			- HdB tekenwerk 8000
+			- TW tekenwerk 13500
+		- Vloer
+			- HdB 15600
+				- Forbo 3500
+			- TW 13460,47
+		- Gevel en dak
+			- HdB 37600
+				- NB maten identiek aan TW terwijl de huisjes verschillen qua omvang
+			- TW 41785,09
+		- Kozijnen 
+			- HdB 10450
+			- TW 20000
+				- niet gespecificeerd 
+		- Keuken
+			- HdB 4700
+			- TW 7190
+		- Badkamer 
+			- HdB 4080
+			- TW 5960
+		- Installaties
+			- HdB 5000
+				- 2 panelen 500
+				- batterij 20Kwh 3000
+			- TW 35200
+				- 18 panelen 7200
+				- batterij 20 Kwh 10000
+		- Riolering 
+			- HdB 2000
+			- TW 3000
+		- 
+			- 

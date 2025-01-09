@@ -1,0 +1,2 @@
+# 1216 woensdag 16 december 2020
+Vandaag eerste van twee oppasdagen met Ada en Els. Ada begint al weer even te piepen. Ben benieuwd hoe lang dat nog duurt. Die oppasdagen zijn wel inspannend, omdat je continu alert moet blijven en er steeds onverwachte dingen gebruiken. We zijn weer begonnen aan een nieuwe strenge lockdown. Mercia is deze week aan haar schoolloopbaan begonnen maar is al weer thuis door de coronacrisis. Misschien mag ze wel naar school omdat Cathrien in de zorg werkt. 

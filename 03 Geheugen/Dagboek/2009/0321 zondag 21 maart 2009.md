@@ -1,0 +1,2 @@
+# 0321 zondag 21 maart 2009
+Het is hoe dan ook lente. Erg vervelend dat ik Anne-Carien steeds zo kwets. Ik weet niet wat ik moet doen om dat te voorkomen. Proberen strenger voor mezelf te zijn. Streng naar binnen, zacht naar buiten. Ik weet dat ik dit al heel lang roep, maar misschien moet ik het gewoon eens gaan doen. Een nieuw moment om te schrijven. 's Ochtends vroeg werken wordt tot nader order afgeschaft. Proberen op een dag van twee momenten gebruik te maken: van 7:30 tot 8:30, of van 19:30 tot 20:30. Van week tot week inplannen.

@@ -1,0 +1,4 @@
+# 0310 donderdag 10 maart 2005
+Waarvan zou ik op dit moment het meest genieten? Van lekker in de zon zitten met een kopje koffie, samen met Anne, luisteren naar de merels, lezend in een boekje. Dat is precies wat ik allemaal doe op dit moment. Zojuist Jan gefeliciteerd met zijn 70e verjaardag. Gisterochtend klusjes in Los Llanos gedaan en gistermiddag een prachtige wandeling gemaakt over de top van de Birigoyo, 1808 m hoog. Fantastisch uitzicht op de bergen rond de Caldera en op de grote berg op Tenerife. Schitterend! Gisteravond thuis gegeten.
+
+Misschien maar eens stoppen met het streven naar genieten. Genieten mag nooit een doel op zichzelf zijn. Leidt tot een zwakke wil. Genieten mag hoogstens een bijproduct zijn. Morgen terug naar Amsterdam. Er moet nog een lied voor Jan Klein gemaakt worden. Misschien vannacht een thema proberen te verzinnen.

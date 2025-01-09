@@ -1,0 +1,7 @@
+# 1222 donderdag 22 december 2022
+Af en toe word je weer met je neus op de feiten gedrukt. Je bent niets en je zult niets worden. Zeker geen goede opa voor je kleinkinderen. Wat dat betreft is je verblijf in dit ondermaanse niet langer vereist. Vanmiddag helaas weer een ongefundeerde en niet proportionele woedeuitbarsting richting Els die Ada belaagde. Hevige schrik bij Els, Ada die Els ging troosten, nou ja, doffe ellende. 
+Ik ben nog niet bepaald van mijzelf bevrijd. Verre van dat.
+
+Wanneer heb ik mij van mijzelf bevrijd? Als ik hier niet meer over mezelf schrijf. Wanneer schrijf ik hier niet meer over mezelf? Ik kan gewoon besluiten om dat niet meer te doen. En ik kan zo gaan leven dat er niets meer over mezelf te vertellen valt, als het onderwerp gewoon niet meer interessant is.  Als het me lukt om mezelf los te laten. Als het me lukt om alles om mij heen los te laten. Niet alleen hoe we door de stad fietsen, of ik wel of niet slaap, of ik gezond ben of bezig dood te gaan, of ik mijn deadlines wel of niet haal. Loslaten, loslaten, loslaten. Leven als een stoïcijn. Je daar dag en nacht in blijven oefenen. Ik zal mijn best doen.
+
+Wat zei Epictetus ook al weer? Je moet je alleen druk maken over dingen die je kunt veranderen. De rest moet je loslaten. Zoiets.

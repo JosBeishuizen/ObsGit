@@ -1,0 +1,5 @@
+# 0403 dinsdag 3 april 2018
+Het is raar dat ik tegenwoordig zou weinig opschrijf terwijl er best wel veel te melden is. Eerst even de stand van zaken met Anne. Afgelopen vrijdag is de CT-scan gemaakt. Was een eenvoudige klus, na een kwartier al weer klaar. Alles in het BovenIJ ziekenhuis. Komende donderdag heeft Anne overleg met de gynaecoloog. Dan horen we hoe de operatie het beste uitgevoerd kan worden en wanneer. Gelukkig heeft ze er weinig klachten van, is in de loop van de tijd ook niet erger geworden.
+
+We zitten in Egmond, de paasdagen en aansluitend vandaag. We, dat zijn Cathrien en Mercia, Sara en wij. Jochem heb ik gisteren weer naar de trein gebracht. Toon was het hele Paasweekend met vrienden op pad. Mercia was gisteren in een opperbeste stemming, heel gezellig. Cathrien bereidt zich voor op de promotie, volgende week donderdag. Nu eerst de presentatie, dan vrijdag de proefpromotie. Sara maakt een rustige indruk. Op 1 mei begint haar zwangerschapsverlof. Het loopt allemaal goed, tot nu toe. Sara zei gisteravond dat ze een obsessief-compulsieve stoornis (OCS) heeft of heeft gehad.
+

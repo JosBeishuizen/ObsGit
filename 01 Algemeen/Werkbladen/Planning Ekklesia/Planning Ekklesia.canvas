@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"01 Algemeen/Werkbladen/Planning Ekklesia/221118 Voortgang activiteiten Ekklesia.md","id":"490c6440c1e20ed9","x":-685,"y":-326,"width":465,"height":846},
+		{"type":"text","text":"Enquête","id":"f18f668f214b406c","x":-372,"y":-326,"width":250,"height":60},
+		{"type":"text","text":"Communicatie","id":"aa9140fbb8bd441c","x":-372,"y":-231,"width":250,"height":60},
+		{"type":"text","text":"Samenstelling team","id":"72a48b59d248a4e4","x":-372,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"Jaargesprek Mirjam","id":"6b720fa95421a97f","x":-372,"y":-50,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[]
+}

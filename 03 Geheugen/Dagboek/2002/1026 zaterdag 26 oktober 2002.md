@@ -1,0 +1,2 @@
+# 1026 zaterdag 26 oktober 2002
+Stel je voor, dat je op de laatste dag van je leven alleen maar geklungeld hebt met de computer, zonder plan, zoals ik vanmiddag. Ook het "even opzoeken op Internet" moet met wortel en tak worden uitgeroeid... Altijd een plan. Hoe krijg ik dat Berend aan zijn verstand. Hoe leert hij dat hij zijn leven moet indelen... Ik moet het hem elke dag vragen, en ook geleidelijk de eisen iets gaan opschroeven. Moeilijk, omdat ik er zelf ook moeite mee heb.

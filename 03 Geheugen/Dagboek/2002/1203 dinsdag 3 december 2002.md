@@ -1,0 +1,2 @@
+# 1203 dinsdag 3 december 2002
+Vandaag de moeder van Wim begraven, 89 jaar oud geworden. Een sterke vrouw, die aan het eind van haar leven de zorg van haar zoons moest accepteren. Nooit meer helemaal over de dood van Gerda heengekomen.

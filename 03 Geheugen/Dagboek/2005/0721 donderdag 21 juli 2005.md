@@ -1,0 +1,6 @@
+# 0721 donderdag 21 juli 2005
+Aan de vooravond van de vakantie: constateren dat de stemming er bepaald niet in zit. Vanmiddag een uiterst onplezierig gesprek met Geertrui, waarin ik weliswaar de juiste positie heb ingenomen ("jij moet ervoor zorgen dat je personeel meegaat"; geen interim oplossing voor het secretariaat) maar toch ook veel sigalen van rondzingen. Verplicht me tot veel grotere zwijgzaamheid het komende jaar. Absoluut noodzakelijk om verder te komen als manager. Zwijgzaamheid waar het de persoonlijke verhoudingen en het persoonlijk functioneren van de mensen betreft. Niet meer uitgaan van het idee dat je elkaar collegiaal diep in de ogen kunt kijken. Dat wel doen misschien maar dan vanuit je positie als leidinggevende.
+
+Geldt ook voor hier thuis. Grotere zwijgzaamheid maar tegelijkertijd openheid en bereidheid te luisteren en je werkelijk te interesseren voor anderen. Dat is het andere hart waarin je moet proberen nieuw en standvastig te zijn. Er moet wel iets van je uitgaan. 
+
+Dus: niet streven naar genieten, wel naar openheid en interesse voor anderen en voor de dingen. Rust, alles langzaam en met zoveel mogelijk bewuste aandacht proberen te doen. En vroeg blijven opstaan, om de vrijheid te zoeken. Dat de rest van je leven, het eerste uur van de dag als quality uur.

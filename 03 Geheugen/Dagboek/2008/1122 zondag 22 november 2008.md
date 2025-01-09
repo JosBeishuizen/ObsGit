@@ -1,0 +1,2 @@
+# 1122 zondag 22 november 2008
+"Luister goed, ik ken een lang en oud verhaal." Dat lees ik in een overlijdensbericht in Trouw van vandaag. Ik zou wel graag continue met dat verhaal in verbinding staan en uit dat verhaal willen leven. Dat betekent wel dat de zondag speciale aandacht krijgt, al of niet in de kerk. 's Ochtends even nadenken over een bijbeltekst is toch ook wel belangrijk.

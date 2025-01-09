@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"b7fda162d0a29ff8","x":-591,"y":-264,"width":250,"height":60,"color":"6","type":"text","text":"Learning & Instruction bijwerken"},
+		{"id":"24cdb620514e1c0a","x":-591,"y":-169,"width":250,"height":60,"color":"4","type":"text","text":"Module 5"},
+		{"id":"6e9419231f8db895","x":-296,"y":-169,"width":250,"height":60,"color":"1","type":"text","text":"Module 6"},
+		{"id":"a9040a10ecda9045","x":6,"y":-169,"width":250,"height":60,"color":"1","type":"text","text":"Module 7"},
+		{"id":"e5f35c5f86c51124","x":-296,"y":127,"width":250,"height":60,"type":"text","text":"Modulle 6.3"},
+		{"id":"74aefec3a801733b","x":-296,"y":219,"width":250,"height":60,"type":"text","text":"Module 6.4"},
+		{"id":"a18b70eb79ea27dc","x":-296,"y":311,"width":250,"height":60,"type":"text","text":"Module 6.5"},
+		{"id":"be82d2d7fed17d94","x":-296,"y":-62,"width":250,"height":60,"color":"4","type":"file","file":"01 Algemeen/Werkbladen/Learning & Instruction/Module 6.1.md"},
+		{"id":"76b79c191c87257e","x":-296,"y":35,"width":250,"height":60,"color":"4","type":"file","file":"01 Algemeen/Werkbladen/Learning & Instruction/Module 6.2.md"},
+		{"id":"e139212dfedd4e10","x":-591,"y":-62,"width":250,"height":60,"color":"4","type":"file","file":"01 Algemeen/Werkbladen/Learning & Instruction/Module 5.5.md"},
+		{"id":"89698f75e6260f92","x":304,"y":-169,"width":250,"height":60,"color":"1","type":"text","text":"Module 8"},
+		{"id":"1221c2efeac3f8a2","x":6,"y":-62,"width":250,"height":60,"type":"text","text":"Module 7.1"},
+		{"id":"90f00afc7c128be6","x":6,"y":35,"width":250,"height":60,"type":"text","text":"Module 7.2"},
+		{"id":"e300752872c769ed","x":6,"y":127,"width":250,"height":60,"type":"text","text":"Module 7.3"},
+		{"id":"1d9911a901b15b8f","x":6,"y":219,"width":250,"height":60,"type":"text","text":"Module 7.4"},
+		{"id":"d4b49c88bf458e07","x":6,"y":311,"width":250,"height":60,"type":"text","text":"Module 7.5"}
+	],
+	"edges":[
+		{"id":"944e9584ff762a3b","fromNode":"b7fda162d0a29ff8","fromSide":"bottom","toNode":"24cdb620514e1c0a","toSide":"top"},
+		{"id":"db695ed41c1b5edb","fromNode":"24cdb620514e1c0a","fromSide":"bottom","toNode":"e139212dfedd4e10","toSide":"top"},
+		{"id":"3ec54813eefb7ea6","fromNode":"e139212dfedd4e10","fromSide":"right","toNode":"6e9419231f8db895","toSide":"left"},
+		{"id":"906cebed528d0bbc","fromNode":"6e9419231f8db895","fromSide":"bottom","toNode":"be82d2d7fed17d94","toSide":"top"},
+		{"id":"b122f19c749b9c7c","fromNode":"be82d2d7fed17d94","fromSide":"bottom","toNode":"76b79c191c87257e","toSide":"top"},
+		{"id":"66226ff36ec55865","fromNode":"76b79c191c87257e","fromSide":"bottom","toNode":"e5f35c5f86c51124","toSide":"top"},
+		{"id":"43dc68f32f161b2b","fromNode":"e5f35c5f86c51124","fromSide":"bottom","toNode":"74aefec3a801733b","toSide":"top"},
+		{"id":"be3550a862a6d010","fromNode":"74aefec3a801733b","fromSide":"bottom","toNode":"a18b70eb79ea27dc","toSide":"top"},
+		{"id":"1a900eccf69ce839","fromNode":"a18b70eb79ea27dc","fromSide":"right","toNode":"a9040a10ecda9045","toSide":"left"},
+		{"id":"27a6ca77da4b4dae","fromNode":"a9040a10ecda9045","fromSide":"bottom","toNode":"1221c2efeac3f8a2","toSide":"top"},
+		{"id":"372215f317b59886","fromNode":"1221c2efeac3f8a2","fromSide":"bottom","toNode":"90f00afc7c128be6","toSide":"top"},
+		{"id":"26156fdbecc00f4b","fromNode":"90f00afc7c128be6","fromSide":"bottom","toNode":"e300752872c769ed","toSide":"top"},
+		{"id":"3c8e94951c06484f","fromNode":"e300752872c769ed","fromSide":"bottom","toNode":"1d9911a901b15b8f","toSide":"top"},
+		{"id":"8424e30f5a9a2c3c","fromNode":"1d9911a901b15b8f","fromSide":"bottom","toNode":"d4b49c88bf458e07","toSide":"top"},
+		{"id":"437e0b1618340850","fromNode":"d4b49c88bf458e07","fromSide":"right","toNode":"89698f75e6260f92","toSide":"left"}
+	]
+}

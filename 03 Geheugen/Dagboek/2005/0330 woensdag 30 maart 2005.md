@@ -1,0 +1,2 @@
+# 0330 woensdag 30 maart 2005
+We zijn intussen 10 dagen verder. Genietend van de baan en van het leven, dat zeker. Even over het afgelopen paasweekend. Vrijdagmiddag naar pa, met z'n allen. Bij Ton en Véronique langs, uiteindelijk gezellig gegeten bij Richard en Marjolijn. Zaterdagochtend, net toen ik Martin Ros in snikken hoorde uitbarsten na "Ik zou wel eens willen weten" van Jules de Corte, belde Joan met de vraag of ik Dick en hemzelf naar de eerste hulp kon rijden. Dick was niet in orde na 14 dagen diarree. Waarschijnlijk toch zoiets als een medicijnvergiftiging.

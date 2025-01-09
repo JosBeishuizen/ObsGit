@@ -1,0 +1,2 @@
+# 0918 maandag 18 september 2006
+De profundis clamavi ad Te. Heb mijn gevoel uitgesproken dat Anne alles wat ik doe veroordeel. Weet eigenlijk niet goed hoe verder te gaan, en of er wegen zijn. Om zeer wanhopig van te worden. Misschien is dit het juiste moment om in therapie te gaan. Dan natuurlijk bij Harry Vink. Vanavond onderzoeken of de verzekering dat betaalt.

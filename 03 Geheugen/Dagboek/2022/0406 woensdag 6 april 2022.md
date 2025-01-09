@@ -1,0 +1,4 @@
+# 0406 woensdag 6 april 2022
+Gisteravond heel gezellig gegeten met de hele familie, met uitzondering van Sietske die in Oxford zit. We aten bij Choux ter gelegenheid van ons 45-jarig huwelijk. Ieder vertelde wat hij of zij mee bezig is. Toon met de Oranje Loper, Sara met de a.s. bevalling en de toekomst in de geriatrie, Cathrien over de start van het loopbaan als huisarts, Jochem over zijn werk aan de VU, Berend over zijn promotietraject. Ik vond het ontroerend om alle verhalen te horen. De stemming was heel goed.
+
+![foo.png](https://filedn.com/lEFtF675HQD86Dw6hctjb9S/Dagboek/220405%20Eten%20bij%20Choux.jpg)  

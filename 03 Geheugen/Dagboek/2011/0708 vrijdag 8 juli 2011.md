@@ -1,0 +1,2 @@
+# 0708 vrijdag 8 juli 2011
+Vanochtend naar rifugio Fasanelli gereden. Blakende zon, prachtig hotel eigenlijk. Midden in de stilte van de bergen. Morgen gaan we een tocht met een gids maken. Nu een kinderleichte wanderung naar de Belvedere de Malvento. Met de panini in de rugzak. De rust is hier zeer aangenaam. Hopelijk kunnen we het pad. Viden. Moet heel eenvoudig te vinden zijn. Poesis en praxis. Dingen doen met een intrinsieke en extrinsieke drijveer. Mooi die combi. Uitleg van Aristoteles door Paul van Tongeren.

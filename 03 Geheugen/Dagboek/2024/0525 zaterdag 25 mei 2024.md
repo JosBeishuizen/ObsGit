@@ -1,0 +1,2 @@
+# 0525 zaterdag 25 mei 2024
+In Herve of Julémont. Zeer landelijk. Een sappig weitje voor ons zeer moderne appartementje. Vannacht veel regen. Vanochtend boodschappen gedaan in Herve en daarna een deel van een wandeling gemaakt vanuit de Abbaye du Val-Dieu. Wandeling gestaakt vanwege modder en water op het pad. Nu lekker bij het huisje lezen.

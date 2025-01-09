@@ -1,0 +1,2 @@
+# 1201 woensdag 1 december 2004
+Vanavond is prins Bernard overleden op 93-jarige leeftijd. Toch moeilijk om nu te werken aan Sinterklaasgedichten. Zeker nu de stress weer vreselijk toeslaat en de neiging tot ontvluchten zeer groot is. Dat moet niet. De zekerheid van de stap voorwaarts is echt nodig.

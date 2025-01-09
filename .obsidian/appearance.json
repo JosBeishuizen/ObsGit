@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Bitter",
+  "enabledCssSnippets": [
+    "hide-completed",
+    "sidebar",
+    "Ubuntu",
+    "Headers",
+    "file-expl-line-space"
+  ],
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Arial Unicode MS"
+}

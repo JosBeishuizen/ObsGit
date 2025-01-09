@@ -1,0 +1,2 @@
+# 1214 zondag 14 december 2003
+Nou, eens kijken of we genoeg tijd hebben om een zin in te typen. Nog een zin proberen. Wat ik wilde zeggen: het zondagochtendgevoel ligt aan de basis van alles. Het is geloven. Ik heb het nu vastgehouden tijdens een half uur durende worsteling om deze computer aan de praat te houden. Ik probeer het van nu af aan vast te houden. Het beïnvloedt je benadering van personen en zaken, ook op je werk. Ga nu kerstmuziek opzetten en genieten. Genieten van werken, inhoud, ook vorm. Hoe houd ik dit vast??? De basisvraag van het leven.

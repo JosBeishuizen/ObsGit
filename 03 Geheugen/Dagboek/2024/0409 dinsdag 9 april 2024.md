@@ -1,0 +1,4 @@
+# 0409 dinsdag 9 april 2024
+Vandaag bij Ton en Veronique de spullen uit Egmond opgeborgen, zoveel mogelijk weggesopt op de "hilde", de vliering op de deel. Wat zit er veel ruimte in hun boerderij! Gelukkig staat het nu hoog en droog en niet meer in de weg, Daarna gezellig asperges gegeten, mede ter gelegenheid van Tons 64e verjaardag. Weer een hoofdstuk in het Egmond verhaal afgesloten.  
+
+Vanochtend kregen we een bericht van de contra-expert.   Hij was gisteren met de expert die namens onze verzekering optreedt wezen kijken bij ons "chalet". Stond inderdaad in het water etc. Conclusie  van de experts:  huisje is total loss. Volgens de contra-expert vergoedt de verzekering de volledige herbouw van het huisje.   Dat klinkt heel positief, maar we moeten het natuurlijk nog horen van onze verzekeraar. Wordt vervolgd.

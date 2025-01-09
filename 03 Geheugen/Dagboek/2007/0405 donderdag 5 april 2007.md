@@ -1,0 +1,2 @@
+# 0405 donderdag 5 april 2007
+Ik merk dat ik structureel te weinig tijd besteed aan onderhoud. Onderhoud is: mails lezen, dagboek bijhouden, muziek, weeklog, bureau opruimen.  Daarvoor nu structureel meer tijd uittrekken.

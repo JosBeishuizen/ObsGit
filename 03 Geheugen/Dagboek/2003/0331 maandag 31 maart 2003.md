@@ -1,0 +1,2 @@
+# 0331 maandag 31 maart 2003
+08:21	Tjee, wat een gevoelens van ergernis en woede op de vroege ochtend na het invoeren van de zomertijd. Ik begin wel veel last van een ochtendhumeur te krijgen. En dat terwijl de ochtendstond goud in de mond heeft, aan het begin van een nieuwe week die hopelijk een aantal goede zaken brengt, week 14 van het jaar 2003. Misschien wel de beste week van het jaar! Misschien wel een week waarin het me lukt om elke dag te lezen en te schrijven.

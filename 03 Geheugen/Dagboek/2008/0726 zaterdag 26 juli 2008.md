@@ -1,0 +1,4 @@
+# 0726 zaterdag 26 juli 2008
+Laatste ochtend in Riomaggiore. Nevelig en fris. Was erg fijn hier: de rust, het wandelen, het lezen, het praten, de plaatsjes. Maar hopen dat we vandaag een goede reis hebben en dat het verblijf in Montemerano net zo aangenaam zal zijn. Nu nog even een stukje Paul van Tongeren over Aristoteles. 
+
+Weer een nieuw leven in ons huis in Montemerano. We arriveerden hier vanmiddag om kwart voor drie na een vlotte reis van ongeveer 280 km met een lunchstop in Scanzano. Appartement midden in het plaatsje binnen de oorspronkelijke castello, nog door de Sienezen gebouwd. Huis dateert van 1407! De eigenaresse, Marjolein Lorenzini, gaf ons een snelle rondleiding. Vrouw van in de 70. Woont al sinds 1960 in Italië. Man overleden?

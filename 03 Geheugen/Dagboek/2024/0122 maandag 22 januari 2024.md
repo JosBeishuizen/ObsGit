@@ -1,0 +1,2 @@
+# 0122 maandag 22 januari 2024
+Na weer bijna een aanvaarding in het bestuur van de Ekklesia besluit ik om alleen nog dingen te doen die mijn gezondheid niet direct ondermijnen. Ik ga dus stoppen met de Ekklesia. Na de zomer, ik maak dit seizoen nog af. Dit is gewoon niet gezond meer. Ik ga dus ook geen nieuwe moeizame discussies meer aan met Mirjam Rigterink of met het team. Gewoon met enige distantie en zonder persoonlijke betrokkenheid op de winkel passen en grote ongelukken voorkomen. Scheelt een hoop tijd en gezeur.

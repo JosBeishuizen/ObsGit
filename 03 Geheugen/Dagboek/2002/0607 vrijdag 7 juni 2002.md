@@ -1,0 +1,2 @@
+# 0607 vrijdag 7 juni 2002
+Gisteravond heeft Sara uiteindelijk de knoop doorgehakt: het wordt Natuur en Gezondheid, met keuzevakken Tekenen en Frans 2. Cultuur en Maatschappij vindt ze leuker, met name Geschiedenis. Maar de mogelijkheid om medicijnen te gaan studeren, evt. psychologie, wil je open houden. Wat een opluchting! En toch ook een dapper besluit van Saar, na al haar onzekerheden en twijfels over zichzelf. Ik denk dat ze zichzelf er een grote dienst mee heeft bewezen.

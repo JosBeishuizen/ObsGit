@@ -1,0 +1,2 @@
+# 1019 zaterdag 19 oktober 2024
+"Doof de hel in mijn hoofd", hoe doe je dat zelf? Door toch steeds een kleine actie te kiezen en die geconcentreerd uit te voeren, als het even kan met plezier. Let speciaal op luisteren naar muziek. Het gaat niet om grote activiteiten, vooral niet. Wel op de gerichtheid en concentratie.

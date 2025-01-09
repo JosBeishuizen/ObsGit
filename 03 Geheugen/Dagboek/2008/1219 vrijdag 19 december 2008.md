@@ -1,0 +1,4 @@
+# 1219 vrijdag 19 december 2008
+OK, even uitblazen in de trein naar Amsterdam. De boys uit Elburg erbij, laat nu de grote ontspanning maar komen. Vandaag een heel spannende dag geweest. Vanochtend eerst gesprek met beoogd projectleider HBHM. Dat wordt waarschijnlijk geen succes. Toch nog even doorzoeken. Daarna Bestuurlijk Overleg. Dat ging onverwacht heel goed. Toen naar Heerlen om te opponeren bij de promotie van Amber Walraven. En de trein nog even doorgepraat met Bernadette van Hout Wolters. Situatie op het ILO even doorgenomen. Nu op weg naar huis. Moe moe moe. Maar wel heel voldaan. Veertien dagen kerstvakantie voor de boeg! 
+
+Laat nu de grote ontspanning maar komen. Maar toch wel vanuit de discipline. Dat leuk blijven vinden. Morgen een weekendje naar Oortjeshekken. Discipline betekent in de vakantie in ieder geval: op een zelfgekozen moment naar bed gaan. Elke dag lezen, pianospelen en schrijven.

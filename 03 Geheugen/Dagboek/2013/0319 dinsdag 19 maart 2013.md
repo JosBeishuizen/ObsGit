@@ -1,0 +1,2 @@
+# 0319 dinsdag 19 maart 2013
+Je rust pakken, dat is de kwestie. Vanochtend wakker geworden met allerlei deprimerende gedachten over de VU. Dat is gewoon niet handig. Misschien moet ik ook eens zo'n G -formulier invullen voor mezelf. Ik was er gisteren vanaf maar nu keert het toch weer terug. Trouwens, gisteren de koekjes niet laten staan. Vandaag dus wel. Overigens, de basisrust is er nog wel. Gisteravond erg leuk gesproken met Christoph Schindler.

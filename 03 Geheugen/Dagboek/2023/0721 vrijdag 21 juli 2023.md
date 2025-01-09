@@ -1,0 +1,2 @@
+# 0721 vrijdag 21 juli 2023
+In Egmond met Franca die nog een beetje ziekjes is. We zijn hier nu een week. Cathrien, Jochem en de kinderen zitten in ons huis omdat hun badkamer wordt verbouwd. Geert en Linda logeren twee nachten in Hotel Golfzang. Gisteravond weer eens ouderwets gegeten bij de Pilaren in Bergen. 

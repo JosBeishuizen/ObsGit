@@ -1,0 +1,2 @@
+# 0731 donderdag 31 juli 2008
+Het is nu 4:14. Slapen gaat hier in Montemerano heel slecht, vooral vanwege de warmte. Jezelf opdragen om er een mooie dag van te maken, een aardig beeld uit het boek Norwegian Woods van de Japanse schrijver Hariki Murakami

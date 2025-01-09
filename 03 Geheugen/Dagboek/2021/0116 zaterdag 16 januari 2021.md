@@ -1,0 +1,2 @@
+# 0116 zaterdag 16 januari 2021
+Lastig om een plek te vinden waar je direct kunt schrijven. Op dit moment heb ik niet het gevoel de boel onder controle te hebben. Al moet ik zeggen dat deze manier van schrijven wel een gunstige verhouding tussen snelheid en nauwkeurigheid laat zien.

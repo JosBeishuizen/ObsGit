@@ -1,0 +1,2 @@
+# 0312 zaterdag 12 maart 2005
+Weer heelhuids thuis. Vliegreis ging gistermiddag erg vlot. We vlogen niet over Tenerife maar gingen rechtstreeks naar huis. Vanochtend al weer de boodschappen bij Dirk gedaan en piano gespeeld. Dat niet genieten is nog niet zo'n slecht idee. Nu met Berend een nieuwe fiets kopen en een lied voor Jan afmaken.

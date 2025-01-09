@@ -1,0 +1,9 @@
+# Modelreglement 2006 over vergaderingen
+Artikel 45 
+1. De vergaderingen worden gehouden op een door het bestuur vast te stellen plaats in de gemeente waar de grond is gelegen, bij voorkeur in de nabijheid van het gebouw. 
+2. Jaarlijks wordt, binnen zes maanden na afloop van het boekjaar, een vergadering gehouden, de jaar­ vergadering. In deze vergadering legt het bestuur, in overeenstemming met het bepaalde in artikel 12 tweede lid, de jaarrekening ter vaststelling aan de vergadering over. Tevens brengt het bestuur in deze vergadering zijn jaarverslag uit. 
+3. Vergaderingen worden voorts gehouden zo dikwijls het bestuur, de raad van commissarissen of de voorzitter zulks nodig acht, alsmede indien een aantal eigenaars dat tenminste tien procent van het aantal stemmen kan uitbrengen zulks schriftelijk verzoekt aan het bestuur. 
+4. Indien een door eigenaars verlangde vergadering niet door het bestuur wordt bijeengeroepen op een zodanige termijn, dat de verlangde vergadering binnen drie weken na ontvangst van het verzoek wordt gehouden, zijn de verzoekers bevoegd zelf een vergadering bijeen te roepen met inachtneming van dit reglement. 
+5. De vergadering benoemt al dan niet uit de eigenaars de voorzitter. Voor de eerste maal kan de benoeming van de voorzitter bij de akte geschieden.
+
+Wij volgen het modelreglement 2006 zoals bepaald in artikel G dat handelt over "Splitsing in appartementsrechten, vaststelling reglement en oprichting vereniging van eigenaars": "op deze splitsing worden van toepassing verklaard de bepalingen van het modelreglement bij splitsing in appartementsrechten van de Koninklijke Notariële Beroepsorganisatie, ...". Het gaat hier om Modelreglement 2006. 

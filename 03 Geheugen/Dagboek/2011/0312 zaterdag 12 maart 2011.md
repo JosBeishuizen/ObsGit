@@ -1,0 +1,4 @@
+# 0312 zaterdag 12 maart 2011
+Vanavond gezellig gegeten met Cathrien en Jochem. Cathrien heeft voor haar coschap bij chirurgie een 9 als cijfer gekregen, knap werk. Ze moet alleen wat aan haar schuchterheid doen, niet zozeer regenover de patiënten maar wel tegenover de artsen. Ze gaat erover praten met een psycholoog die ervaring heeft op dit gebied.
+
+Sara is begonnen met haar coschappen. Eerst nog even 14 dagen oefenen op elkaar. Ook rectaal en vaginaal onderzoek. Sara gruwt ervan en twijfelt weer erg aan haar beroepskeuze. Relativeert de ernst van die twijfel ook weer. Hopelijk komt het goed.

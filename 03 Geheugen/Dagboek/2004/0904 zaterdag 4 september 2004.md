@@ -1,0 +1,2 @@
+# 0904 zaterdag 4 september 2004
+Algemene verbijstering over de gijzeling in een school in Zuid-Rusland door Tjetsjeense rebellen, waarbij misschien 250 mensen zijn omgekomen, onder wie veel kinderen. Drie dagen met 1200 mensen opeen gepakt gezeten in het gymnastieklokaal. Geen voedsel of drinken. Je verstand staat stil. Scholen zijn heilige plaatsen! Misschien is dat de richting van de oplossing: goed onderwijs, goede gezondheidszorg, kortom verhoging van de welvaart, waardoor mensen de behoefte aan geweld minder gevoelen. Kijk naar Europa.

@@ -1,0 +1,4 @@
+# 0413 zaterdag 13 april 2024
+Vanochtend weer een mooie bijeenkomst met de Deze Wereld  Anders club. Gerard bespeurde toch ook  wel een tunnelvisie bij Ton Veerkamp, het eenzijdig neomarxistisch lezen  van de Bijbel. Nuttig en leerzaam maar zeker niet alleen zaligmakend.  En soms ook beperkend, zeker als het persoonlijk interpreteren van de Psalmen wordt afgedaan als burgerlijke vroomheid. Pim beschreef een ervaring die hij had als 13- of 14-jarige op zijn kamer: het gevoel dat het goed zou komen, dat ten diepste de schepping goed was. En hij herinnerde aan een advies van Jehoeda Ashkenazi: vijf maal per dag zeven minuten mediteren of reflecteren. Gezond voor lichaam en geest.
+
+Gisteren een beoordelingsvergadering van Comenius. Naast me kwam een student-lid zitten. Aan het eind zei hij: je hebt de vergadering goed geleid. Toen ik binnenkwam en de vergadering werd geopend had ik het gevoel: dit gaat helemaal goedkomen. Voor in het succesmapje. 

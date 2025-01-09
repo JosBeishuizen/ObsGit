@@ -1,0 +1,2 @@
+# 0505 dinsdag 5 mei 2009
+Bevrijdingsdag was fris en regenachtig, in tegenstelling tot de voorafgaande weken. Gisteravond applaus voor de koningin tijdens de dodenherdenking op de Dam. Een moment van ontspanning, na de aanslag op 30 april, zo schreef Trouw. Vanavond gegeten bij Céline Meulman, samen met Kathy Schulte.

@@ -1,0 +1,4 @@
+# 0706 woensdag 6 juli 2011
+Op het pleintje van Rotonda, een echt pleintje waar iedereen samenkomt, maar geen café. Vanochtend een schrift, taccuino, voor Anne gekocht zodat zij onze wederwaardigheden ook weer kan bijhouden.
+
+Intussen bij het zwembad van hotel Il Bosschetto waar we een frisse duik nemen na heerlijk gegeten te hebben bij Peppe. Twee heren nodigden ons bij hen aan tafel, een fotograaf en een aardappelteler. Ze waren aan het aardappelproeven, wat aan Anne een opmerking ontlokte waarop wij ook moesten proeven en meedrinken. De mannen waren moeilijk te verstaan maar ze prezen allerlei zaken aan zoals slow food, antiossidanti, olijfolie uit de streek, Duitse aardappels, Italiaanse gastvrijheid. Morgen gaan we weer eten bij Peppe en dan komt Franco ons een fles olijfolie van zijn eigen bedrijf brengen.

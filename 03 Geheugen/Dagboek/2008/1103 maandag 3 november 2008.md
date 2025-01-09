@@ -1,0 +1,31 @@
+# 1103 maandag 3 november 2008
+Grappig, je kunt hier een dagboekaantekening maken die uiteindelijk gewoon in onenote terecht komt. Aan het begin van een nieuwe week. Ik vind het werk op dit moment te spannend en te veeleisend. Spannend: veel ingewikkelde personeelszaken. Ik bedoel hans buijze op het ig, hans zloch op de vu, geertrui slooten, de slechte service die het onderwijssecretariaat biedt. Ook de verwachtingen die het college heeft. Verder het constante geworstel om alles af te handelen wat moet gebeuren. 
+
+Is het inderdaad zo dat de harde lijn gaat winnen op de VU? Dat veranderingen in het onderwijs alleen nog gelegitimeerd kunnen worden vanuit de de verhoging van het rendement? Als dat zo zou zijn, dan zou het geld voor het plan HBHM er ook niet gekomen zijn. Dat plan heeft niets te maken met verhoging van het rendement van de VU. Ik denk dat bij Ad Verkleij hier de wens de vader van de gedachte is. 
+
+Vanavond een interessante lezing van Kishore Mahbubani over de eeuw van Azië. Met Paul, Richard, vriendin van Paul en Anne, in Felix Meritis. De seven pillars of western wisdom die vanuit het Westen voor Azië beschikbaar zijn: 
+1. vrije markt 
+2. technologie 
+3. meritocratie 
+4. pragmatisme 
+5. vrede 
+6. rule of law 
+7. educatie 
+
+The first pillar is free market economics. Free market economics does not just enhance economic productivity through incentives for good performance. Free market economic as l so leads to the continuous creation of new elites and removal of old elites. Indeed one little known fact is that the best description of the virtues of capitalism is provided by Karl Marx. His essays explain well how capitalism destroys feudal elites. The feudal Latin American elites failed in their economic reforms because they refuse to give up the "rent" income that they could extract from their privileged positions. "Rent" income distorts free markets. One quick way to promote economic growth is to destroy “rent" income. 
+
+The second pillar is science and technology. An enormous shift is taking place in Asia. The late Nobel Laureate in Chemistry, Richard Smalley has predicted that by 2010, 9% of all PhD holding scientists and engineers will be living in Asia. 
+
+The third pillar is meritocracy, which I have spoken about. 
+
+The fourth pillar is pragmatism. The best definition of pragmatism is given by Deng Xiaoping when he said it did not matter whether a cat is black or white; if it catches mice, it is a good cat. He used this simple saying to explain to the Chinese people why China had to switch from centrally planned economics to free market economics. 
+
+But Deng Xiaoping was not the first pragmatist in Asia. The first pragmatist were the Meiji reformers. After watching the total colonization of India by the British in1 850s and the humiliation of China in the Opium War of 1839-1842, the Japanese knew that they too would be colonized or humiliated if they did not change. So the Japanese Meiji reformers went out and copied the best practices of the West. 
+
+The big untold story of Asia is how so many Asians have successfully copied this Japanese practice of adapting from the best. Earlier I had praised the South Korean success in development. One little known secret about the South Korean success is that South Koreans initiated their success by copying the Japanese. The reason why this secret is so little known is because the South Koreans get very angry if you suggest that they had copied from the Japanese. I discovered this when I wrote an essay in lime magazine mentioning this fact. The response was a flood of angry emails from South Koreans denouncing me. Given this strong Korean-Japanese rivalry, I thought it was a brilliant decision by Dr. Mahathir to award the contract to build one tower each of the Petronas Towers to rival Korean and Japanese teams. The result was spectacularly successful. 
+
+The fifth pillar is the culture of peace. The remarkable thing about East A sia is that even though the biggest wars since World War ll were fought in East Asia (the Korean War, the Vietnam War and the Sino-Vietnames War), the guns have been largely silent in our region since 1980. The sixth pillar is the rule of law. No modern economy an function without an impartial and fair rule of law. Foreign investors need this. So does international trade. This is why China is now producing more new well trained judges than any other country. But China's case also illustrates the enormous difficulty of fully implementing rule of law. Traditionally, most Asian societies have had rule by law, but not rule of law. Hence, the emperor issues edicts but is not bound by his edicts. China has a modern society but while in theory the CCP members are subject to the same rule of law as ordinary members, in practice they are often not. This is unlike America where even the President and Senators can be indicted or impeached. 
+
+Fortunately, many Chinese CCP members are honest. lf they are not, China's economy could not have grown so fast. However, in the long run, neither China nor any other Asian society can just rely on honesty. We need to adopt the Western system of rule of law, not rule by law, if we are to succeed. Andrew Mclntyre and Douglas Ramage have also said that President SBY "has taken more of a leadership role than his predecessors in the counter-corruption drive. His official approval and encouragement have created something of a virtuous circle of reinforcement and political probity." This is one of the reasons why the rule of law is needed: to prevent and eradicate corruption. 
+
+The seventh and final pillar is education but it is in some ways the most important one. Without education -and I mean primary, secondary and tertiary education- no society can succeed. One reason why China and India are among the most successful Asian societies is that they have the largest number of students studying in American universities. In 2006-2007, China had 68,000 students studying in the US and lndia had 83,000 students.

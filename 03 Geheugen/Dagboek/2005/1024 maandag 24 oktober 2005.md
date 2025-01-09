@@ -1,0 +1,2 @@
+# 1024 maandag 24 oktober 2005
+Tijd voor een besluit. Als ik om welke reden dan ook alleen maar op verkeerde gedachten kom, en dat is nog al eens het geval, dan probeer ik de condities zo in te richten dat er goede gedachten ontstaan. Desnoods van buiten af. Dan proberen innerlijk de rust te herstellen, het zelfgevoel op te krikken, en weer een nieuwe actie te starten. Hoe richt je condities in: mooie muziek, een psalm, een stukje in dit dagboek, een stukje in het boek dat je aan het lezen bent. Morgen hierop doorgaan.

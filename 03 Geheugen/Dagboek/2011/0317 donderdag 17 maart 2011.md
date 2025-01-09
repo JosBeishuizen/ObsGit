@@ -1,0 +1,1 @@
+Grootste cadeau van deze week: Bronzwaer constateert dat mijn hartklep in precies dezelfde conditie verkeert als een jaar geleden! Hoera, ik hoef pas over een jaar weer terug te komen.

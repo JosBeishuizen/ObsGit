@@ -1,0 +1,33 @@
+# Agenda
+#taken 
+- [x] 26-03 11:00 - kerk
+- [x] 26-03 18:00 - leesclub
+- [x] 28-03 10:00 - SELAHOF
+- [x] 29-03 Mercia/Franca
+- [x] 30-03 09:30 - 13:00 Comenius TF1
+- [x] 30-03 16:00 Afscheid Jeroen van Merriënboer
+- [x] 31-03 09:00 USO beoordelingsvergadering
+- [x] 31-03 20:00 Koor
+- [x] 01-04 12:30 Ledenvergadering Egmond
+- [x] 01-04 14:00 Boekpresentatie Kees Hoope
+- [x] 03-04 08:00 Berend van Schiphol halen
+- [x] 03-04 13:00 Overleg team en bestuur
+- [x] 03-04 14:00 Leerhuis God
+- [x] 03-04 20:30 Eye Jochem
+- [x] 04-04 16:00 Bestuur SSE
+- [x] 04-04 19:00 Eten Pianeta Terra
+- [x] 06-04 Oppassen Ada Els Otto
+- [x] 07-04 09:30 Haarlem zingen
+- [x] 08-04 10:00 Veerkamp
+- [x] 14-04 18:00 Tjeerd & Kathleen
+- [x] 15-04 14:00 Uitvaart Huub
+- [x] 17-04 Adviesraad Oberon
+- [x] 17-04 10:00 Harry film The Quiet Girl
+- [x] 19-04 10:00 Comenius LF interviews
+- [x] 20-04 Oppassen Ada Els Otto
+- [x] 21-04 Comenius LF Interviews
+- [x] 22-04 Feest Margriet
+- [x] 24-04 10:00 SELAHOF
+- [ ] 10-11 Afscheid Ton de Jong
+- [x] Mondhygiënist 📅 2023-10-24 ✅ 2023-10-24
+- [x] Aanschuiftafel 📅 2023-10-24 ✅ 2023-10-25

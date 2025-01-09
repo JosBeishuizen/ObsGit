@@ -1,0 +1,2 @@
+# 0708 vrijdag 8 juli 2005
+Doelgerichtheid is bepaald niet mijn sterkste kant. Dikwijls bevind ik mij in een positie dat ik A moet doen, en het niet doe, of in plaats daarvan B ga doen. Dat levert dan schuldgevoelens op die vervolgens weer verlammend werken. Wat wel helpt is hardop denken, en niet bang zijn. Ook niet 's ochtends vroeg. Het fatalisme waar ik eigenlijk vaak last van heb, dat zou ik toch van mij af moeten zetten. Hardop denken, besluiten nemen en optimistisch zijn over de mogelijkheid om dingen echt te realiseren. Daar ook aan willen werken.

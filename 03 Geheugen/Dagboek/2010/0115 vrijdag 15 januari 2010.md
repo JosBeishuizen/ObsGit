@@ -1,0 +1,2 @@
+# 0115 vrijdag 15 januari 2010
+Het gaat alleen maar om vertrouwen, vertrouwen, vertrouwen. Vertrouwen in God, vertrouwen in je omgeving, vertrouwen in jezelf. En met name het laatste. Alleen vanuit dat vertrouwen in jezelf kun je vertrouwen in anderen stellen en ze opbeuren. 

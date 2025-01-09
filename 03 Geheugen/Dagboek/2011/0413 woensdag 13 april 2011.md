@@ -1,0 +1,2 @@
+# 0413 woensdag 13 april 2011
+Dat was een goede dag en avond. De Peruviaanse Veronica was erg charming. Vrijdag is ze weer terug in Lima. Dan brengt ze eerst haar kinderen naar school en daarna gaat ze naar het strand. En Felice Levine vond ik werkelijk een interessante Joodse vrouw. Eva Baker was lastiger te peilen. Fernand Gervais uit Quebec was erg aardig, evenals Liesel uit Zuid-Afrika. Gesprekken gingen ook over identiteit van WERA wat goed was.

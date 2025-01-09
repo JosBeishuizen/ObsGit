@@ -1,0 +1,2 @@
+# 0607 dinsdag 7 juni 2005
+Voorlopig wil ik de avonden alleen nog gebruiken voor opruimwerkzaamheden. Noodzakelijk om mijn kop een beetje leeg te maken. Misschien helpt dat tegen de slapeloosheid. De besteding van de avond is eigenlijk heel belangrijk voor de besteding van de nacht. Verder: wat wil ik, dat is belangrijk. Niet de externe maar de interne sturing, daar wil ik mezelf sterker in maken. Laten we proberen dit regime vol te houden tot de nachten weer fatsoenlijk verlopen.
