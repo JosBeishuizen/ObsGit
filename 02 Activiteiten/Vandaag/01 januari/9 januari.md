@@ -25,3 +25,6 @@ sort by priority
 19:04 Nu de afwas doen 
 ### 19:16 Nu afdrogen  
 ### 19:20 Nog een keer pushen 
+### 19:30 We gaan door op deze manier. Morgen de Surface erbij halen met de plugin. 
+### 19:35 Zo beter? 
+### 19:36 Zo dan? 

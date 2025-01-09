@@ -76,13 +76,13 @@ in
 }
 
 .mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h1,h2,h3,h4,h5,h6) {
-    line-height: 1em !important;
+    line-height: 1.2em !important;
     margin:2px 0px 2px 0px !important;
     padding: 1px 0px 2px 0px !important;
 }
 
 body {
-    --list-bullet-size: 0; /* default - 0.3em */
+  /*  --list-bullet-size: 0; /* default - 0.3em */ */
     --p-spacing: 0.5rem; /* default is 1em */
     --heading-spacing: calc(var(--p-spacing) * 2.5);
 }
