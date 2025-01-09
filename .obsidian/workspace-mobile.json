@@ -295,12 +295,22 @@
         "state": {
           "type": "file-tree-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plug-in niet meer actief"
+        }
+      },
+      {
+        "id": "4bbe9270ab1ade67",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
           "icon": "sheets-in-box",
           "title": "File Tree"
         }
       }
     ],
-    "currentTab": 21
+    "currentTab": 22
   },
   "right": {
     "id": "493d7a77a45900e3",
