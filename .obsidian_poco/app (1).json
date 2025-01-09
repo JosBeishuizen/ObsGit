@@ -1,0 +1,28 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "mobilePullAction": "quickadd:choice:5bc0095a-a7e5-4042-9e8d-4c3808de88ef",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "spellcheck": false,
+  "mobileToolbarCommands": [
+    "insert-current-time",
+    "insert-current-date",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "highlightr-plugin:Yellow",
+    "highlightr-plugin:unhighlight",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "showIndentGuide": false
+}

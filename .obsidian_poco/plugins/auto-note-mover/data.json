@@ -1,0 +1,213 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "03 Geheugen/Dagboek/2000",
+      "tag": "",
+      "pattern": "2000$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/06 juni",
+      "tag": "",
+      "pattern": "juni$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/07 juli",
+      "tag": "",
+      "pattern": "juli$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/08 augustus",
+      "tag": "",
+      "pattern": "augustus$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/09 september",
+      "tag": "",
+      "pattern": "september$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/10 oktober",
+      "tag": "",
+      "pattern": "oktober$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/11 november",
+      "tag": "",
+      "pattern": "november$"
+    },
+    {
+      "folder": "02 Activiteiten/Vandaag/12 december",
+      "tag": "",
+      "pattern": "december$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1990",
+      "tag": "",
+      "pattern": "1990$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1991",
+      "tag": "",
+      "pattern": "1991$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1992",
+      "tag": "",
+      "pattern": "1992$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1993",
+      "tag": "",
+      "pattern": "1993$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1994",
+      "tag": "",
+      "pattern": "1994$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1995",
+      "tag": "",
+      "pattern": "1995$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1996",
+      "tag": "",
+      "pattern": "1996$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1997",
+      "tag": "",
+      "pattern": "1997$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1998",
+      "tag": "",
+      "pattern": "1998$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/1999",
+      "tag": "",
+      "pattern": "1999$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2001",
+      "tag": "",
+      "pattern": "2001$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2002",
+      "tag": "",
+      "pattern": "2002$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2003",
+      "tag": "",
+      "pattern": "2003$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2004",
+      "tag": "",
+      "pattern": "2004$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2005",
+      "tag": "",
+      "pattern": "2005$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2006",
+      "tag": "",
+      "pattern": "2006$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2007",
+      "tag": "",
+      "pattern": "2007$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2008",
+      "tag": "",
+      "pattern": "2008$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2009",
+      "tag": "",
+      "pattern": "2009$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2010",
+      "tag": "",
+      "pattern": "2010$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2011",
+      "tag": "",
+      "pattern": "2011$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2012",
+      "tag": "",
+      "pattern": "2012$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2013",
+      "tag": "",
+      "pattern": "2013$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2014",
+      "tag": "",
+      "pattern": "2014$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2015",
+      "tag": "",
+      "pattern": "2015$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2016",
+      "tag": "",
+      "pattern": "2016$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2017",
+      "tag": "",
+      "pattern": "2017$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2018",
+      "tag": "",
+      "pattern": "2018$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2019",
+      "tag": "",
+      "pattern": "2019$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2020",
+      "tag": "",
+      "pattern": "2020$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2021",
+      "tag": "",
+      "pattern": "2021$"
+    },
+    {
+      "folder": "03 Geheugen/Dagboek/2022",
+      "tag": "",
+      "pattern": "2022$"
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "rowHeight": 48,
+  "rowCount": 1,
+  "spacing": 0,
+  "buttonWidth": 48,
+  "columnLayout": false,
+  "alwaysShowToolbar": true,
+  "mappedIcons": [
+    {
+      "commandID": "templater-obsidian:03 Geheugen/Digitaal en data/Templates/D.md",
+      "iconID": "clock"
+    }
+  ],
+  "debugging": false,
+  "allowStylingOfAllActions": true,
+  "tooltips": false
+}

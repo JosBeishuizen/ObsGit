@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1694403645911,
+      "path": "01 Algemeen/Planning/Taken/Alle taken.md",
+      "title": "Alle taken "
+    },
+    {
+      "type": "file",
+      "ctime": 1694404235328,
+      "path": "01 Algemeen/Planning/Taken/Inbox.md",
+      "title": "Inbox voor Taken "
+    },
+    {
+      "type": "file",
+      "ctime": 1694404302895,
+      "path": "01 Algemeen/Planning/Taken/Archief.md",
+      "title": "Archief voor Taken"
+    },
+    {
+      "type": "folder",
+      "ctime": 1694405510748,
+      "path": "01 Algemeen/Planning/Taken",
+      "title": "Folder Taken"
+    },
+    {
+      "type": "file",
+      "ctime": 1699943202432,
+      "path": "03 Geheugen/Teksten/Natalia Ginzburg over geloven in God.md",
+      "title": "Natalia Ginzburg over geloven in God"
+    },
+    {
+      "type": "file",
+      "ctime": 1699943302010,
+      "path": "03 Geheugen/Teksten/☀️ Jij bent de god die mij gegeven is.md",
+      "title": "jij bent de god die mij gegeven is"
+    },
+    {
+      "type": "file",
+      "ctime": 1702120933517,
+      "path": "01 Algemeen/QuickNotes /Alzheimerlijst.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1702120933517,
+      "path": "01 Algemeen/QuickNotes /Alzheimerlijst.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1716812768274,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1716812768275,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1716812768275,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1716812791205,
+                  "path": "01 Algemeen/Attachments/Pasted image 20230213044918.png",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1716812781510,
+                  "path": "01 Algemeen/Attachments/e02d2d67-d81b-410b-9e09-860db11e7a6d.jpg",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1716812776416,
+                  "path": "01 Algemeen/Attachments/13fe08b2-6554-4b3b-aad5-5f833bc40768.jpg",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1716812768275,
+                  "path": "01 Algemeen/Attachments/2c7c44d5-fd01-47fe-8652-2244581ad702.jpg",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Attachments"
+            }
+          ],
+          "title": "\\\\01 Algemeen"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

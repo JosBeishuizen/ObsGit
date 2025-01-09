@@ -1,0 +1,89 @@
+﻿/* headlines :: SOURCE + LIVE */
+
+dummy { 
+/* without this dummy class, it doesn't work */
+/* for whatever reason? - there must be a class in front */
+}
+
+.cm-header {
+  font-weight: normal !important;
+} 
+in
+.cm-s-obsidian pre.HyperMD-header-1, .markdown-preview-view h1 { 
+  margin-top: 0.0em !important; 
+  margin-bottom: 0.0em !important; 
+  font-size: 18px !important;
+  font-weight: normal !important; color: #8be9fd  !important;
+} 
+
+/* << ------------------ Reading View ------------------ >> */
+	.markdown-preview-view h1 {
+		margin-top: 0.0em !important; color: #8be9fd !important;
+	}
+
+	.markdown-preview-view h4 {
+		margin-top: 0.0em !important; 
+    line-height: 1.2em !important;
+    font-size: 16px !important;
+    margin:2px 0px 2px 0px !important;
+    padding: 1px 0px 2px 0px !important;
+	}
+
+/* << ------------ Source View / Live Preview ------------ >> */
+	.cm-s-obsidian .cm-header.cm-header-1 {
+		margin-top: 0.0em !important; color: #8be9fd !important;
+}
+
+	.cm-s-obsidian .cm-header.cm-header-4 {
+		margin-top: 0.0em !important;
+    line-height: 1.2em !important;
+    font-size: 16px !important;
+    margin:2px 0px 2px 0px !important;
+    padding: 1px 0px 2px 0px !important;
+}
+
+.kop1 {
+  font-size: large;
+  color: yellow;
+}
+
+.kop2 {
+  font-size: medium;
+  color: #8be9fd;
+}
+
+.kop3 {
+  font-size: medium;
+  color: orange;
+}
+
+.kop4 {
+  font-size: small;
+  color: yellow 
+}
+
+.alinea {
+  font-size: small;
+  color: white;
+}
+
+.inline-title{
+    font: 'Ubuntu', serif !important;
+    font-weight: 200;
+    font-size:24px;
+    color: #be9fd;
+   /*padding-top: 8px;*/
+}
+
+.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h1,h2,h3,h4,h5,h6) {
+    line-height: 1em !important;
+    margin:2px 0px 2px 0px !important;
+    padding: 1px 0px 2px 0px !important;
+}
+
+body {
+    --list-bullet-size: 0; /* default - 0.3em */
+    --p-spacing: 0.5rem; /* default is 1em */
+    --heading-spacing: calc(var(--p-spacing) * 2.5);
+}
+

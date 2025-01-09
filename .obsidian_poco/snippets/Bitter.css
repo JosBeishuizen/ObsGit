@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap");
+
+:root {
+--default-font: 'Bitter', serif !Important;
+}

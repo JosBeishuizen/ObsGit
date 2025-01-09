@@ -1,0 +1,135 @@
+{
+  "choices": [
+    {
+      "id": "6f8ab300-dee3-49c1-965f-f346da1716dd",
+      "name": "Actie",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "02 Activiteiten/Vandaag/{{DATE:MM MMMM}}/{{DATE:D MMMM}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "03 Geheugen/Digitaal/Templates/Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "<% tp.date.now(\"### HH:mm\") %> {{value}}  "
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d9e94f96-9748-4f20-9c87-6beb17b58bba",
+      "name": "QuickNote ",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "01 Algemeen/QuickNotes/Notities.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2a0b6a4c-47b6-4312-8615-9fa9b2a41ca9",
+      "name": "Dagboek ",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "03 Geheugen/Dagboek/{{DATE:YYYY}}/{{DATE:MMDD dddd D MMMM YYYY}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7a4284c6-a421-4c02-856a-349746eefb6d",
+      "name": "NieuweNotitie",
+      "type": "Template",
+      "command": true,
+      "templatePath": "03 Geheugen/Digitaal/Templates/Fill Task Note.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

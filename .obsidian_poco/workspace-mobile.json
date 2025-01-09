@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "d7f9ea5b7197c333",
+    "type": "split",
+    "children": [
+      {
+        "id": "5113a16bca1b8734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87783a239f96f59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Geheugen/Digitaal/Data/Toon & Sara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toon & Sara"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "698d2da66ab49da8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0935560cb1d11a1b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Verkenner"
+        }
+      },
+      {
+        "id": "6820dcf65b681941",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Zoeken"
+        }
+      },
+      {
+        "id": "c076508b9ca608df",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Labels"
+        }
+      },
+      {
+        "id": "2bd2a6527b990300",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bladwijzers"
+        }
+      },
+      {
+        "id": "6d25c6c451786d98",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "44063d4db84c59d7",
+        "type": "leaf",
+        "state": {
+          "type": "trash-explorer",
+          "state": {},
+          "icon": "trash",
+          "title": "Trash explorer"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "3459067d405e07ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c9a6f9402ab0a93",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/12 december/4 december.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Terugverwijzing"
+        }
+      },
+      {
+        "id": "212146387fd2ef93",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Uitgaande verwijzingen"
+        }
+      },
+      {
+        "id": "dd622a1a5ec63c39",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Overzicht"
+        }
+      },
+      {
+        "id": "f349257ebcfb5b15",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open Markdown-importeur": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "switcher:Open snel wisselen": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "cmdr:TimeStamper: Insert preconfigured date stamp": false,
+      "cmdr:Natural Language Dates: Insert the current time": false,
+      "cmdr:Natural Language Dates: Insert the current date": false,
+      "cmdr:Tasks: Create or edit task": false
+    }
+  },
+  "active": "87783a239f96f59f",
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/8 januari.md",
+    "01 Algemeen/Planning/Verjaardagen.md",
+    "02 Activiteiten/Vandaag/01 januari/7 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/6 januari.md",
+    "03 Geheugen/Citaten /☀️ Bij U, ik ben altijd bij U.md",
+    "03 Geheugen/Dagboek/1985/0518 zaterdag 18 mei 1985.md",
+    "03 Geheugen/Dagboek/1985/0505 zondag 5 mei 1985.md",
+    "01 Algemeen/Attachments/Afbeeldingen/JPEG_20220616_151503_7247376150163545128.jpg",
+    "03 Geheugen/Dagboek/1985/0203 zondag 3 februari 1985.md",
+    "02 Activiteiten/Vandaag/01 januari/4 januari.md",
+    "03 Geheugen/Poëzie/Newman Randy - God's Song.md",
+    "03 Geheugen/Dagboek/1987/0728 dinsdag 28 juli 1987.md",
+    "02 Activiteiten/Vandaag/01 januari/5 januari.md",
+    "03 Geheugen/Dagboek/1985/0510 vrijdag 10 mei 1985.md",
+    "03 Geheugen/Dagboek/1985/0509 donderdag 9 mei 1985.md",
+    "03 Geheugen/Dagboek/1985/0127 zondag 27 januari 1985.md",
+    "03 Geheugen/Dagboek/1985/0120 zondag 20 januari 1985.md",
+    "02 Activiteiten/Vandaag/01 januari/3 januari.md",
+    "03 Geheugen/Dagboek/1985/0102 woensdag 2 januari 1985.md",
+    "03 Geheugen/Dagboek/1984/0529 dinsdag 29 mei 1984.md",
+    "03 Geheugen/Dagboek/1963/0717 woensdag 17 juli 1963.md",
+    "03 Geheugen/Dagboek/1962/0726 zondag 26 juli 1962.md",
+    "03 Geheugen/Dagboek/1959/0525 maandag 25 mei 1959.md",
+    "03 Geheugen/Aantekeningen/Git.md",
+    "03 Geheugen/Teksten/☀️ Nieuwe dag - Huub Oosterhuis.md",
+    "02 Activiteiten/Vandaag/01 januari/2 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/1 januari.md",
+    "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
+    "02 Activiteiten/Studie/Levinas/Theo de Boer - Tussen filosofie en profetie",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-13-08-42-44-231_be.persgroep.android.news.mobiletr-edit.jpg",
+    "02 Activiteiten/Sociaal",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-13-15-06-878_com.microsoft.office.onenote-edit.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-13-13-45-305_com.microsoft.office.onenote-edit.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Pasted image 20241212131255.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-13-10-59-632_com.microsoft.office.onenote-edit.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/h125523.pdf",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-13-06-07-194_com.microsoft.office.onenote-edit.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/image.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-08-30-06-089_cn.wps.xiaomi.abroad.lite-edit.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_2024-12-12-08-27-49-836_cn.wps.xiaomi.abroad.lite-edit.jpg",
+    "01 Algemeen/Attachments "
+  ]
+}

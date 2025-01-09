@@ -1,0 +1,32 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@400&display=swap");
+
+
+.view-header-title 
+{
+  font-size: 1.0em; text-align: left;
+  font-family: 'Bitter', serif !important;
+}
+
+
+:root { --default-font: 'Bitter', serif !important; font-family: 'Bitter', serif !important; }
+
+.cm-hmd-internal-link .cm-underline, .internal-link {
+text-decoration: initial !important
+}
+
+/* << EDITING link color INTERNAL >>  */
+.cm-s-obsidian span.cm-hmd-internal-link {
+  font-weight: 200;
+  color: #8be9fd  !important;
+}
+
+/* << READING link color INTERNAL >>  */
+.markdown-preview-view .internal-link {
+  font-weight: 200;
+  color: #8be9fd !important;
+}
+
+.centerImg img {
+  display: block;
+  margin: 0px auto;
+}

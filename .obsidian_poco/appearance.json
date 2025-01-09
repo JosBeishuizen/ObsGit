@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Headers",
+    "Bitter"
+  ],
+  "baseFontSize": 16,
+  "accentColor": "#388a96",
+  "interfaceFontFamily": "Bitter",
+  "textFontFamily": "Palatino Linotype,Bitter",
+  "theme": "obsidian",
+  "translucency": true,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Bitter"
+}

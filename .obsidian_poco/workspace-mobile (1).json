@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "664b247cabea3ec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "856ab277b1071404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1636df1684f22b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Studie/Van Riessen - Van zichzelf bevrijd/1 Zich ontdoen van zichzelf. De creativiteit van de kenosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1c6f78e1415ccd4a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/12 december/23 december.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "01821e086d6fc463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/02 februari/7 februari.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3da64479e9dc02d9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "11eaf44196ae19c8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": true,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ed6a320550ac2d4e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "60d9c6c16d1d2e7d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "2ab171dd81acb1f5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "04336c957fa2846e",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "e1ad0e671f50345d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "702e1e877dca3206",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/02 februari/7 februari.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "#bureau",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d3d2e73288589539",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/02 februari/7 februari.md"
+          }
+        }
+      },
+      {
+        "id": "6bcacecec01fb819",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e82365ec077eabe8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/02 februari/7 februari.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "01821e086d6fc463",
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/02 februari/6 februari.md",
+    "02 Activiteiten/Vandaag/02 februari/7 februari.md",
+    "03 Geheugen/Dagboek/2023/0205 zondag 5 februari 2023.md",
+    "03 Geheugen/Dagboek/2023/0206 maandag 6 februari 2023.md",
+    "02 Activiteiten/Vandaag/02 februari/5 februari.md",
+    "02 Activiteiten/Vandaag/02 februari/4 februari.md",
+    "03 Geheugen/Dagboek/2018/0904 dinsdag 4 september 2018.md",
+    "03 Geheugen/Dagboek/2018/0901 zaterdag 1 september 2018.md",
+    "02 Activiteiten/Vandaag/02 februari/3 februari.md",
+    "03 Geheugen/Dagboek/2018/0831 vrijdag 31 augustus 2018.md"
+  ]
+}
