@@ -1,10 +1,13 @@
-# dinsdag 9 januari 2024
+# donderdag 9 januari 2025
 
-⛅ stralende zon, vorst, 0°<br>[[8 januari]][[03 Geheugen/Dagboek/2024/0109 dinsdag 9 januari 2024|📓 ]][[10 januari]]
+⛅ , °<br>[[8 januari]][[03 Geheugen/Dagboek/2025/0109 donderdag 9 januari 2025| 📓 ]][[10 januari]]
+[[☀️ 2. Rolmodellen - Stoa]]
 ```tasks
-(path includes Taken) OR (path includes Vandaag) OR (path includes Verjaardagen) OR (path includes Agenda)
-(due on or before 2024-01-09) AND NOT (done before 2024-01-09)
+(path includes Algemeen)
+((due on 2025-01-09) OR ((due before 2025-01-09) AND NOT (is recurring))) AND NOT (done before 2025-01-09) AND NOT (created 2025-01-09)
+# not done
 hide due date
+hide start date
 hide recurrence rule
 hide tags
 hide backlink
@@ -12,5 +15,6 @@ hide done date
 hide task count
 hide created date
 hide edit button
+hide postpone button 
+sort by priority 
 ```
-<p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f3>19:21  </font>    </p>   
