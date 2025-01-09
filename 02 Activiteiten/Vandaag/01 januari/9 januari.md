@@ -29,3 +29,4 @@ sort by priority
 ### 19:35 Zo beter? 
 ### 19:36 Zo dan? 
 ### 19:42 Is hier het probleem opgelost?  
+### 22:37 Ik denk van wel 
