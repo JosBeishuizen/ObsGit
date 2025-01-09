@@ -18,5 +18,5 @@ hide edit button
 hide postpone button 
 sort by priority 
 ```
-- 10:46 Nou, dit lijkt heel goed te gaan! 
-- 13:16 Nog een poging 
+
+- 14:10 Gaat toch niet helemaal goed 
