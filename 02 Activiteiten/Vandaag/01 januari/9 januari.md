@@ -28,3 +28,4 @@ sort by priority
 ### 19:30 We gaan door op deze manier. Morgen de Surface erbij halen met de plugin. 
 ### 19:35 Zo beter? 
 ### 19:36 Zo dan? 
+### 19:42 Is hier het probleem opgelost?  
