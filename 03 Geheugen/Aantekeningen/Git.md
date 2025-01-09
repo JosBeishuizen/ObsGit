@@ -164,4 +164,3 @@ Optionally, to copy the new token to your clipboard, click .
 Screenshot of the "Personal access tokens" page. Next to a blurred-out token, an icon of two overlapping squares is outlined in orange.
 To use your token to access resources owned by an organization that uses SAML single sign-on, authorize the token. For more information, see Authorizing a personal access token for use with SAML single sign-on in the GitHub Enterprise Cloud documentation.
 
-Nieuw token:  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
