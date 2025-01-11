@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "11 januari"
             }
+          },
+          {
+            "id": "465c57aa4035b25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 januari"
+            }
+          },
+          {
+            "id": "0e4409ef9096daff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 januari"
+            }
+          },
+          {
+            "id": "f11e1ba75f09cc58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "6c7cf6551e7531ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conflicts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conflicts"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,9 +272,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b12331fff058f7d",
+  "active": "0e4409ef9096daff",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+    "03 Geheugen/Citaten /☀️ There is nobody more dangerous than one who has been humiliated - Nelson Mandela.md",
+    "Conflicts.md",
+    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736517361286.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161335_1736517361597.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161325_1736517361425.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161312_1736517361467.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161257_1736517361763.png",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20240215_114708_1736517361771.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20231224_170548_1736517361887.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230930_170310_1736517361387.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230928_101620_1736517362059.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230926_182525_1736517362191.jpg",
     "02 Activiteiten/Vandaag/01 January/11 January.md",
     "02 Activiteiten/Vandaag/01 January"
   ]
