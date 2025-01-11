@@ -19,3 +19,4 @@ hide postpone button
 sort by priority 
 ```
 ### 18:53 Vannacht is onze Gerrie rustig in haar alaap overleden   
+### 22:24 Vanavond met elkaar Gerrie herdacht  
