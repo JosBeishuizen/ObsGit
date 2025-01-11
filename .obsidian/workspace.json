@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a7ecf21a15a11d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc429bc00506aead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b12331fff058f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 January/11 January.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 January"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbf916c0adc3a504",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a41dc7eef177c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0870df9252cf3f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3f29d9566d1bcaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac2b15956832a15d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "93a8df6e50c3bd5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce619c9fbb54d0bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96cd5e146df418f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e920b0e4c7ee2ff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 January/11 January.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11 January"
+            }
+          },
+          {
+            "id": "8c546bbb935cdf0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 January/11 January.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11 January"
+            }
+          },
+          {
+            "id": "d74d5bdb3330bf81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbc89f3a161eb170",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60c38e0869c890c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 January/11 January.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11 January"
+            }
+          },
+          {
+            "id": "0e6cbd6494f2b919",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Tasks: Create or edit task": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1b12331fff058f7d",
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+    "02 Activiteiten/Vandaag/01 January/11 January.md",
+    "02 Activiteiten/Vandaag/01 January"
+  ]
+}

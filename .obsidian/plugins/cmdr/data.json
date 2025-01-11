@@ -160,7 +160,14 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open settings",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [
     {
       "id": "daily-notes",
