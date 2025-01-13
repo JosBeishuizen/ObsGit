@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+                "file": "02 Activiteiten/Vandaag/01 januari/13 januari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 januari"
+              "title": "13 januari"
             }
           }
         ]
@@ -175,27 +175,28 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "5fe3d2f3c1fac768",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "cmdr:QuickAdd: Actieregel": false,
-      "cmdr:QuickAdd: QuickNote": false,
-      "cmdr:QuickAdd: Dagboek": false,
-      "cmdr:Archiver: Archive tasks in this file": false,
-      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
-      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
-      "cmdr:Tasks: Create or edit task": false,
-      "cmdr:Templater: Open Insert Template modal": false,
-      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
       "completed-task-display:Task Hider": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
@@ -207,13 +208,25 @@
       "canvas:Nieuw doek aanmaken": false,
       "daily-notes:Open de notitie van vandaag": false,
       "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false
+      "command-palette:Open opdrachtenpaneel": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Tasks: Create or edit task": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "cmdr:Open instellingen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ad142502449017d3",
   "lastOpenFiles": [
-    "02 Activiteiten/Vandaag/01 januari/12 januari.md",
     "02 Activiteiten/Vandaag/01 januari/13 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/12 januari.md",
     "Conflicts.md",
     "conflict-files-obsidian-git.md",
     "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/18 Hark! The herald angels sing.mp3",
@@ -247,7 +260,6 @@
     "03 Geheugen/Digitaal/Digitaal/Unicode tekens.md",
     "03 Geheugen/Digitaal/Digitaal/Opstartschijf creëren vanuit de terminal.md",
     "03 Geheugen/Digitaal/Digitaal/Desktop integratie AppImage.md",
-    "03 Geheugen/Digitaal/Digitaal/Datum en tijd in autokey.md",
     "03 Geheugen/Dagboek/2022/0818 donderdag 18 augustus 2022.png",
     "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
     "01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",

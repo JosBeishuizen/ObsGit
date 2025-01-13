@@ -22,3 +22,4 @@ sort by priority
 15:14 git push --set-upstream origin main
 16:33 dit lijkt te werken.
 16:56 ook op de tablet alles in orde
+### 19:08 Het lijkt net of hij het doet 
