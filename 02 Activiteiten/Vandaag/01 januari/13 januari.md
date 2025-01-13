@@ -20,3 +20,4 @@ sort by priority
 ```
 15:10 even een testje
 15:14 git push --set-upstream origin main
+16:33 dit lijkt te werken.
