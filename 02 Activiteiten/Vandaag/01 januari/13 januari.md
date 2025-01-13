@@ -30,3 +30,4 @@ sort by priority
 <p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>20:53</font>  Nou, dat was een gezoek. Ik ha nu thee zetten en lezen met mooie muziek</p>
 <p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>20:55</font>  Nu thee zetten </p>
 21:41 Nu dan echt lezen! 
+<p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>21:54</font>  Ben nu echt aan het lezen</p>
