@@ -160,9 +160,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "d31929383495b68e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +198,8 @@
       "cmdr:TimeStamper: Insert preconfigured date stamp": false,
       "cmdr:Natural Language Dates: Insert the current time": false,
       "cmdr:Natural Language Dates: Insert the current date": false,
-      "cmdr:Tasks: Create or edit task": false
+      "cmdr:Tasks: Create or edit task": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "87783a239f96f59f",

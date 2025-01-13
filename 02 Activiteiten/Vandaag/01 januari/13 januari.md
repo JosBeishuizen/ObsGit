@@ -25,3 +25,4 @@ sort by priority
 ### 19:08 Het lijkt net of hij het doet 
 ### 19:14 Dit is echt heel tof! 
 ### 19:29 Zou het ook werken op de tablet? 
+<p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>19:38</font>  Zeg het maar...</p>
