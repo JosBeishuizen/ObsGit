@@ -156,11 +156,24 @@
       "icon": "watch",
       "name": "TimeStamper: Insert preconfigured time stamp",
       "mode": "any"
+    },
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open instellingen",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open instellingen",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [
     {
       "id": "daily-notes",
