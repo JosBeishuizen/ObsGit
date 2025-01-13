@@ -370,16 +370,6 @@
           "icon": "lucide-file",
           "title": "Plug-in niet meer actief"
         }
-      },
-      {
-        "id": "5eb6be60b956eed4",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
     "currentTab": 5
@@ -387,7 +377,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "cmdr:Open instellingen": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open snel wisselen": false,
       "graph:Open grafiek weergave": false,
       "canvas:Nieuw doek aanmaken": false,
