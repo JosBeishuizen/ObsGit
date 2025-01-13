@@ -19,3 +19,4 @@ hide postpone button
 sort by priority 
 ```
 15:10 even een testje
+15:14 git push --set-upstream origin main
