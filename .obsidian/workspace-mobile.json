@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Activiteiten/Vandaag/01 januari/9 januari.md",
+                "file": "02 Activiteiten/Vandaag/01 januari/13 januari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 januari"
+              "title": "13 januari"
             }
           }
         ],
@@ -370,12 +370,24 @@
           "icon": "lucide-file",
           "title": "Plug-in niet meer actief"
         }
+      },
+      {
+        "id": "5eb6be60b956eed4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Open instellingen": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open snel wisselen": false,
       "graph:Open grafiek weergave": false,
       "canvas:Nieuw doek aanmaken": false,
@@ -402,6 +414,7 @@
   },
   "active": "0532dad3c5282889",
   "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/9 januari.md",
     "02 Activiteiten/Vandaag/01 januari/13 januari.md",
     "conflict-files-obsidian-git.md",
     "Conflicts.md",
@@ -409,7 +422,6 @@
     "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161335_1736517361597.png",
     "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161325_1736517361425.png",
     "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161312_1736517361467.png",
-    "02 Activiteiten/Vandaag/01 januari/9 januari.md",
     "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161257_1736517361763.png",
     "01 Algemeen/Attachments/Afbeeldingen/IMG_20240215_114708_1736517361771.jpg",
     "01 Algemeen/Attachments/Afbeeldingen/IMG_20231224_170548_1736517361887.jpg",

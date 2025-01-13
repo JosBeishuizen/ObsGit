@@ -24,3 +24,4 @@ sort by priority
 16:56 ook op de tablet alles in orde
 ### 19:08 Het lijkt net of hij het doet 
 ### 19:14 Dit is echt heel tof! 
+### 19:29 Zou het ook werken op de tablet? 
