@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "<p style=\"padding-left: 2.7em; text-indent: -2.7em; margin: 0;\"><% tp.date.now(\"<font co\\\\lor=#8b\\\\e9fd>HH:mm</font> \") %> {{value}}</p>"
+        "format": "### <% tp.date.now(\"HH:mm \") %> {{value}}"
       },
       "insertAfter": {
         "enabled": false,
