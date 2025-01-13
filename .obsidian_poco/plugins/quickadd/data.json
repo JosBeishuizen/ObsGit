@@ -36,7 +36,7 @@
     }
   ],
   "macros": [],
-  "inputPrompt": "multi-line",
+  "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "03 Geheugen/Digitaal/Templates",
   "announceUpdates": true,

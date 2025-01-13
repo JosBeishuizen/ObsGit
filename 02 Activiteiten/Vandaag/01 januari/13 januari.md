@@ -28,3 +28,4 @@ sort by priority
 <p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>19:38</font>  Zeg het maar...</p>
 <p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>20:04</font>  Even een testje om te kijken of er eens in de 15 min een sync plaatsvindt. Het is nu 20:04</p>
 <p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>20:53</font>  Nou, dat was een gezoek. Ik ha nu thee zetten en lezen met mooie muziek</p>
+<p style="padding-left: 2.7em; text-indent: -2.7em; margin: 0;"><font color=#8be9f1>20:55</font>  Nu thee zetten </p>
