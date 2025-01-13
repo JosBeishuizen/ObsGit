@@ -18,5 +18,4 @@ hide edit button
 hide postpone button 
 sort by priority 
 ```
-
 14:43 Dat was God en wij
