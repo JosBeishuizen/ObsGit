@@ -25,5 +25,6 @@
   "minimal-style@@window-title-off": true,
   "minimal-style@@code-size": "1em",
   "minimal-style@@ax1@@light": "#8BE9F2",
-  "minimal-style@@ax1@@dark": "#8BE9F2"
+  "minimal-style@@ax1@@dark": "#8BE9F2",
+  "minimal-style@@h3-color@@light": "#C79112"
 }
