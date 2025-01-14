@@ -1,10 +1,13 @@
-# zondag 14 januari 2024
+# dinsdag 14 januari 2025
 
-⛅ , °<br>[[13 januari]][[03 Geheugen/Dagboek/2024/0114 zondag 14 januari 2024|📓 ]][[15 januari]]
+⛅ vanmiddag zonnetje, 1-6°<br>[[13 januari]][[03 Geheugen/Dagboek/2025/0114 dinsdag 14 januari 2025| 📓 ]][[15 januari]]
+[[☀️ Angst beteugelen - Albert Camus]]
 ```tasks
-(path includes Taken) OR (path includes Vandaag) OR (path includes Verjaardagen) OR (path includes Agenda)
-(due on or before 2024-01-14) AND NOT (done before 2024-01-14)
+(path includes Algemeen)
+((due on 2025-01-14) OR ((due before 2025-01-14) AND NOT (is recurring))) AND NOT (done before 2025-01-14) AND NOT (created 2025-01-14)
+# not done
 hide due date
+hide start date
 hide recurrence rule
 hide tags
 hide backlink
@@ -12,10 +15,7 @@ hide done date
 hide task count
 hide created date
 hide edit button
+hide postpone button 
+sort by priority 
 ```
-09:57 zo dadelijk naar de kerk 
-10:10 Nu naar de kerk
-18:18 dat waren Mercia en Franca. Ging heel goed. Nu Podium Klassiek.
-19:01 nu even afwassen. wat deed ajax? Met 3-2 uit gewonnen van Go Ahead.
-20:30 Nu nog even 10 blz Camino. Ook nog even plan L&I.
-23:06 nog even lezen. ging uiteindelijk heel goed vandaag met Metcia en Franca. Gesprek in de kerk met Erna Gianotten was erg leuk.
+### 07:20  Nu roeien 
