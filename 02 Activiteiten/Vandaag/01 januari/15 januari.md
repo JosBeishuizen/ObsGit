@@ -20,3 +20,4 @@ sort by priority
 ```
 ### 10:15 Dit lijkt nu in  orde op de Surface 
 ### 10:21  Hoera alles klopt
+### 10:41  Nu even niet meer prutsen, aankleden 
