@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "D MMMM",
+    "template": "Geheugen/Digitaal en data/Templates/Daily template.md",
+    "folder": "Activiteiten/Vandaag/07 juli",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "",
+    "template": "",
+    "folder": "Activiteiten/Vandaag",
+    "enabled": false
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "main": {
+    "id": "55658ec21a05fe9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "327b1971299ce938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa9a3233bb6cc59b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Studie/Levinas/Van Riessen - Van zichzelf bevrijd/6 De onteigende getuige. Over mystiek, taak en getuigenis.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "6 De onteigende getuige. Over mystiek, taak en getuigenis"
+            }
+          },
+          {
+            "id": "8bcf13120d0553e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Advies/Reviews/D-24-00510.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "D-24-00510"
+            }
+          },
+          {
+            "id": "0532dad3c5282889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 januari/13 januari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 januari"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f4e512883d92bc4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "743e8ca7ed76e5c1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Verkenner"
+        }
+      },
+      {
+        "id": "8da2bb6e234ec147",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Sinterklaas",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byCreatedTime"
+          },
+          "icon": "lucide-search",
+          "title": "Zoeken"
+        }
+      },
+      {
+        "id": "4700ec23ce7beb46",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Labels"
+        }
+      },
+      {
+        "id": "76edd850a34130fe",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bladwijzers"
+        }
+      },
+      {
+        "id": "938b5d2a668544f3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Alle eigenschappen"
+        }
+      },
+      {
+        "id": "56e726986e8bb231",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plug-in niet meer actief"
+        }
+      },
+      {
+        "id": "11851e9a18fdf360",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "79831ac22c2d850b",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "a5683c71ab2c6342",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "39eeecfa69b34613",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "e29006658199d43b",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "0ef75d1eb016b86d",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "f0af23112ac90e39",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "426ae7c2aa47d220",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "c8f65f28bb4dd50e",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "0070638422e8ec21",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "d837c2a89086ca74",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "8f1eab5f39b9b4f1",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "8f6db705bae98750",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "381acd7ec9d5eb7b",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "b774021d880536c5",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      },
+      {
+        "id": "1f25d2d08c44bece",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
+      }
+    ],
+    "currentTab": 21
+  },
+  "right": {
+    "id": "493d7a77a45900e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "39c43da133f25b34",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/10 oktober/20 oktober.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Terugverwijzing"
+        }
+      },
+      {
+        "id": "8535b66f04818b77",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/10 oktober/20 oktober.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Uitgaande verwijzingen"
+        }
+      },
+      {
+        "id": "df548d3bf4d28b04",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 Activiteiten/Vandaag/11 november/10 november.md"
+          },
+          "icon": "lucide-list",
+          "title": "Overzicht"
+        }
+      },
+      {
+        "id": "5739d60b88cd9ac3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plug-in niet meer actief"
+        }
+      },
+      {
+        "id": "3d3ea4619a6fadbf",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plug-in niet meer actief"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:Open instellingen": false,
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "0532dad3c5282889",
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/9 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/13 januari.md",
+    "conflict-files-obsidian-git.md",
+    "Conflicts.md",
+    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736517361286.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161335_1736517361597.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161325_1736517361425.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161312_1736517361467.png",
+    "01 Algemeen/Attachments/Afbeeldingen/Screenshot_20230509-161257_1736517361763.png",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20240215_114708_1736517361771.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20231224_170548_1736517361887.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230930_170310_1736517361387.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230928_101620_1736517362059.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/IMG_20230926_182525_1736517362191.jpg",
+    "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate.md",
+    "02 Activiteiten/Vandaag/01 januari/8 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/7 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/6 januari.md",
+    "03 Geheugen/Digitaal/Templates/Daily met taken.md",
+    "03 Geheugen/Digitaal/Templates/Daily.md",
+    "02 Activiteiten/Vandaag/12 december/3 december.md",
+    "02 Activiteiten/Vandaag/12 december/2 december.md",
+    "01 Algemeen/Planning/Taken/Inbox.md",
+    "3 december.md",
+    "02 Activiteiten/Vandaag/12 december/1 december.md",
+    "02 Activiteiten/Vandaag/11 november/30 november.md",
+    "03 Geheugen/Citaten /☀️ Het quadrifarmacon - Epicurus.md",
+    "03 Geheugen/Citaten /☀️ Let your thoughts be positive - Gandhi.md",
+    "02 Activiteiten/Studie/Ignatieff - On Consolation/1. The Voice in the Whirlwind.md",
+    "02 Activiteiten/Vandaag/11 november/29 november.md",
+    "03 Geheugen/Dagboek/2021/1205 Sinterklaas 2021.md",
+    "03 Geheugen/Recepten/Frittata met courgette en ciabatta.md",
+    "03 Geheugen/Recepten/Bietensoep met appel en balsamicoazijn.md",
+    "03 Geheugen/Recepten/Bloemkool met mosterd en kaas.md",
+    "03 Geheugen/Recepten/Aardperentaart met peren.md",
+    "03 Geheugen/Bijbel/Psalmen/Psalm 73.md",
+    "02 Activiteiten/Sportief",
+    "Search results - Evernote.pdf",
+    "Search results - Evernote.html",
+    "01 Algemeen/Attachments/Afbeeldingen/Plattegrond Egmond huisje 122.pdf",
+    "02 Activiteiten/Studie/Miskotte K.H.- Antwoord uit het onweer",
+    "01 Algemeen/Planning/Kanban/Kaarten",
+    "01 Algemeen/Planning/Kanban/Lijsten",
+    "02 O come, all faithful.mp3",
+    "01 Algemeen/Planning/Kanban",
+    "Beeldfragment",
+    "01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",
+    "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
+    "01 Algemeen/Werkbladen/Learning & Instruction/Learning & Instruction.canvas"
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "1db2525d27984461",
+    "type": "split",
+    "children": [
+      {
+        "id": "750afc9e6abefe24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad142502449017d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Activiteiten/Vandaag/01 januari/15 januari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 januari"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "685f531e6f6ca69d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0d218e860603862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7bdd2396ce542c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "817f63c08a2a5720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "d57efc487c33ab52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          },
+          {
+            "id": "8c5180d3f03d46bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f21e0d3067ee330b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a742c3f4533013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8652f6413007fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "a0572dc80c062104",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "ac768a9d0ef1e2c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "4f2fad47d71ea7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          },
+          {
+            "id": "b67ca56efc90486c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "25769fc8f5ac4ebd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5fe3d2f3c1fac768",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Tasks: Create or edit task": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "cmdr:Open instellingen": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad142502449017d3",
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/14 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/15 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/13 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/11 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/12 januari.md",
+    "Conflicts.md",
+    "conflict-files-obsidian-git.md",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/18 Hark! The herald angels sing.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/17 He is born the divine Christchild.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/16 Shepherd's pipe carol.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/15 Up! Good Christen folk, and listen.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/14 Unto us is born a Son.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/13 O men from the fields.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/10 Personent hodie.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/09 Away in a manger.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/07 In the bleak midwinter.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/05 The infant King.mp3",
+    "03 Geheugen/Muziek/Luisteren/Kerst/Kerstmuziek.md",
+    "03 Geheugen/Muziek/Luisteren/Kerst/02 O come, all faithful.mp3.md",
+    "03 Geheugen/Gezondheid /Zitten/staan & staan/Zitten na staan en staan na zitten.md",
+    "03 Geheugen/Digitaal/Templates/ax3.md",
+    "03 Geheugen/Digitaal/Templates/ax2.md",
+    "03 Geheugen/Digitaal/Templates/Random Quote.md",
+    "03 Geheugen/Digitaal/Templates/Oude dagtemplate.md",
+    "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate.md",
+    "03 Geheugen/Digitaal/Templates/Fill Task Note.md",
+    "03 Geheugen/Digitaal/Templates/Daily.md",
+    "03 Geheugen/Digitaal/Templates/Daily met taken.md",
+    "03 Geheugen/Digitaal/Templates/Dagboek.md",
+    "03 Geheugen/Digitaal/Templates/Create Task Note.md",
+    "03 Geheugen/Digitaal/Templates/Basic Note.md",
+    "03 Geheugen/Digitaal/Digitaal/root password resetten.md",
+    "03 Geheugen/Digitaal/Digitaal/google-drive.service.md",
+    "03 Geheugen/Digitaal/Digitaal/e-mail VU.md",
+    "03 Geheugen/Digitaal/Digitaal/Videoclip opnemen.md",
+    "03 Geheugen/Digitaal/Digitaal/Unicode tekens.md",
+    "03 Geheugen/Dagboek/2022/0818 donderdag 18 augustus 2022.png",
+    "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
+    "01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",
+    "01 Algemeen/Werkbladen/Learning & Instruction/Learning & Instruction.canvas",
+    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736517361286.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736419386586.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/portret-papieza-innocentego-x-diego-velazquez-galleria-doria-pamphilj-zdj-wikipedia-Rome-5b7eb52904cd6.jpeg",
+    "01 Algemeen/Attachments/Afbeeldingen/image002.png",
+    "01 Algemeen/Attachments/Afbeeldingen/image002 1.png",
+    "01 Algemeen/Attachments/Afbeeldingen/image.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/image-7dd6243e-7c07-4b62-904e-fdf502d138404643845999944171393.jpg",
+    "01 Algemeen/Attachments/Afbeeldingen/ebook_reader.png",
+    "01 Algemeen/Attachments/Afbeeldingen/a1_sd_bench.png",
+    "ObsGit/01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
+    "ObsGit/01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",
+    "ObsGit/01 Algemeen/Werkbladen/Learning & Instruction/Learning & Instruction.canvas"
+  ]
+}
