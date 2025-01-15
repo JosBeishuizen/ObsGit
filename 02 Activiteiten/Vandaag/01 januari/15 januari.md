@@ -19,3 +19,4 @@ hide postpone button
 sort by priority 
 ```
 ### 10:15 Dit lijkt nu in  orde op de Surface 
+### 10:21  Hoera alles klopt
