@@ -298,9 +298,19 @@
           "icon": "lucide-file",
           "title": "Plug-in niet meer actief"
         }
+      },
+      {
+        "id": "98d2005af8a878d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
+        }
       }
     ],
-    "currentTab": 6
+    "currentTab": 22
   },
   "right": {
     "id": "493d7a77a45900e3",
@@ -381,7 +391,24 @@
       "canvas:Nieuw doek aanmaken": false,
       "daily-notes:Open de notitie van vandaag": false,
       "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false
+      "command-palette:Open opdrachtenpaneel": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:QuickAdd: Actieregel": false,
+      "cmdr:QuickAdd: QuickNote": false,
+      "cmdr:QuickAdd: Dagboek": false,
+      "cmdr:Archiver: Archive tasks in this file": false,
+      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
+      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
+      "cmdr:Templater: Open Insert Template modal": false,
+      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
+      "cmdr:Open instellingen": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "0532dad3c5282889",
