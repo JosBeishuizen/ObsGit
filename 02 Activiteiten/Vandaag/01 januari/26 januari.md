@@ -23,3 +23,4 @@ sort by priority
 ### 18:28 Zijn we eruit?  
 ### 18:32 Eigenlijk is Obsidian mooier dan LogSeq  
 - [x] sync probleem oplossen ✅ 2025-01-26
+### 22:37 Nu ter kooi en nog even lezen
