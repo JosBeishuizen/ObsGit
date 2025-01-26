@@ -9,7 +9,8 @@
 - [ ] Geert 🔁 every year 📅 2025-01-20
 - [ ] Teun 1951 🔁 every year 📅 2025-01-22
 - [ ] Toon 1987 🔁 every year 📅 2025-01-24
-- [ ] Robert 🔁 every year ➕ 2024-01-26 📅 2025-01-26
+- [ ] Robert 🔁 every year 📅 2026-01-26
+- [x] Robert 🔁 every year ➕ 2024-01-26 📅 2025-01-26 ✅ 2025-01-26
 - [ ] Roos 2000 🔁 every year 📅 2025-01-27
 - [ ] Francien 🔁 every year ➕ 2024-01-30 📅 2025-01-30
 - [ ] Sietske 1992 🔁 every year 📅 2025-02-06

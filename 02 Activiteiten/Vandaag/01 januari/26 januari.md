@@ -20,3 +20,6 @@ sort by priority
 ```
 ### 09:07  Doet alles het hier?
 ### 18:15 Het lijkt of alles weer werkt. 
+### 18:28 Zijn we eruit?  
+### 18:32 Eigenlijk is Obsidian mooier dan LogSeq  
+- [x] sync probleem oplossen ✅ 2025-01-26
