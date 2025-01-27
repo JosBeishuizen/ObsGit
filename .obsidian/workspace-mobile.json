@@ -305,12 +305,22 @@
         "state": {
           "type": "file-tree-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plug-in niet meer actief"
+        }
+      },
+      {
+        "id": "506df3fe74a6c9f9",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
           "icon": "sheets-in-box",
           "title": "File Tree"
         }
       }
     ],
-    "currentTab": 22
+    "currentTab": 23
   },
   "right": {
     "id": "493d7a77a45900e3",
@@ -413,6 +423,8 @@
   },
   "active": "0532dad3c5282889",
   "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/01 januari/27 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/26 januari.md",
     "03 Geheugen/Poëzie/Kafavis K.P. - Ithaka.md",
     "03 Geheugen/Dagboek/2013/0517 vrijdag 17 mei 2013.md",
     "03 Geheugen/Dagboek/2011/0727 woensdag 27 juli 2011.md",
@@ -447,8 +459,6 @@
     "01 Algemeen/Attachments/Afbeeldingen/IMG_20230926_182525_1736517362191.jpg",
     "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate.md",
     "02 Activiteiten/Vandaag/01 januari/8 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/7 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/6 januari.md",
     "02 Activiteiten/Sportief",
     "Search results - Evernote.pdf",
     "Search results - Evernote.html",
