@@ -14,7 +14,7 @@
         "template": "03 Geheugen/Digitaal/Templates/Daily.md"
       },
       "format": {
-        "enabled": true,
+        "enabled": false,
         "format": "<% tp.date.now(\"### HH:mm\") %> {{value}}  "
       },
       "insertAfter": {
