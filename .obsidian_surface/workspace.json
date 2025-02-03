@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Berlage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad142502449017d3",
+  "active": "817f63c08a2a5720",
   "lastOpenFiles": [
-    "02 Activiteiten/Vandaag/01 januari/14 januari.md",
     "02 Activiteiten/Vandaag/01 januari/15 januari.md",
+    "02 Activiteiten/Vandaag/01 januari/14 januari.md",
     "02 Activiteiten/Vandaag/01 januari/13 januari.md",
     "02 Activiteiten/Vandaag/01 januari/11 januari.md",
     "02 Activiteiten/Vandaag/01 januari/12 januari.md",
