@@ -18,3 +18,4 @@ hide edit button
 hide postpone button 
 sort by priority 
 ```
+23:20 Nu moet de zaak in orde zijn. 
