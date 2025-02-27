@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "1db2525d27984461",
+    "id": "b0fc87d377fdc874",
     "type": "split",
     "children": [
       {
-        "id": "750afc9e6abefe24",
+        "id": "56b41d68b388de4b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad142502449017d3",
+            "id": "8b1a3e4617fcb40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Activiteiten/Vandaag/01 januari/15 januari.md",
+                "file": "02 Activiteiten/Vandaag/02 februari/27 februari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 januari"
+              "title": "27 februari"
             }
           }
         ]
@@ -27,27 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "685f531e6f6ca69d",
+    "id": "be042527db6fbf88",
     "type": "split",
     "children": [
       {
-        "id": "a0d218e860603862",
+        "id": "d9bc7f4a18bae8a9",
         "type": "tabs",
         "children": [
           {
-            "id": "6b7bdd2396ce542c",
+            "id": "4e63ca959a04b1e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Verkenner"
             }
           },
           {
-            "id": "817f63c08a2a5720",
+            "id": "534033b6313b51c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,46 +61,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Zoeken"
+              "title": "Search"
             }
           },
           {
-            "id": "d57efc487c33ab52",
+            "id": "a966be0a3e53ae6b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bladwijzers"
-            }
-          },
-          {
-            "id": "8c5180d3f03d46bf",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "f21e0d3067ee330b",
+    "id": "c887beb7aaa0a88c",
     "type": "split",
     "children": [
       {
-        "id": "20a742c3f4533013",
+        "id": "00f23b5d6594a961",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8652f6413007fa",
+            "id": "050d43d16c7b6b0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzing"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a0572dc80c062104",
+            "id": "f16a283f8a1015a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -126,68 +116,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Uitgaande verwijzingen"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ac768a9d0ef1e2c3",
+            "id": "48a3ed23b1a7533f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Labels"
-            }
-          },
-          {
-            "id": "4f2fad47d71ea7ad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Overzicht"
-            }
-          },
-          {
-            "id": "b67ca56efc90486c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Alle eigenschappen"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "25769fc8f5ac4ebd",
+            "id": "d6e5eef4ce2eaa6e",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "5fe3d2f3c1fac768",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plug-in niet meer actief"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,85 +157,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "completed-task-display:Task Hider": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "switcher:Open snel wisselen": false,
       "graph:Open grafiek weergave": false,
       "canvas:Nieuw doek aanmaken": false,
       "daily-notes:Open de notitie van vandaag": false,
       "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false,
-      "cmdr:QuickAdd: Actieregel": false,
-      "cmdr:QuickAdd: QuickNote": false,
-      "cmdr:QuickAdd: Dagboek": false,
-      "cmdr:Archiver: Archive tasks in this file": false,
-      "cmdr:Templater: Insert 03 Geheugen/Digitaal/Templates/Create Task Note.md": false,
-      "cmdr:Hotkeys for specific files: Open 01 Algemeen/Planning/Taken/Inbox": false,
-      "cmdr:Tasks: Create or edit task": false,
-      "cmdr:Templater: Open Insert Template modal": false,
-      "cmdr:TimeStamper: Insert preconfigured time stamp": false,
-      "cmdr:Open instellingen": false
+      "command-palette:Open opdrachtenpaneel": false
     }
   },
-  "active": "ad142502449017d3",
-  "lastOpenFiles": [
-    "02 Activiteiten/Vandaag/01 januari/14 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/15 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/13 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/11 januari.md",
-    "02 Activiteiten/Vandaag/01 januari/12 januari.md",
-    "Conflicts.md",
-    "conflict-files-obsidian-git.md",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/18 Hark! The herald angels sing.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/17 He is born the divine Christchild.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/16 Shepherd's pipe carol.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/15 Up! Good Christen folk, and listen.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/14 Unto us is born a Son.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/13 O men from the fields.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/10 Personent hodie.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/09 Away in a manger.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/07 In the bleak midwinter.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Elburg/05 The infant King.mp3",
-    "03 Geheugen/Muziek/Luisteren/Kerst/Kerstmuziek.md",
-    "03 Geheugen/Muziek/Luisteren/Kerst/02 O come, all faithful.mp3.md",
-    "03 Geheugen/Gezondheid /Zitten/staan & staan/Zitten na staan en staan na zitten.md",
-    "03 Geheugen/Digitaal/Templates/ax3.md",
-    "03 Geheugen/Digitaal/Templates/ax2.md",
-    "03 Geheugen/Digitaal/Templates/Random Quote.md",
-    "03 Geheugen/Digitaal/Templates/Oude dagtemplate.md",
-    "03 Geheugen/Digitaal/Templates/Nieuwe dagtemplate.md",
-    "03 Geheugen/Digitaal/Templates/Fill Task Note.md",
-    "03 Geheugen/Digitaal/Templates/Daily.md",
-    "03 Geheugen/Digitaal/Templates/Daily met taken.md",
-    "03 Geheugen/Digitaal/Templates/Dagboek.md",
-    "03 Geheugen/Digitaal/Templates/Create Task Note.md",
-    "03 Geheugen/Digitaal/Templates/Basic Note.md",
-    "03 Geheugen/Digitaal/Digitaal/root password resetten.md",
-    "03 Geheugen/Digitaal/Digitaal/google-drive.service.md",
-    "03 Geheugen/Digitaal/Digitaal/e-mail VU.md",
-    "03 Geheugen/Digitaal/Digitaal/Videoclip opnemen.md",
-    "03 Geheugen/Digitaal/Digitaal/Unicode tekens.md",
-    "03 Geheugen/Dagboek/2022/0818 donderdag 18 augustus 2022.png",
-    "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
-    "01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",
-    "01 Algemeen/Werkbladen/Learning & Instruction/Learning & Instruction.canvas",
-    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736517361286.jpg",
-    "01 Algemeen/Attachments/Afbeeldingen/share4875796548956615699_1736419386586.jpg",
-    "01 Algemeen/Attachments/Afbeeldingen/portret-papieza-innocentego-x-diego-velazquez-galleria-doria-pamphilj-zdj-wikipedia-Rome-5b7eb52904cd6.jpeg",
-    "01 Algemeen/Attachments/Afbeeldingen/image002.png",
-    "01 Algemeen/Attachments/Afbeeldingen/image002 1.png",
-    "01 Algemeen/Attachments/Afbeeldingen/image.jpg",
-    "01 Algemeen/Attachments/Afbeeldingen/image-7dd6243e-7c07-4b62-904e-fdf502d138404643845999944171393.jpg",
-    "01 Algemeen/Attachments/Afbeeldingen/ebook_reader.png",
-    "01 Algemeen/Attachments/Afbeeldingen/a1_sd_bench.png",
-    "ObsGit/01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
-    "ObsGit/01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",
-    "ObsGit/01 Algemeen/Werkbladen/Learning & Instruction/Learning & Instruction.canvas"
-  ]
+  "active": "8b1a3e4617fcb40c",
+  "lastOpenFiles": []
 }

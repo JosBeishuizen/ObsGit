@@ -1,6 +1,0 @@
-{
-  "font": "Bitter-Regular.ttf",
-  "force_mode": true,
-  "custom_css_mode": false,
-  "custom_css": ":root * {\n\t\t--font-default: Bitter-Regular;\n\t\t--default-font: Bitter-Regular;\n\t\t--font-family-editor: Bitter-Regular;\n\t\t--font-monospace-default: Bitter-Regular,\n\t\t--font-interface-override: Bitter-Regular,\n\t\t--font-text-override: Bitter-Regular,\n\t\t--font-monospace-override: Bitter-Regular,\t\n\t}\n"
-}
