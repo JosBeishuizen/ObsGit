@@ -11,14 +11,10 @@
             "id": "6bef44431144e392",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Activiteiten/Vandaag/02 februari/27 februari.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "27 februari"
+              "title": "Nieuw tabblad"
             }
           }
         ]
@@ -222,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bef44431144e392",
+  "active": "5fe3d2f3c1fac768",
   "lastOpenFiles": [
     "02 Activiteiten/Vandaag/02 februari/27 februari.md",
     "02 Activiteiten/Vandaag/02 februari/3 februari.md",
