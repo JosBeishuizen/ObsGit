@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Activiteiten/Vandaag/02 februari/27 februari.md",
-                "mode": "source",
-                "source": false
+                "file": "02 Activiteiten/Vandaag/03 maart/2 maart.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "27 februari"
+              "title": "2 maart"
             }
           }
         ]
@@ -82,9 +82,19 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "5e5fd21e4629e0d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,8 +182,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -191,24 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "completed-task-display:Task Hider": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "switcher:Open snel wisselen": false,
       "graph:Open grafiek weergave": false,
       "canvas:Nieuw doek aanmaken": false,
       "daily-notes:Open de notitie van vandaag": false,
       "templates:Sjabloon invoegen": false,
       "command-palette:Open opdrachtenpaneel": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "cmdr:QuickAdd: Actieregel": false,
       "cmdr:QuickAdd: QuickNote": false,
       "cmdr:QuickAdd: Dagboek": false,
@@ -219,11 +224,18 @@
       "cmdr:Templater: Open Insert Template modal": false,
       "cmdr:TimeStamper: Insert preconfigured time stamp": false,
       "cmdr:Open instellingen": false,
+      "completed-task-display:Task Hider": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "6bef44431144e392",
   "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/03 March/2 March.md",
     "02 Activiteiten/Vandaag/02 februari/27 februari.md",
     "02 Activiteiten/Vandaag/02 februari/3 februari.md",
     "02 Activiteiten/Vandaag/01 januari/15 januari.md",
@@ -259,7 +271,6 @@
     "03 Geheugen/Digitaal/Templates/Basic Note.md",
     "03 Geheugen/Digitaal/Digitaal/root password resetten.md",
     "03 Geheugen/Digitaal/Digitaal/google-drive.service.md",
-    "03 Geheugen/Digitaal/Digitaal/e-mail VU.md",
     "03 Geheugen/Dagboek/2022/0818 donderdag 18 augustus 2022.png",
     "01 Algemeen/Werkbladen/Planning Thuis/Planning Thuis.canvas",
     "01 Algemeen/Werkbladen/Planning Ekklesia/Planning Ekklesia.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Activiteiten/Vandaag/02 februari/27 februari.md",
+                "file": "02 Activiteiten/Vandaag/03 March/2 March.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27 februari"
+              "title": "2 March"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Verkenner"
+              "title": "Files"
             }
           },
           {
@@ -157,14 +157,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open snel wisselen": false,
-      "graph:Open grafiek weergave": false,
-      "canvas:Nieuw doek aanmaken": false,
-      "daily-notes:Open de notitie van vandaag": false,
-      "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "8b1a3e4617fcb40c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "02 Activiteiten/Vandaag/02 februari/27 februari.md",
+    "02 Activiteiten/Vandaag/03 March/2 March.md",
+    "02 Activiteiten/Vandaag/03 March"
+  ]
 }
