@@ -1,10 +1,10 @@
-# <% tp.date.now("dddd",0,tp.file.title,"D MMMM") %> <% tp.file.title %> <% tp.date.now("YYYY")%>
+# zondag 2 March 2025
 
-⛅ , °<br>[[<% tp.date.now("D MMMM",-1,tp.file.title,"D MMMM")  %>]][[03 Geheugen/Dagboek/<% tp.date.now("YYYY/MMDD dddd D MMMM YYYY",0,tp.file.title,"D MMMM") %>| 📓 ]][[<% tp.date.now("D MMMM",1,tp.file.title,"D MMMM")  %>]]<%* let today = tp.date.now("YYYY-MM-DD",  0, tp.file.title, "D MMMM") %>
-<% tp.file.include("[[Random Quote]]") %>
+⛅ , °<br>[[1 maart]][[03 Geheugen/Dagboek/2025/0302 zondag 2 maart 2025| 📓 ]][[3 maart]]
+[[☀️ Angst beteugelen - Albert Camus]]
 ```tasks
 (path includes Algemeen)
-((due on <% today %>) OR ((due before <% today %>) AND NOT (is recurring))) AND NOT (done before <% today %>) AND NOT (created <% today %>)
+((due on 2025-03-02) OR ((due before 2025-03-02) AND NOT (is recurring))) AND NOT (done before 2025-03-02) AND NOT (created 2025-03-02)
 # not done
 hide due date
 hide start date
