@@ -1,6 +1,6 @@
 # maandag 3 maart 2025
 
-⛅ zon, °<br>[[2 maart]][[03 Geheugen/Dagboek/2025/0303 maandag 3 maart 2025| 📓 ]][[4 maart]]
+⛅ zon, 10°<br>[[2 maart]][[03 Geheugen/Dagboek/2025/0303 maandag 3 maart 2025| 📓 ]][[4 maart]]
 [[☀️ Huub Oosterhuis over liefde]]
 ```tasks
 (path includes Algemeen)
